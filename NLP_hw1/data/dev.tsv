@@ -1,0 +1,14281 @@
+#	id	0
+on	O
+the	O
+day	O
+of	O
+the	O
+referendum	O
+michael	B-PER
+ashcroft	I-PER
+polling	O
+team	O
+questioned	O
+12,369	O
+people	O
+who	O
+had	O
+completed	O
+voting	O
+.	O
+
+#	id	1
+rpms	O
+are	O
+often	O
+collected	O
+centrally	O
+in	O
+one	O
+or	O
+more	O
+software	B-CW
+repository	I-CW
+on	O
+the	O
+internet	O
+.	O
+
+#	id	2
+in	O
+1991	O
+he	O
+played	O
+for	O
+two	O
+teams	O
+,	O
+the	O
+orlando	B-GRP
+predators	I-GRP
+and	O
+the	O
+dallas	B-GRP
+texans	I-GRP
+.	O
+
+#	id	3
+the	O
+original	O
+game	O
+was	O
+released	O
+for	O
+ms-dos	B-CW
+first	O
+,	O
+then	O
+commodore	B-PROD
+amiga	I-PROD
+,	O
+amiga	B-PROD
+cd32	I-PROD
+,	O
+apple	B-PROD
+macintosh	I-PROD
+,	O
+sega	B-PROD
+saturn	I-PROD
+and	O
+playstation	B-PROD
+.	O
+
+#	id	4
+it	O
+was	O
+the	O
+seventh	O
+edition	O
+conducted	O
+by	O
+the	O
+united	B-GRP
+states	I-GRP
+golf	I-GRP
+association	I-GRP
+(	O
+usga	O
+)	O
+.	O
+
+#	id	5
+tom	B-PER
+fogerty	I-PER
+–	O
+rhythm	O
+guitar	O
+,	O
+backing	O
+vocals	O
+(	O
+1967	O
+–	O
+1971	O
+;	O
+died	O
+1990	O
+)	O
+
+#	id	6
+isabel	B-PER
+mclaughlin	I-PER
+(	O
+1903	O
+–	O
+2002	O
+)	O
+–	O
+artist	O
+,	O
+patron	O
+and	O
+philanthropist	O
+;	O
+member	O
+of	O
+the	O
+canadian	B-GRP
+group	I-GRP
+of	I-GRP
+painters	I-GRP
+
+#	id	7
+he	O
+has	O
+fought	O
+in	O
+many	O
+well	O
+known	O
+mixed	O
+martial	O
+arts	O
+organizations	O
+as	O
+shooto	B-CORP
+,	O
+deep	B-CORP
+and	O
+bellator	B-GRP
+mma	I-GRP
+.	O
+
+#	id	8
+on	O
+pickup	B-PROD
+truck	I-PROD
+it	O
+is	O
+sometimes	O
+called	O
+a	O
+dually	O
+.	O
+
+#	id	9
+she	O
+was	O
+research	O
+fellow	O
+at	O
+somerville	B-LOC
+college	I-LOC
+from	O
+1957	O
+until	O
+1960	O
+.	O
+
+#	id	10
+christina	B-PER
+aguilera	I-PER
+,	O
+pink	B-PER
+,	O
+lil'	B-PER
+kim	I-PER
+and	O
+mýa	B-PER
+–	O
+lady	B-CW
+marmalade	I-CW
+
+#	id	11
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+1982	O
+.	O
+
+#	id	12
+often	O
+contracted	O
+as	O
+tu	O
+,	O
+the	O
+organization	O
+began	O
+in	O
+1959	O
+in	O
+michigan	B-LOC
+.	O
+
+#	id	13
+she	O
+studied	O
+chemistry	O
+at	O
+the	O
+vietnam	B-GRP
+national	I-GRP
+university	I-GRP
+,	O
+which	O
+she	O
+graduated	O
+in	O
+1992	O
+.	O
+
+#	id	14
+coldspring	O
+shares	O
+its	O
+western	O
+border	O
+with	O
+the	O
+towns	O
+of	O
+south	B-LOC
+valley	I-LOC
+and	O
+randolph	B-LOC
+.	O
+
+#	id	15
+the	O
+film	O
+garnered	O
+a	O
+33	O
+%	O
+approval	O
+rating	O
+from	O
+6	O
+critics	O
+–	O
+a	O
+mixed	O
+to	O
+negative	O
+rating	O
+of	O
+4.1	O
+out	O
+of	O
+10	O
+–	O
+on	O
+the	O
+review	O
+aggregate	O
+website	O
+rotten	B-CORP
+tomatoes	I-CORP
+.	O
+
+#	id	16
+the	O
+2018	O
+expansion	O
+team	O
+,	O
+los	B-GRP
+angeles	I-GRP
+fc	I-GRP
+,	O
+had	O
+selection	O
+23	O
+.	O
+
+#	id	17
+in	O
+1882	O
+he	O
+planted	O
+rubber	O
+seeds	O
+and	O
+grew	O
+seven	O
+trees	O
+at	O
+the	O
+gardens	O
+at	O
+kuala	B-LOC
+kangsar	I-LOC
+.	O
+
+#	id	18
+some	O
+populations	O
+are	O
+still	O
+considerably	O
+worse	O
+off	O
+today	O
+than	O
+they	O
+were	O
+in	O
+1989	O
+(	O
+e.g.	O
+moldova	B-LOC
+,	O
+serbia	B-LOC
+)	O
+.	O
+
+#	id	19
+it	O
+flows	O
+into	O
+the	O
+usa	B-LOC
+near	O
+friedberg	B-LOC
+.	O
+
+#	id	20
+the	O
+refreshing	O
+sight	O
+and	O
+sound	O
+of	O
+the	O
+splashing	O
+fountains	O
+and	O
+cascades	O
+and	O
+the	O
+luxuriant	O
+gardens	O
+must	O
+have	O
+provided	O
+a	O
+welcome	O
+relief	O
+from	O
+the	O
+heat	O
+of	O
+the	O
+tunisia	B-LOC
+summer	O
+.	O
+
+#	id	21
+it	O
+was	O
+acquired	O
+by	O
+hewlett-packard	B-CORP
+in	O
+2007	O
+.	O
+
+#	id	22
+achema	B-CORP
+,	O
+the	O
+largest	O
+fertilizer	O
+factory	O
+in	O
+the	O
+baltic	B-LOC
+states	I-LOC
+,	O
+is	O
+located	O
+nearby	O
+.	O
+
+#	id	23
+ruehl	O
+is	O
+known	O
+for	O
+her	O
+leading	O
+performance	O
+in	O
+the	O
+play	O
+lost	B-CW
+in	I-CW
+yonkers	I-CW
+and	O
+supporting	O
+performance	O
+in	O
+the	O
+film	O
+the	B-CW
+fisher	I-CW
+king	I-CW
+.	O
+
+#	id	24
+çeştepe	O
+is	O
+a	O
+town	O
+in	O
+the	O
+central	O
+district	O
+of	O
+aydın	B-LOC
+province	I-LOC
+,	O
+turkey	B-LOC
+.	O
+
+#	id	25
+an	O
+image	O
+is	O
+called	O
+a	O
+true	O
+color	O
+image	O
+when	O
+it	O
+offers	O
+a	O
+natural	O
+color	B-PROD
+rendition	O
+,	O
+or	O
+when	O
+it	O
+comes	O
+close	O
+to	O
+it	O
+.	O
+
+#	id	26
+however	O
+,	O
+large	O
+,	O
+heavy	O
+components	O
+like	O
+generator	O
+,	O
+gearbox	O
+,	O
+blades	O
+,	O
+and	O
+so	O
+on	O
+are	O
+rarely	O
+replaced	O
+,	O
+and	O
+a	O
+mobile	B-PROD
+crane	I-PROD
+is	O
+needed	O
+in	O
+those	O
+cases	O
+.	O
+
+#	id	27
+science	O
+and	O
+the	O
+human	O
+temperament	O
+allen	B-CORP
+&	I-CORP
+unwin	I-CORP
+,	O
+translated	O
+and	O
+introduced	O
+by	O
+james	B-PER
+vincent	I-PER
+murphy	I-PER
+,	O
+with	O
+a	O
+foreword	O
+by	O
+ernest	B-PER
+rutherford	I-PER
+
+#	id	28
+the	O
+oldest	O
+of	O
+three	O
+siblings	O
+,	O
+she	O
+grew	O
+up	O
+in	O
+the	O
+nearby	O
+delta	O
+town	O
+of	O
+hinthada	B-LOC
+(	O
+hinthada	O
+)	O
+,	O
+before	O
+moving	O
+to	O
+yangon	B-LOC
+(	O
+yangon	O
+)	O
+as	O
+a	O
+teenager	O
+.	O
+
+#	id	29
+he	O
+showed	O
+the	O
+script	O
+to	O
+his	O
+literary	O
+agent	O
+who	O
+gave	O
+it	O
+to	O
+mike	B-PER
+medavoy	I-PER
+who	O
+attached	O
+director	O
+karel	B-PER
+reisz	I-PER
+.	O
+
+#	id	30
+we	O
+only	O
+want	O
+four	O
+or	O
+five	O
+sarong	B-PROD
+,	O
+we	O
+do	O
+nt	O
+need	O
+trousers	O
+.	O
+
+#	id	31
+in	O
+2006	O
+,	O
+aged	O
+16	O
+,	O
+štěch	O
+signed	O
+for	O
+premier	B-CORP
+league	I-CORP
+club	O
+west	B-GRP
+ham	I-GRP
+united	I-GRP
+f.c.	I-GRP
+for	O
+an	O
+undisclosed	O
+fee	O
+.	O
+
+#	id	32
+the	O
+g	O
+day	O
+:	O
+viktor	B-PER
+orbán	I-PER
+cuts	O
+ties	O
+with	O
+lajos	B-PER
+simicska	I-PER
+,	O
+former	O
+economic	O
+ally	O
+.	O
+
+#	id	33
+phaedra	O
+(	O
+monodrama	O
+for	O
+mezzo	O
+soprano	O
+and	O
+orchestra	O
+)	O
+by	O
+george	B-PER
+rochberg	I-PER
+,	O
+1973	O
+–	O
+1974	O
+
+#	id	34
+floppy	B-PROD
+disk	I-PROD
+drives	O
+are	O
+rarely	O
+fitted	O
+to	O
+modern	O
+computers	O
+and	O
+are	O
+obsolete	O
+for	O
+normal	O
+purposes	O
+,	O
+although	O
+internal	O
+and	O
+external	O
+drives	O
+can	O
+be	O
+fitted	O
+if	O
+required	O
+.	O
+
+#	id	35
+while	O
+they	O
+raised	O
+three	O
+children	O
+,	O
+she	O
+taught	O
+part	O
+time	O
+for	O
+the	O
+workers'	B-GRP
+educational	I-GRP
+association	I-GRP
+and	O
+began	O
+a	O
+writing	O
+career	O
+that	O
+lasted	O
+into	O
+the	O
+1980s	O
+.	O
+
+#	id	36
+present	O
+south	O
+and	O
+west	O
+of	O
+a	O
+line	O
+drawn	O
+from	O
+syracuse	B-LOC
+to	O
+cefalù	B-LOC
+.	O
+
+#	id	37
+versions	O
+have	O
+been	O
+created	O
+for	O
+the	O
+playstation	B-CW
+portable	I-CW
+,	O
+game	B-CW
+boy	I-CW
+advance	I-CW
+,	O
+and	O
+nintendo	B-CW
+ds	I-CW
+platforms	O
+.	O
+
+#	id	38
+eicher	O
+,	O
+john	O
+h	O
+.	O
+,	O
+and	O
+david	B-PER
+j.	I-PER
+eicher	I-PER
+,	O
+civil	O
+war	O
+high	O
+commands	O
+.	O
+
+#	id	39
+they	O
+were	O
+first	O
+synthesized	O
+by	O
+alexander	B-PER
+shulgin	I-PER
+and	O
+written	O
+up	O
+in	O
+his	O
+book	O
+pihkal	B-CW
+.	O
+
+#	id	40
+other	O
+stations	O
+within	O
+the	O
+limits	O
+of	O
+the	O
+municipality	O
+are	O
+'s-hertogenbosch	B-LOC
+oost	I-LOC
+railway	I-LOC
+station	I-LOC
+and	O
+rosmalen	B-LOC
+railway	I-LOC
+station	I-LOC
+.	O
+
+#	id	41
+because	O
+they	O
+go	O
+canvassing	B-GRP
+,	O
+they	O
+are	O
+able	O
+to	O
+reach	O
+beyond	O
+established	O
+organizations	O
+and	O
+the	O
+churched	O
+to	O
+bring	O
+together	O
+a	O
+wide	O
+range	O
+of	O
+less	O
+privileged	O
+people	O
+.	O
+
+#	id	42
+salamucha	O
+was	O
+sent	O
+to	O
+sachsenhausen	B-LOC
+concentration	I-LOC
+camp	I-LOC
+in	O
+1940	O
+.	O
+
+#	id	43
+charlie	B-PER
+brooker	I-PER
+stated	O
+in	O
+an	O
+interview	O
+that	O
+this	O
+episode	O
+influenced	O
+fifteen	B-CW
+million	I-CW
+merits	I-CW
+,	O
+an	O
+episode	O
+of	O
+his	O
+anthology	B-CW
+series	I-CW
+,	O
+black	B-CW
+mirror	I-CW
+.	O
+
+#	id	44
+ldi	O
+is	O
+a	O
+full	O
+service	O
+pharmacy	O
+benefit	O
+manager	O
+based	O
+in	O
+st.	B-LOC
+louis	I-LOC
+.	O
+
+#	id	45
+she	O
+is	O
+notorious	O
+for	O
+fashioning	O
+her	O
+beard	O
+to	O
+imitate	O
+that	O
+of	O
+napoleon	B-PER
+iii	I-PER
+.	O
+
+#	id	46
+she	O
+was	O
+one	O
+of	O
+the	O
+most	O
+popular	O
+singers	O
+in	O
+poland	B-LOC
+in	O
+the	O
+1950s	O
+.	O
+
+#	id	47
+us	B-CW
+and	I-CW
+them	I-CW
+(	O
+godflesh	B-GRP
+cover	O
+)	O
+–	O
+5	O
+:	O
+35	O
+
+#	id	48
+the	O
+series	O
+attracted	O
+guests	O
+such	O
+as	O
+bill	B-PER
+cosby	I-PER
+,	O
+debbie	B-PER
+harry	I-PER
+,	O
+billy	B-PER
+dee	I-PER
+williams	I-PER
+,	O
+cheap	B-GRP
+trick	I-GRP
+,	O
+patti	B-PER
+smith	I-PER
+and	O
+brooke	B-PER
+shields	I-PER
+.	O
+
+#	id	49
+2018	O
+–	O
+al-hilal	B-GRP
+fc	I-GRP
+(	O
+appeal	O
+won	O
+by	O
+al	B-GRP
+merreikh	I-GRP
+fc	I-GRP
+,	O
+but	O
+later	O
+overturned	O
+by	O
+south	O
+sudan	O
+football	O
+association	O
+)	O
+
+#	id	50
+their	O
+music	O
+was	O
+compared	O
+to	O
+dead	B-GRP
+can	I-GRP
+dance	I-GRP
+and	O
+modest	B-PER
+petrovich	I-PER
+mussorgsky	I-PER
+,	O
+especially	O
+his	O
+composition	O
+the	B-CW
+nursery	I-CW
+.	O
+
+#	id	51
+don't	B-CW
+speak	I-CW
+by	O
+no	B-GRP
+doubt	I-GRP
+–	O
+(	O
+top	O
+8	O
+)	O
+
+#	id	52
+the	O
+school	O
+'s	O
+corridor	O
+is	O
+modeled	O
+after	O
+the	O
+corridor	O
+of	O
+an	O
+abbey	B-GRP
+in	O
+the	O
+region	O
+.	O
+
+#	id	53
+north	O
+started	O
+the	O
+webcomic	O
+dinosaur	B-CW
+comics	I-CW
+in	O
+2003	O
+,	O
+during	O
+the	O
+last	O
+year	O
+of	O
+his	O
+undergraduate	O
+degree	O
+.	O
+
+#	id	54
+he	O
+also	O
+modelled	O
+a	O
+complete	O
+course	O
+of	O
+fortification	O
+(	O
+92	O
+models	O
+)	O
+,	O
+which	O
+he	O
+offered	O
+to	O
+the	O
+committee	B-GRP
+of	I-GRP
+public	I-GRP
+safety	I-GRP
+.	O
+
+#	id	55
+it	O
+is	O
+considered	O
+the	O
+most	O
+notable	O
+ancient	O
+structure	O
+on	O
+tel	B-LOC
+rumeida	I-LOC
+.	O
+
+#	id	56
+pindjur	O
+is	O
+similar	O
+to	O
+ajvar	B-PROD
+but	O
+is	O
+generally	O
+made	O
+with	O
+eggplants	O
+.	O
+
+#	id	57
+infant	B-PROD
+formula	I-PROD
+,	O
+a	O
+food	O
+for	O
+infants	O
+
+#	id	58
+mikael	B-PER
+pernfors	I-PER
+(	O
+fourth	O
+round	O
+,	O
+lost	O
+to	O
+boris	B-PER
+becker	I-PER
+)	O
+
+#	id	59
+she	O
+also	O
+worked	O
+on	O
+excavating	O
+artifacts	O
+related	O
+to	O
+the	O
+gortyn	B-CW
+code	I-CW
+and	O
+is	O
+most	O
+noted	O
+for	O
+her	O
+publications	O
+regarding	O
+that	O
+inscription	O
+.	O
+
+#	id	60
+he	O
+was	O
+created	O
+by	O
+robert	B-PER
+bernstein	I-PER
+and	O
+kurt	B-PER
+schaffenberger	I-PER
+.	O
+
+#	id	61
+he	O
+has	O
+adapted	O
+a	O
+number	O
+of	O
+poet	O
+nick	B-PER
+flynn	I-PER
+pieces	O
+into	O
+comics	O
+,	O
+which	O
+have	O
+appeared	O
+in	O
+various	O
+literary	O
+journals	O
+and	O
+websites	O
+.	O
+
+#	id	62
+exclaim!	B-CW
+,	O
+reviewing	O
+the	O
+reissue	O
+,	O
+called	O
+it	O
+a	O
+dopey	O
+and	O
+young	O
+record	O
+that	O
+basically	O
+defies	O
+serious	O
+criticism	O
+.	O
+
+#	id	63
+dosco	O
+was	O
+purchased	O
+in	O
+1957	O
+by	O
+avro	B-CORP
+canada	I-CORP
+and	O
+made	O
+a	O
+subsidiary	O
+.	O
+
+#	id	64
+pratt	O
+founded	O
+the	O
+pratt	B-GRP
+institute	I-GRP
+in	O
+1887	O
+,	O
+and	O
+its	O
+campus	O
+remains	O
+a	O
+focus	O
+of	O
+the	O
+neighborhood	O
+.	O
+
+#	id	65
+she	O
+had	O
+four	O
+masts	O
+and	O
+was	O
+rigged	O
+as	O
+a	O
+barque	O
+,	O
+with	O
+royal	B-PROD
+over	O
+double	O
+topsail	B-PROD
+and	O
+topgallant	B-PROD
+sail	I-PROD
+.	O
+
+#	id	66
+the	O
+group	O
+has	O
+also	O
+made	O
+25	O
+music	B-CW
+video	I-CW
+of	O
+their	O
+songs	O
+.	O
+
+#	id	67
+the	O
+latter	O
+was	O
+released	O
+by	O
+vanguard	B-CORP
+records	I-CORP
+.	O
+
+#	id	68
+ric	B-PER
+ocasek	I-PER
+–	O
+lead	O
+and	O
+backing	O
+vocals	O
+,	O
+rhythm	O
+guitar	O
+,	O
+keyboards	O
+
+#	id	69
+fuel	B-PROD
+cell	I-PROD
+vehicle	I-PROD
+(	O
+fcvs	O
+or	O
+fcevs	O
+)	O
+also	O
+allow	O
+running	O
+on	O
+(	O
+some	O
+)	O
+non	O
+fossil	O
+fuels	O
+(	O
+i.e.	O
+,	O
+hydrogen	O
+,	O
+ethanol	O
+,	O
+methanol	O
+,	O
+.	O
+.	O
+.	O
+)	O
+.	O
+
+#	id	70
+chicago	O
+'s	O
+loyola	B-GRP
+university	I-GRP
+chicago	I-GRP
+sets	O
+an	O
+example	O
+for	O
+public	O
+transit	O
+as	O
+well	O
+with	O
+its	O
+variety	O
+of	O
+transportation	O
+options	O
+.	O
+
+#	id	71
+the	O
+building	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2020	O
+.	O
+
+#	id	72
+the	O
+last	O
+version	O
+to	O
+include	O
+i2p	B-CW
+
+#	id	73
+in	O
+2012	O
+it	O
+was	O
+also	O
+covered	O
+by	O
+therion	B-GRP
+on	O
+their	O
+album	O
+les	B-CW
+fleurs	I-CW
+du	I-CW
+mal	I-CW
+.	O
+
+#	id	74
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+the	O
+film	O
+has	O
+an	O
+approval	O
+rating	O
+of	O
+66	O
+%	O
+based	O
+on	O
+127	O
+reviews	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+6.07	O
+/	O
+10	O
+.	O
+
+#	id	75
+after	O
+studying	O
+law	O
+at	O
+university	B-GRP
+of	I-GRP
+paris	I-GRP
+in	O
+paris	B-LOC
+from	O
+1955	O
+to	O
+1965	O
+,	O
+he	O
+earned	O
+a	O
+ph	O
+.	O
+d	O
+.	O
+in	O
+1966	O
+.	O
+
+#	id	76
+peter	B-PER
+b.	I-PER
+kyne	I-PER
+spanish	O
+–	O
+american	O
+war	O
+veteran	O
+(	O
+philippines	O
+)	O
+;	O
+prolific	O
+western	O
+author	O
+.	O
+
+#	id	77
+sultan	O
+is	O
+a	O
+village	O
+in	O
+the	O
+bolu	B-LOC
+,	O
+bolu	B-LOC
+province	I-LOC
+,	O
+turkey	B-LOC
+.	O
+
+#	id	78
+cafritz	O
+was	O
+the	O
+first	O
+collector	O
+for	O
+many	O
+visual	O
+artists	O
+and	O
+has	O
+sponsored	O
+many	O
+projects	O
+including	O
+spike	B-PER
+lee	I-PER
+malcolm	B-CW
+x	I-CW
+.	O
+
+#	id	79
+hospitalfield	B-LOC
+house	I-LOC
+,	O
+a	O
+baronial	O
+mansion	O
+to	O
+the	O
+west	O
+of	O
+the	O
+town	O
+,	O
+houses	O
+an	O
+educational	O
+charity	O
+promoting	O
+contemporary	O
+arts	O
+.	O
+
+#	id	80
+9	O
+–	O
+sam	B-PER
+allardyce	I-PER
+leaves	O
+the	O
+manager	O
+'s	O
+position	O
+at	O
+newcastle	B-GRP
+united	I-GRP
+f.c.	I-GRP
+by	O
+mutual	O
+agreement	O
+.	O
+
+#	id	81
+november	O
+2	O
+–	O
+qantas	B-CORP
+begins	O
+its	O
+first	O
+scheduled	O
+flights	O
+,	O
+between	O
+charleville	B-LOC
+and	O
+cloncurry	B-LOC
+.	O
+
+#	id	82
+his	O
+father	O
+was	O
+an	O
+international	O
+in	O
+both	O
+rugby	O
+union	O
+and	O
+rugby	O
+league	O
+,	O
+having	O
+played	O
+for	O
+and	O
+great	B-GRP
+britain	I-GRP
+national	I-GRP
+rugby	I-GRP
+league	I-GRP
+team	I-GRP
+.	O
+
+#	id	83
+adebayo	B-PER
+o.	I-PER
+ogunlesi	I-PER
+–	O
+chairman	O
+and	O
+managing	O
+partner	O
+at	O
+global	B-CORP
+infrastructure	I-CORP
+partners	I-CORP
+
+#	id	84
+krauthamer	O
+has	O
+resided	O
+in	O
+washington,	B-LOC
+d.c.	I-LOC
+and	O
+silver	B-LOC
+spring	I-LOC
+since	O
+1970	O
+.	O
+
+#	id	85
+in	O
+1950	O
+the	O
+main	O
+shareholder	O
+handelsbanken	B-CORP
+sold	O
+its	O
+shares	O
+to	O
+volvo	B-CORP
+who	O
+turned	O
+the	O
+company	O
+into	O
+a	O
+subsidiary	O
+.	O
+
+#	id	86
+anna	B-PER
+torv	I-PER
+fringe	B-CW
+(	O
+fox	B-CORP
+broadcasting	I-CORP
+company	I-CORP
+)	O
+as	O
+olivia	B-PER
+dunham	I-PER
+
+#	id	87
+the	O
+satellite	O
+rights	O
+of	O
+the	O
+film	O
+were	O
+sold	O
+to	O
+sun	B-CORP
+tv	I-CORP
+.	O
+
+#	id	88
+it	O
+has	O
+been	O
+released	O
+for	O
+the	O
+playstation	B-PROD
+3	I-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+and	O
+microsoft	B-CW
+windows	I-CW
+.	O
+
+#	id	89
+the	O
+five	O
+seater	O
+front	O
+wheel	O
+driven	O
+prototype	O
+is	O
+based	O
+on	O
+the	O
+opel	B-PROD
+zafira	I-PROD
+compact	B-PROD
+mpv	I-PROD
+.	O
+
+#	id	90
+slavětín	O
+lies	O
+approximately	O
+east	O
+of	O
+louny	B-LOC
+,	O
+south	O
+of	O
+ústí	B-LOC
+nad	I-LOC
+labem	I-LOC
+,	O
+and	O
+north	O
+west	O
+of	O
+prague	B-LOC
+.	O
+
+#	id	91
+viewer	O
+support	O
+collapsed	O
+,	O
+and	O
+dish	B-CORP
+network	I-CORP
+dropped	O
+it	O
+.	O
+
+#	id	92
+neon	O
+has	O
+since	O
+been	O
+reprogrammed	O
+and	O
+significantly	O
+expanded	O
+and	O
+is	O
+used	O
+in	O
+xbox	B-PROD
+360	I-PROD
+media	O
+visualisation	O
+.	O
+
+#	id	93
+the	O
+nearest	O
+railway	O
+station	O
+is	O
+kanhangad	B-LOC
+on	O
+mangalore	O
+palakkad	B-LOC
+line	O
+.	O
+
+#	id	94
+fox	O
+47	O
+may	O
+refer	O
+to	O
+one	O
+of	O
+the	O
+following	O
+stations	O
+affiliated	O
+with	O
+the	O
+fox	B-CORP
+broadcasting	I-CORP
+company	I-CORP
+:	O
+
+#	id	95
+he	O
+finished	O
+his	O
+active	O
+career	O
+at	O
+vejgaard	B-GRP
+boldspilklub	I-GRP
+.	O
+
+#	id	96
+originally	O
+a	O
+bobbin	B-PROD
+mill	O
+,	O
+later	O
+converted	O
+into	O
+a	O
+house	O
+,	O
+the	O
+oldest	O
+part	O
+is	O
+the	O
+furnace	O
+,	O
+the	O
+rest	O
+of	O
+the	O
+building	O
+dating	O
+from	O
+about	O
+1840	O
+.	O
+
+#	id	97
+alfred	B-PER
+lawson	I-PER
+–	O
+credited	O
+as	O
+inventor	O
+of	O
+the	O
+airliner	B-PROD
+
+#	id	98
+it	O
+was	O
+followed	O
+by	O
+the	B-CW
+secrets	I-CW
+of	I-CW
+atlantis:	I-CW
+the	I-CW
+sacred	I-CW
+legacy	I-CW
+in	O
+2006	O
+.	O
+
+#	id	99
+this	O
+district	O
+includes	O
+the	O
+henry	B-LOC
+b.	I-LOC
+clarke	I-LOC
+house	I-LOC
+,	O
+which	O
+although	O
+twice	O
+relocated	O
+is	O
+purported	O
+to	O
+be	O
+the	O
+city	O
+'s	O
+oldest	O
+standing	O
+house	O
+.	O
+
+#	id	100
+ponari	O
+(	O
+)	O
+is	O
+a	O
+village	O
+in	O
+the	O
+municipality	B-LOC
+of	I-LOC
+montenegro	I-LOC
+of	O
+podgorica	B-LOC
+municipality	I-LOC
+,	O
+montenegro	B-LOC
+.	O
+
+#	id	101
+the	O
+game	O
+was	O
+stated	O
+to	O
+be	O
+in	O
+development	O
+by	O
+good-feel	B-CORP
+with	O
+game	O
+designer	O
+takashi	B-PER
+tezuka	I-PER
+supervising	O
+the	O
+project	O
+.	O
+
+#	id	102
+voiced	O
+by	O
+the	O
+late	O
+louis	B-PER
+prima	I-PER
+,	O
+the	O
+scatman	B-PER
+crothers	I-PER
+,	O
+jason	B-PER
+marsden	I-PER
+,	O
+cree	B-PER
+summer	I-PER
+,	O
+christopher	B-PER
+walken	I-PER
+in	O
+the	O
+2016	O
+remake	O
+and	O
+jim	B-PER
+cummings	I-PER
+.	O
+
+#	id	103
+the	O
+capital	O
+of	O
+the	O
+archipelago	O
+,	O
+puerto	B-LOC
+baquerizo	I-LOC
+moreno	I-LOC
+,	O
+lies	O
+at	O
+the	O
+south	O
+western	O
+tip	O
+of	O
+the	O
+island	O
+.	O
+
+#	id	104
+statoil	O
+acquired	O
+the	O
+operatorship	O
+from	O
+chevron	B-CORP
+corporation	I-CORP
+in	O
+2007	O
+and	O
+now	O
+has	O
+a	O
+65.1	O
+%	O
+stake	O
+.	O
+
+#	id	105
+another	O
+threat	O
+common	O
+across	O
+its	O
+range	O
+is	O
+recreational	B-PROD
+vehicle	I-PROD
+.	O
+
+#	id	106
+it	O
+was	O
+used	O
+as	O
+the	O
+second	O
+ending	O
+theme	O
+song	O
+for	O
+the	O
+anime	O
+series	O
+qualidea	B-CW
+code	I-CW
+.	O
+
+#	id	107
+it	O
+lies	O
+approximately	O
+north	O
+west	O
+of	O
+wąbrzeźno	B-LOC
+and	O
+north	O
+east	O
+of	O
+toruń	B-LOC
+.	O
+
+#	id	108
+later	O
+he	O
+moved	O
+to	O
+lahore	B-LOC
+.	O
+
+#	id	109
+kostevych	O
+was	O
+born	O
+in	O
+khabarovsk	B-LOC
+,	O
+russian	B-LOC
+soviet	I-LOC
+federative	I-LOC
+socialist	I-LOC
+republic	I-LOC
+,	O
+soviet	B-LOC
+union	I-LOC
+.	O
+
+#	id	110
+he	O
+subsequently	O
+acted	O
+as	O
+a	O
+poker	O
+consultant	O
+to	O
+several	O
+other	O
+online	B-CORP
+casino	I-CORP
+and	O
+cardrooms	O
+.	O
+
+#	id	111
+the	O
+pew	B-PROD
+,	O
+lectern	B-PROD
+,	O
+pulpit	B-PROD
+,	O
+and	O
+holy	B-PROD
+water	I-PROD
+font	I-PROD
+are	O
+also	O
+made	O
+entirely	O
+of	O
+stone	O
+.	O
+
+#	id	112
+jana	B-PER
+čepelová	I-PER
+/	O
+chantal	B-PER
+škamlová	I-PER
+defeated	O
+tímea	B-PER
+babos	I-PER
+/	O
+gabriela	B-PER
+dabrowski	I-PER
+,	O
+7	O
+–	O
+6	O
+,	O
+6	O
+–	O
+2	O
+
+#	id	113
+he	O
+was	O
+featured	O
+in	O
+michael	B-CW
+jackson's	I-CW
+this	I-CW
+is	I-CW
+it	I-CW
+documentary	O
+motion	O
+picture	O
+film	O
+alongside	O
+many	O
+other	O
+concert	B-CW
+film	I-CW
+,	O
+shows	O
+,	O
+and	O
+documentaries	O
+.	O
+
+#	id	114
+he	O
+was	O
+first	O
+base	O
+coach	O
+to	O
+the	O
+new	B-GRP
+york	I-GRP
+yankees	I-GRP
+from	O
+2000	O
+to	O
+2003	O
+and	O
+bench	O
+coach	O
+in	O
+2006	O
+.	O
+
+#	id	115
+he	O
+previously	O
+played	O
+football	O
+at	O
+arizona	B-GRP
+state	I-GRP
+university	I-GRP
+.	O
+
+#	id	116
+she	O
+was	O
+the	O
+great	O
+great	O
+granddaughter	O
+of	O
+timothy	B-PER
+eaton	I-PER
+,	O
+founder	O
+of	O
+eaton's	B-CORP
+department	B-LOC
+store	I-LOC
+.	O
+
+#	id	117
+typically	O
+during	O
+the	O
+18th	O
+century	O
+,	O
+the	O
+mush	O
+was	O
+packed	O
+into	O
+a	O
+crock	B-PROD
+and	O
+sold	O
+as	O
+potted	O
+laver	O
+.	O
+
+#	id	118
+it	O
+was	O
+described	O
+by	O
+william	B-PER
+schaus	I-PER
+in	O
+1927	O
+.	O
+
+#	id	119
+she	O
+acquired	O
+a	O
+devoted	O
+following	O
+,	O
+which	O
+included	O
+ernest	B-PER
+hemingway	I-PER
+,	O
+tennessee	B-PER
+williams	I-PER
+,	O
+jean-paul	B-PER
+sartre	I-PER
+,	O
+simone	B-PER
+de	I-PER
+beauvoir	I-PER
+and	O
+marlon	B-PER
+brando	I-PER
+.	O
+
+#	id	120
+adaptation	O
+of	O
+the	O
+visual	B-CW
+novel	I-CW
+developed	O
+by	O
+key	B-CORP
+.	O
+
+#	id	121
+food	B-PROD
+additive	I-PROD
+(	O
+general	O
+standard	O
+including	O
+authorized	O
+uses	O
+,	O
+specifications	O
+for	O
+food	O
+grade	O
+chemicals	O
+)	O
+
+#	id	122
+also	O
+that	O
+year	O
+,	O
+he	O
+co	O
+starred	O
+in	O
+the	O
+action	O
+thriller	O
+cellular	B-CW
+,	O
+with	O
+jason	B-PER
+statham	I-PER
+,	O
+kim	B-PER
+basinger	I-PER
+and	O
+william	B-PER
+h.	I-PER
+macy	I-PER
+.	O
+
+#	id	123
+a	O
+compact	B-PROD
+disc	I-PROD
+with	O
+16	O
+million	O
+lines	O
+of	O
+open	O
+source	O
+code	O
+,	O
+accompanying	O
+the	O
+book	O
+,	O
+provides	O
+the	O
+context	O
+for	O
+all	O
+the	O
+presented	O
+examples	O
+.	O
+
+#	id	124
+galea	O
+was	O
+born	O
+in	O
+toronto	B-LOC
+and	O
+grew	O
+up	O
+in	O
+etobicoke	B-LOC
+.	O
+
+#	id	125
+pišece	O
+(	O
+,	O
+)	O
+is	O
+a	O
+village	B-LOC
+in	O
+the	O
+hills	O
+west	O
+of	O
+bizeljsko	B-LOC
+in	O
+the	O
+municipality	B-LOC
+of	I-LOC
+brežice	I-LOC
+in	O
+eastern	O
+slovenia	B-LOC
+.	O
+
+#	id	126
+vanguard	O
+productions	O
+—	O
+development	O
+of	O
+film	O
+and	O
+video	O
+media	O
+for	O
+pbs	B-CORP
+,	O
+non	O
+profit	O
+and	O
+governmental	O
+organizations	O
+
+#	id	127
+pasta	O
+e	O
+faxioi	O
+ała	O
+veneta	O
+:	O
+a	O
+soup	O
+made	O
+by	O
+pasta	O
+,	O
+bean	B-PROD
+and	O
+bacon	O
+.	O
+
+#	id	128
+a	O
+small	O
+turnover	O
+collar	B-PROD
+returned	O
+to	O
+fashion	O
+,	O
+worn	O
+with	O
+the	O
+stock	O
+.	O
+
+#	id	129
+it	O
+was	O
+built	O
+under	O
+the	O
+supervision	O
+of	O
+frederick	B-PER
+w.	I-PER
+lander	I-PER
+by	O
+federal	O
+contractors	O
+in	O
+1858	O
+—	O
+one	O
+of	O
+the	O
+first	O
+federally	O
+sponsored	O
+roads	O
+in	O
+the	O
+west	O
+.	O
+
+#	id	130
+its	O
+exhibitions	O
+focus	O
+on	O
+contemporary	B-CW
+art	I-CW
+.	O
+
+#	id	131
+the	O
+market	O
+housing	O
+units	O
+constructed	O
+in	O
+the	O
+building	O
+feature	O
+both	O
+modern	O
+look	O
+finishes	O
+and	O
+vintage	O
+analog	O
+thermostat	B-PROD
+.	O
+
+#	id	132
+in	O
+2009	O
+,	O
+the	O
+cemetery	O
+added	O
+a	O
+columbarium	O
+specially	O
+dedicated	O
+to	O
+chicago	B-GRP
+cubs	I-GRP
+fans	O
+.	O
+
+#	id	133
+however	O
+,	O
+local	O
+officials	O
+felt	O
+the	O
+bridge	O
+was	O
+unsafe	O
+,	O
+especially	O
+for	O
+vehicles	O
+such	O
+as	O
+school	B-PROD
+bus	I-PROD
+.	O
+
+#	id	134
+chantel	O
+(	O
+janella	B-PER
+salvador	I-PER
+)	O
+is	O
+a	O
+spoiled	O
+brat	O
+cursed	O
+to	O
+be	O
+a	O
+mermaid	O
+after	O
+she	O
+disturbed	O
+corals	O
+under	O
+the	O
+sea	O
+.	O
+
+#	id	135
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+1997	O
+.	O
+
+#	id	136
+this	O
+page	O
+lists	O
+and	O
+links	O
+to	O
+information	O
+on	O
+the	O
+various	O
+versions	O
+of	O
+microsoft	B-CW
+windows	I-CW
+,	O
+a	O
+major	O
+computer	O
+operating	B-CW
+system	I-CW
+developed	O
+by	O
+microsoft	B-CORP
+.	O
+
+#	id	137
+later	O
+on	O
+,	O
+johan	B-PER
+cruyff	I-PER
+tried	O
+the	O
+same	O
+with	O
+his	O
+afc	B-GRP
+ajax	I-GRP
+team	O
+mate	O
+jesper	B-PER
+olsen	I-PER
+in	O
+1982	O
+.	O
+
+#	id	138
+full	O
+lyrics	O
+of	O
+this	O
+song	O
+at	O
+musixmatch	B-CW
+
+#	id	139
+use	O
+of	O
+this	O
+term	O
+can	O
+be	O
+traced	O
+back	O
+to	O
+hermann	B-PER
+von	I-PER
+helmholtz	I-PER
+and	O
+ewald	B-PER
+hering	I-PER
+.	O
+
+#	id	140
+it	O
+was	O
+also	O
+released	O
+in	O
+the	O
+dualdisc	B-PROD
+format	O
+.	O
+
+#	id	141
+the	O
+remaining	O
+tower	O
+(	O
+some	O
+sources	O
+say	O
+two	O
+survived	O
+)	O
+was	O
+pulled	O
+down	O
+in	O
+the	O
+19th	O
+century	O
+to	O
+make	O
+way	O
+for	O
+warehouses	O
+of	O
+the	O
+carron	B-CORP
+company	I-CORP
+.	O
+
+#	id	142
+final	O
+day	O
+drama	O
+in	O
+the	O
+premier	B-CORP
+league	I-CORP
+:	O
+
+#	id	143
+his	O
+2013	O
+feature	O
+,	O
+penthouse	B-CW
+north	I-CW
+,	O
+stars	O
+michael	B-PER
+keaton	I-PER
+and	O
+michelle	B-PER
+monaghan	I-PER
+.	O
+
+#	id	144
+it	O
+would	O
+acquire	O
+some	O
+business	O
+and	O
+assets	O
+from	O
+the	O
+joint	O
+venture	O
+dongfeng	B-CORP
+motor	I-CORP
+company	I-CORP
+limited	I-CORP
+.	O
+
+#	id	145
+it	O
+was	O
+given	O
+to	O
+the	O
+best	O
+producer	O
+,	O
+best	O
+director	O
+and	O
+best	O
+writer	O
+to	O
+join	O
+forces	O
+and	O
+shoot	O
+a	O
+feature	O
+film	O
+in	O
+hollywood	B-LOC
+in	O
+2015	O
+.	O
+
+#	id	146
+savigné-lévêque	B-LOC
+mi	O
+
+#	id	147
+in	O
+1899	O
+,	O
+paul	B-PER
+ehrlich	I-PER
+renamed	O
+the	O
+heat	O
+sensitive	O
+component	O
+complement	O
+.	O
+
+#	id	148
+an	O
+input	O
+of	O
+technical	O
+know	O
+how	O
+was	O
+provided	O
+through	O
+a	O
+partnership	O
+with	O
+ibm	B-CORP
+.	O
+
+#	id	149
+jonathan	B-PER
+taylor	I-PER
+thomas	I-PER
+(	O
+born	O
+1981	O
+)	O
+,	O
+actor	O
+and	O
+former	O
+teen	O
+idol	O
+.	O
+
+#	id	150
+he	O
+is	O
+a	O
+member	O
+of	O
+the	O
+council	B-GRP
+on	I-GRP
+foreign	I-GRP
+relations	I-GRP
+.	O
+
+#	id	151
+david	B-PER
+guerrier	I-PER
+,	O
+classical	O
+trumpeter	O
+(	O
+born	O
+1984	O
+)	O
+
+#	id	152
+the	O
+boyfriend	O
+promises	O
+never	O
+to	O
+leave	O
+his	O
+girlfriend	O
+but	O
+they	O
+later	O
+argue	O
+when	O
+the	O
+boyfriend	O
+enlists	O
+in	O
+the	O
+united	B-GRP
+states	I-GRP
+marine	I-GRP
+corps	I-GRP
+.	O
+
+#	id	153
+his	O
+shoes	O
+may	O
+have	O
+been	O
+from	O
+a	O
+shoe	O
+store	O
+in	O
+medford	B-LOC
+.	O
+
+#	id	154
+a	O
+central	B-PROD
+processing	I-PROD
+unit	I-PROD
+(	O
+cpu	O
+)	O
+,	O
+the	O
+processor	O
+of	O
+phones	O
+.	O
+
+#	id	155
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+the	O
+film	O
+has	O
+an	O
+approval	O
+rating	O
+of	O
+11	O
+%	O
+based	O
+on	O
+reviews	O
+from	O
+27	O
+critics	O
+.	O
+
+#	id	156
+the	O
+machine	O
+is	O
+preserved	O
+at	O
+the	O
+musée	B-LOC
+des	I-LOC
+arts	I-LOC
+et	I-LOC
+métiers	I-LOC
+in	O
+paris	B-LOC
+.	O
+
+#	id	157
+2008	O
+leszno	B-LOC
+3rd	O
+place	O
+(	O
+13	O
++	O
+2	O
+pts	O
+)	O
+
+#	id	158
+rpg	O
+'s	O
+recent	O
+versions	O
+are	O
+available	O
+only	O
+on	O
+ibm	B-CW
+i	I-CW
+or	O
+os	O
+/	O
+400	O
+based	O
+systems	O
+.	O
+
+#	id	159
+the	O
+ceremony	O
+was	O
+held	O
+in	O
+darwin	B-LOC
+.	O
+
+#	id	160
+bosch	O
+is	O
+a	O
+hamlet	O
+in	O
+the	O
+netherlands	B-LOC
+province	O
+of	O
+north	B-LOC
+brabant	I-LOC
+.	O
+
+#	id	161
+rue	B-PER
+mcclanahan	I-PER
+–	O
+theater	O
+,	O
+television	O
+,	O
+and	O
+movie	O
+actress	O
+,	O
+born	O
+in	O
+oklahoma	B-LOC
+
+#	id	162
+perry	O
+'s	O
+last	O
+known	O
+role	O
+was	O
+in	O
+the	O
+television	O
+series	O
+baskets	B-CW
+.	O
+
+#	id	163
+adams	O
+got	O
+his	O
+start	O
+in	O
+film	O
+business	O
+as	O
+director	O
+john	B-PER
+boorman	I-PER
+personal	O
+assistant	O
+on	O
+the	O
+film	O
+deliverance	B-CW
+.	O
+
+#	id	164
+he	O
+was	O
+selected	O
+as	O
+the	O
+17th	O
+president	O
+of	O
+the	O
+university	B-GRP
+of	I-GRP
+scranton	I-GRP
+,	O
+which	O
+he	O
+led	O
+from	O
+1965	O
+until	O
+1970	O
+.	O
+
+#	id	165
+he	O
+noted	O
+also	O
+excessive	O
+product	B-CW
+placement	I-CW
+,	O
+poor	O
+editing	O
+,	O
+and	O
+bad	O
+acting	O
+.	O
+
+#	id	166
+coogan	O
+has	O
+an	O
+uncredited	O
+cameo	O
+in	O
+hot	B-CW
+fuzz	I-CW
+,	O
+scripted	O
+by	O
+shaun	B-CW
+of	I-CW
+the	I-CW
+dead	I-CW
+writers	O
+simon	B-PER
+pegg	I-PER
+and	O
+edgar	B-PER
+wright	I-PER
+.	O
+
+#	id	167
+a	O
+north	O
+–	O
+south	O
+mall	O
+at	O
+the	O
+eastern	O
+end	O
+of	O
+the	O
+centre	O
+leading	O
+to	O
+kmart	B-CORP
+australia	I-CORP
+
+#	id	168
+in	O
+2000	O
+,	O
+628	O
+diesel	O
+multiple	O
+units	O
+were	O
+replaced	O
+by	O
+modern	O
+bombardier	B-PROD
+talent	I-PROD
+railcars	O
+of	O
+class	O
+643	O
+.	O
+
+#	id	169
+grenfell	O
+was	O
+educated	O
+at	O
+harrow	B-GRP
+school	I-GRP
+and	O
+balliol	B-LOC
+college	I-LOC
+.	O
+
+#	id	170
+jon	B-PER
+pareles	I-PER
+wrote	O
+that	O
+the	O
+album	O
+opens	O
+into	O
+haunted	O
+,	O
+rewarding	O
+depths	O
+in	O
+a	O
+positive	O
+review	O
+for	O
+the	B-GRP
+new	I-GRP
+york	I-GRP
+times	I-GRP
+.	O
+
+#	id	171
+as	O
+the	O
+united	B-LOC
+kingdom	I-LOC
+was	O
+first	O
+to	O
+campaign	O
+it	O
+has	O
+more	O
+politicians	O
+who	O
+have	O
+signed	O
+the	O
+pledge	O
+.	O
+
+#	id	172
+club	B-CORP
+med	I-CORP
+opened	O
+a	O
+holiday	O
+resort	O
+on	O
+the	O
+island	O
+in	O
+2014	O
+.	O
+
+#	id	173
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+initially	O
+defined	O
+the	O
+for	O
+the	O
+
+#	id	174
+santana	O
+pitched	O
+in	O
+major	B-CORP
+league	I-CORP
+baseball	I-CORP
+(	O
+mlb	O
+)	O
+for	O
+the	O
+minnesota	B-GRP
+twins	I-GRP
+from	O
+2000	O
+to	O
+2007	O
+and	O
+for	O
+the	O
+new	B-GRP
+york	I-GRP
+mets	I-GRP
+from	O
+2008	O
+to	O
+2012	O
+.	O
+
+#	id	175
+she	O
+joined	O
+virgin	B-CORP
+radio	I-CORP
+uk	I-CORP
+as	O
+a	O
+newsreader	O
+in	O
+2019	O
+.	O
+
+#	id	176
+halcyon	B-CW
+by	O
+ellie	B-PER
+goulding	I-PER
+debuted	O
+in	O
+2012	O
+and	O
+re	O
+entered	O
+the	O
+top	O
+10	O
+in	O
+2013	O
+,	O
+but	O
+its	O
+peak	O
+position	O
+was	O
+not	O
+until	O
+2014	O
+.	O
+
+#	id	177
+he	O
+struggled	O
+to	O
+attract	O
+high	O
+class	O
+mares	O
+and	O
+was	O
+exported	O
+to	O
+iran	B-LOC
+in	O
+2011	O
+.	O
+
+#	id	178
+they	O
+enter	O
+the	O
+presidential	B-LOC
+palace	I-LOC
+during	O
+a	O
+festival	B-GRP
+posing	O
+as	O
+entertainers	O
+.	O
+
+#	id	179
+the	O
+dodge	B-PROD
+super	I-PROD
+bee	I-PROD
+was	O
+a	O
+limited	O
+production	O
+muscle	O
+car	O
+from	O
+1968	O
+–	O
+1971	O
+.	O
+
+#	id	180
+the	O
+burial	O
+chamber	O
+is	O
+decorated	O
+with	O
+scenes	O
+from	O
+the	O
+book	B-CW
+of	I-CW
+the	I-CW
+dead	I-CW
+and	O
+pyramid	B-CW
+texts	I-CW
+.	O
+
+#	id	181
+in	O
+2006	O
+,	O
+the	O
+carrier	O
+became	O
+the	O
+worldwide	O
+in	O
+passing	O
+the	O
+iata	B-GRP
+operational	I-GRP
+safety	I-GRP
+audit	I-GRP
+.	O
+
+#	id	182
+they	O
+defeated	O
+thai	B-GRP
+honda	I-GRP
+f.c.	I-GRP
+in	O
+final	O
+match	O
+and	O
+crowned	O
+a	O
+title	O
+.	O
+
+#	id	183
+the	O
+hand	O
+carved	O
+cellulose	B-PROD
+acetate	I-PROD
+frames	O
+are	O
+hand	O
+polished	O
+in	O
+three	O
+different	O
+steps	O
+with	O
+flex	O
+hinges	O
+.	O
+
+#	id	184
+the	B-CW
+5th	I-CW
+wave	I-CW
+–	O
+science	O
+fiction	O
+film	O
+where	O
+also	O
+the	O
+people	O
+are	O
+manipulated	O
+with	O
+implants	O
+to	O
+kill	O
+other	O
+people	O
+
+#	id	185
+he	O
+studied	O
+english	B-CW
+literature	I-CW
+at	O
+stanford	B-GRP
+university	I-GRP
+,	O
+where	O
+he	O
+earned	O
+his	O
+degree	O
+.	O
+
+#	id	186
+relay	O
+shuttle	O
+services	O
+using	O
+three	O
+car	O
+733	B-PROD
+series	I-PROD
+electric	O
+trains	O
+operate	O
+to	O
+and	O
+from	O
+the	O
+centrally	O
+located	O
+hakodate	B-LOC
+station	I-LOC
+(	O
+approximately	O
+18	O
+km	O
+away	O
+)	O
+.	O
+
+#	id	187
+iii	O
+:	O
+for	O
+soprano	O
+,	O
+tenor	O
+,	O
+baritone	O
+,	O
+ten	O
+instruments	O
+and	O
+live	O
+electronics	O
+on	O
+texts	O
+by	O
+miguel	B-PER
+de	I-PER
+cervantes	I-PER
+
+#	id	188
+together	O
+with	O
+the	O
+nearby	O
+village	O
+revetal	B-LOC
+it	O
+has	O
+a	O
+population	O
+(	O
+statistics	B-GRP
+norway	I-GRP
+2005	O
+)	O
+of	O
+1,902	O
+.	O
+
+#	id	189
+when	O
+air	B-CORP
+alsace	I-CORP
+existed	O
+,	O
+its	O
+head	O
+office	O
+was	O
+on	O
+the	O
+grounds	O
+of	O
+colmar	B-LOC
+airport	I-LOC
+.	O
+
+#	id	190
+he	O
+has	O
+played	O
+in	O
+major	B-CORP
+league	I-CORP
+baseball	I-CORP
+(	O
+mlb	O
+)	O
+for	O
+the	O
+chicago	B-GRP
+cubs	I-GRP
+.	O
+
+#	id	191
+the	O
+district	O
+was	O
+named	O
+after	O
+the	O
+town	O
+of	O
+attanagalla	B-LOC
+in	O
+present	O
+day	O
+gampaha	B-LOC
+district	I-LOC
+,	O
+western	B-LOC
+province	I-LOC
+.	O
+
+#	id	192
+he	O
+survives	O
+the	O
+run	O
+of	O
+campaigns	O
+but	O
+dies	O
+from	O
+a	O
+tumour	O
+on	O
+his	O
+back	O
+when	O
+returning	O
+to	O
+the	O
+imperial	O
+capital	O
+kaifeng	B-LOC
+.	O
+
+#	id	193
+akburç	O
+is	O
+a	O
+village	O
+in	O
+the	O
+gercüş	B-LOC
+,	O
+batman	B-LOC
+province	I-LOC
+,	O
+turkey	B-LOC
+.	O
+
+#	id	194
+they	O
+were	O
+paid	O
+in	O
+credit	O
+that	O
+could	O
+be	O
+used	O
+only	O
+at	O
+the	O
+company	B-GRP
+store	I-GRP
+,	O
+binding	O
+them	O
+to	O
+the	O
+company	O
+.	O
+
+#	id	195
+there	O
+are	O
+no	O
+known	O
+scheduled	O
+airlines	O
+serving	O
+this	O
+airport	O
+at	O
+this	O
+time	O
+,	O
+but	O
+the	O
+united	B-CORP
+nations	I-CORP
+humanitarian	I-CORP
+air	I-CORP
+service	I-CORP
+served	O
+the	O
+field	O
+from	O
+rumbek	B-LOC
+airport	I-LOC
+.	O
+
+#	id	196
+andré	O
+,	O
+in	O
+the	O
+2016	O
+film	O
+a	B-CW
+wedding	I-CW
+
+#	id	197
+zimmer	O
+also	O
+worked	O
+on	O
+the	O
+score	O
+for	O
+denis	B-PER
+villeneuve	I-PER
+blade	B-CW
+runner	I-CW
+2049	I-CW
+.	O
+
+#	id	198
+they	O
+were	O
+drawn	O
+to	O
+the	O
+region	O
+by	O
+the	O
+abundance	O
+of	O
+salmon	B-PROD
+.	O
+
+#	id	199
+in	O
+1927	O
+after	O
+the	O
+merger	O
+with	O
+schering	B-CORP
+ag	I-CORP
+employees	O
+began	O
+the	O
+development	O
+of	O
+drugs	O
+.	O
+
+#	id	200
+linda	B-CW
+di	I-CW
+chamounix	I-CW
+(	O
+vienna	O
+,	O
+1842	O
+)	O
+,	O
+with	O
+a	O
+libretto	O
+by	O
+gaetano	B-PER
+rossi	I-PER
+(	O
+1774	O
+1855	O
+)	O
+
+#	id	201
+after	O
+a	O
+hiatus	O
+of	O
+almost	O
+ten	O
+years	O
+,	O
+she	O
+was	O
+again	O
+a	O
+part	O
+time	O
+lecturer	O
+,	O
+back	O
+uptown	O
+at	O
+columbia	B-GRP
+university	I-GRP
+during	O
+the	O
+summers	O
+of	O
+1985	O
+and	O
+1986	O
+.	O
+
+#	id	202
+millett	O
+grew	O
+up	O
+in	O
+portland	B-LOC
+and	O
+attended	O
+area	O
+public	O
+schools	O
+.	O
+
+#	id	203
+stars	O
+included	O
+edie	B-PER
+adams	I-PER
+,	O
+roscoe	B-PER
+lee	I-PER
+browne	I-PER
+,	O
+and	O
+sally	B-PER
+kellerman	I-PER
+.	O
+
+#	id	204
+interactivity	O
+on	O
+laserdisc	B-PROD
+had	O
+proven	O
+desirable	O
+to	O
+consumers	O
+,	O
+especially	O
+collectors	O
+.	O
+
+#	id	205
+he	O
+was	O
+educated	O
+at	O
+westminster	B-GRP
+school	I-GRP
+from	O
+1740	O
+to	O
+1749	O
+,	O
+when	O
+he	O
+entered	O
+balliol	B-LOC
+college	I-LOC
+.	O
+
+#	id	206
+son	B-PER
+sen	I-PER
+(	O
+born	O
+in	O
+1930	O
+)	O
+studied	O
+education	O
+and	O
+literature	O
+while	O
+hu	B-PER
+nim	I-PER
+(	O
+born	O
+in	O
+1932	O
+)	O
+studied	O
+law	O
+.	O
+
+#	id	207
+in	O
+2000	O
+it	O
+was	O
+voted	O
+number	O
+946	O
+in	O
+colin	B-PER
+larkin	I-PER
+all	B-CW
+time	I-CW
+top	I-CW
+1000	I-CW
+albums	I-CW
+.	O
+
+#	id	208
+could	B-CW
+it	I-CW
+be	I-CW
+magic	I-CW
+(	O
+anderson	O
+,	O
+manilow	O
+)	O
+–	O
+3	O
+:	O
+56	O
+
+#	id	209
+34th	O
+street	O
+–	O
+hudson	O
+yards	O
+station	O
+on	O
+the	O
+irt	B-LOC
+flushing	I-LOC
+line	I-LOC
+,	O
+is	O
+being	O
+automated	O
+.	O
+]	O
+]	O
+
+#	id	210
+the	O
+original	O
+artwork	O
+of	O
+each	O
+of	O
+these	O
+posters	O
+was	O
+auctioned	O
+on	O
+ebay	B-CORP
+with	O
+funds	O
+raised	O
+(	O
+£	O
+5,000	O
+)	O
+going	O
+to	O
+the	O
+marine	B-GRP
+conservation	I-GRP
+society	I-GRP
+.	O
+
+#	id	211
+thomas	B-PER
+earnshaw	I-PER
+,	O
+inventor	O
+of	O
+the	O
+standard	O
+chronometer	O
+escapement	O
+
+#	id	212
+every	O
+player	O
+to	O
+appear	O
+in	O
+kerry	B-PER
+packer	I-PER
+world	B-CW
+series	I-CW
+cricket	I-CW
+is	O
+listed	O
+below	O
+along	O
+with	O
+their	O
+appearance	O
+records	O
+.	O
+
+#	id	213
+one	O
+nme	B-GRP
+critic	O
+later	O
+recalled	O
+a	O
+ludicrous	O
+hullabaloo	O
+that	O
+was	O
+a	O
+departure	O
+from	O
+planet	O
+reality	O
+.	O
+
+#	id	214
+de	O
+:	O
+bus	B-PROD
+with	O
+number	O
+of	O
+passenger	O
+seats	O
+more	O
+than	O
+8	O
+,	O
+coupled	O
+to	O
+trailer	O
+with	O
+permissible	O
+maximum	O
+weight	O
+over	O
+750kg	O
+,	O
+and	O
+also	O
+all	O
+types	O
+of	O
+articulated	B-PROD
+bus	I-PROD
+
+#	id	215
+it	O
+was	O
+recorded	O
+primarily	O
+on	O
+guitarist	O
+david	B-PER
+gilmour	I-PER
+converted	O
+houseboat	O
+,	O
+astoria	B-CORP
+.	O
+
+#	id	216
+similar	O
+,	O
+mosquito	O
+repellent	O
+soaps	O
+are	O
+in	O
+development	O
+in	O
+johns	B-PER
+hopkins	I-PER
+,	O
+created	O
+to	O
+be	O
+used	O
+instead	O
+of	O
+long	O
+lasting	O
+,	O
+volatile	O
+insecticides	O
+that	O
+could	O
+harm	O
+[	O
+the	O
+]	O
+skin	B-PROD
+.	O
+
+#	id	217
+the	O
+division	O
+is	O
+located	O
+in	O
+central	O
+hobart	B-LOC
+on	O
+the	O
+western	O
+shore	O
+of	O
+the	O
+river	B-LOC
+derwent	I-LOC
+.	O
+
+#	id	218
+356	O
+thousand	O
+tons	O
+of	O
+carrot	B-PROD
+;	O
+
+#	id	219
+m-pesa	B-PROD
+,	O
+a	O
+money	O
+transfer	O
+service	O
+based	O
+on	O
+mobile	O
+telephony	O
+,	O
+allows	O
+users	O
+with	O
+limited	O
+access	O
+to	O
+banks	O
+to	O
+transfer	O
+money	O
+without	O
+ever	O
+having	O
+to	O
+exchange	O
+physical	O
+currency	O
+.	O
+
+#	id	220
+molde	O
+narrowly	O
+continued	O
+their	O
+unbeaten	O
+run	O
+in	O
+their	O
+first	O
+league	O
+game	O
+back	O
+after	O
+the	O
+break	O
+with	O
+a	O
+3	O
+–	O
+3	O
+away	O
+draw	O
+against	O
+vålerenga	B-GRP
+fotball	I-GRP
+.	O
+
+#	id	221
+for	O
+a	O
+more	O
+substantial	O
+meal	O
+,	O
+nasi	O
+lemak	O
+may	O
+be	O
+served	O
+with	O
+fried	O
+chicken	O
+,	O
+curries	O
+,	O
+or	O
+a	O
+spicy	O
+meat	O
+stew	O
+called	O
+rendang	B-PROD
+.	O
+
+#	id	222
+he	O
+had	O
+a	O
+love	O
+for	O
+manga	B-CW
+and	O
+initially	O
+hoped	O
+to	O
+become	O
+a	O
+professional	O
+manga	O
+artist	O
+before	O
+considering	O
+a	O
+career	O
+in	O
+video	O
+games	O
+.	O
+
+#	id	223
+taylor	B-CORP
+&	I-CORP
+francis	I-CORP
+,	O
+1997	O
+.	O
+;	O
+pp	O
+.	O
+419	O
+–	O
+420	O
+
+#	id	224
+a	O
+will	O
+or	O
+codicil	B-CW
+can	O
+not	O
+be	O
+revoked	O
+by	O
+any	O
+presumption	O
+of	O
+the	O
+intention	O
+of	O
+the	O
+testator	O
+or	O
+on	O
+the	O
+grounds	O
+of	O
+any	O
+alteration	O
+in	O
+his	O
+circumstances	O
+(	O
+s	O
+.	O
+19	O
+)	O
+.	O
+
+#	id	225
+the	O
+school	O
+is	O
+affiliated	O
+with	O
+the	O
+west	B-GRP
+bengal	I-GRP
+board	I-GRP
+of	I-GRP
+secondary	I-GRP
+education	I-GRP
+.	O
+
+#	id	226
+american	O
+gothic	O
+rock	O
+began	O
+with	O
+45	B-GRP
+grave	I-GRP
+and	O
+christian	B-GRP
+death	I-GRP
+.	O
+
+#	id	227
+npr	B-CORP
+reports	O
+that	O
+pig	O
+and	O
+cattle	O
+slaughterhouse	O
+workers	O
+are	O
+nearly	O
+seven	O
+times	O
+more	O
+likely	O
+to	O
+suffer	O
+repetitive	O
+strain	O
+injuries	O
+than	O
+average	O
+.	O
+
+#	id	228
+isabel	B-PER
+coixet	I-PER
+nobody	B-CW
+wants	I-CW
+the	I-CW
+night	I-CW
+was	O
+announced	O
+as	O
+the	O
+opening	O
+film	O
+.	O
+
+#	id	229
+the	O
+communist	B-GRP
+party	I-GRP
+of	I-GRP
+great	I-GRP
+britain	I-GRP
+also	O
+gained	O
+influence	O
+,	O
+as	O
+some	O
+of	O
+the	O
+immigrants	O
+had	O
+formerly	O
+been	O
+members	O
+of	O
+the	O
+communist	B-GRP
+party	I-GRP
+of	I-GRP
+india	I-GRP
+.	O
+
+#	id	230
+grimaldi	O
+an	O
+athlete	O
+of	O
+the	O
+gruppo	B-GRP
+sportivo	I-GRP
+fiamme	I-GRP
+oro	I-GRP
+.	O
+
+#	id	231
+by	O
+dumping	O
+the	O
+506	O
+733	O
+prefix	O
+in	O
+edmundston	B-LOC
+,	O
+the	O
+geographically	O
+furthest	O
+point	O
+still	O
+in	O
+new	B-LOC
+brunswick	I-LOC
+,	O
+the	O
+administrator	O
+adopts	O
+this	O
+approach	O
+.	O
+
+#	id	232
+the	O
+world	B-GRP
+health	I-GRP
+organization	I-GRP
+international	B-CW
+statistical	I-CW
+classification	I-CW
+of	I-CW
+diseases	I-CW
+and	I-CW
+related	I-CW
+health	I-CW
+problems	I-CW
+(	O
+icd	O
+)	O
+has	O
+made	O
+similar	O
+moves	O
+in	O
+recent	O
+years	O
+.	O
+
+#	id	233
+she	O
+was	O
+born	O
+in	O
+lancaster	B-LOC
+.	O
+
+#	id	234
+his	O
+father	O
+was	O
+an	O
+official	O
+at	O
+the	O
+bank	B-CORP
+of	I-CORP
+england	I-CORP
+and	O
+grandson	O
+of	O
+the	O
+painter	O
+martin	B-PER
+archer	I-PER
+shee	I-PER
+.	O
+
+#	id	235
+the	O
+program	O
+is	O
+supported	O
+by	O
+mastercard	B-CORP
+.	O
+
+#	id	236
+ina	O
+also	O
+appears	O
+in	O
+the	O
+crossover	O
+game	O
+warriors	B-CW
+orochi	I-CW
+.	O
+
+#	id	237
+in	O
+the	O
+course	O
+of	O
+over	O
+fifty	O
+years	O
+,	O
+he	O
+has	O
+collaborated	O
+with	O
+directors	O
+such	O
+as	O
+bernardo	B-PER
+bertolucci	I-PER
+,	O
+francis	B-PER
+ford	I-PER
+coppola	I-PER
+,	O
+warren	B-PER
+beatty	I-PER
+,	O
+and	O
+woody	B-PER
+allen	I-PER
+.	O
+
+#	id	238
+capone-n-noreaga	B-GRP
+(	O
+c	O
+n	O
+n	O
+)	O
+,	O
+a	O
+hip	O
+hop	O
+duo	O
+
+#	id	239
+the	O
+building	O
+was	O
+added	O
+to	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2000	O
+.	O
+
+#	id	240
+in	O
+1982	O
+,	O
+he	O
+and	O
+hunter	B-PER
+lovins	I-PER
+founded	O
+rocky	B-GRP
+mountain	I-GRP
+institute	I-GRP
+,	O
+based	O
+in	O
+snowmass	B-LOC
+.	O
+
+#	id	241
+shocking	B-GRP
+blue	I-GRP
+at	B-CW
+home	I-CW
+including	O
+venus	B-CW
+
+#	id	242
+an	O
+eighteenth	O
+century	O
+manor	B-LOC
+house	I-LOC
+and	O
+farm	O
+.	O
+
+#	id	243
+across	O
+honduras	B-LOC
+,	O
+200	O
+people	O
+were	O
+killed	O
+and	O
+5,000	O
+people	O
+were	O
+without	O
+food	O
+or	O
+water	O
+in	O
+just	O
+13	O
+communities	O
+.	O
+
+#	id	244
+the	O
+station	O
+is	O
+one	O
+of	O
+the	O
+most	O
+modern	O
+,	O
+largest	O
+and	O
+important	O
+stations	O
+of	O
+bangladesh	B-CORP
+railway	I-CORP
+along	O
+with	O
+kamalapur	B-LOC
+railway	I-LOC
+station	I-LOC
+and	O
+chattogram	B-LOC
+railway	O
+station	O
+.	O
+
+#	id	245
+historically	O
+,	O
+the	O
+dish	O
+has	O
+also	O
+been	O
+prepared	O
+using	O
+other	O
+meats	O
+,	O
+such	O
+as	O
+rump	B-PROD
+steak	I-PROD
+and	O
+lamb	O
+'s	O
+kidney	O
+.	O
+
+#	id	246
+colipa	B-LOC
+hypertrophy	O
+
+#	id	247
+file	O
+:	O
+insamju	O
+(	O
+ginseng	O
+liquor	O
+)	O
+.jpg	O
+|	O
+insamju	B-PROD
+(	O
+ginseng	O
+liquor	O
+)	O
+
+#	id	248
+it	O
+was	O
+released	O
+on	O
+rca	B-CORP
+records	I-CORP
+in	O
+2002	O
+and	O
+proved	O
+to	O
+be	O
+the	O
+group	O
+'s	O
+only	O
+album	O
+before	O
+disbanding	O
+the	O
+following	O
+year	O
+.	O
+
+#	id	249
+cubed	O
+lamb	O
+with	O
+tomato	O
+,	O
+onion	O
+and	O
+parsley	O
+wrapped	O
+in	O
+phyllo	B-PROD
+
+#	id	250
+there	O
+were	O
+a	O
+few	O
+dissenting	O
+voices	O
+including	O
+the	O
+poet	O
+and	O
+critic	O
+ricciotto	B-PER
+canudo	I-PER
+,	O
+who	O
+felt	O
+that	O
+the	O
+film	O
+'s	O
+pictorial	O
+effects	O
+were	O
+insufficiently	O
+grounded	O
+in	O
+the	O
+subject	O
+.	O
+
+#	id	251
+the	O
+goodyear	B-CORP
+tire	I-CORP
+and	I-CORP
+rubber	I-CORP
+company	I-CORP
+operates	O
+a	O
+large	O
+plant	O
+in	O
+gadsden	B-LOC
+that	O
+employs	O
+about	O
+1,400	O
+people	O
+.	O
+
+#	id	252
+the	O
+popular	O
+mind	O
+was	O
+taken	O
+with	O
+betty	B-PER
+friedan	I-PER
+the	B-CW
+feminine	I-CW
+mystique	I-CW
+.	O
+
+#	id	253
+the	O
+tail	O
+light	O
+appearance	O
+on	O
+both	O
+the	O
+sedan	O
+and	O
+wagon	O
+was	O
+influenced	O
+by	O
+the	O
+taillights	O
+on	O
+the	O
+subaru	B-PROD
+alcyone	I-PROD
+svx	I-PROD
+.	O
+
+#	id	254
+in	O
+1892	O
+,	O
+a	O
+police	O
+officer	O
+in	O
+port	B-LOC
+jervis	I-LOC
+,	O
+tried	O
+to	O
+stop	O
+the	O
+lynching	O
+of	O
+a	O
+black	O
+man	O
+who	O
+had	O
+been	O
+wrongfully	O
+accused	O
+of	O
+assaulting	O
+a	O
+white	O
+woman	O
+.	O
+
+#	id	255
+cassinga	O
+represents	O
+one	O
+of	O
+the	O
+largest	O
+iron	B-PROD
+ore	I-PROD
+reserves	O
+in	O
+angola	B-LOC
+and	O
+in	O
+the	O
+world	O
+having	O
+estimated	O
+reserves	O
+of	O
+1	O
+billion	O
+tonnes	O
+of	O
+ore	O
+grading	O
+30	O
+%	O
+iron	O
+metal	O
+.	O
+
+#	id	256
+he	O
+worked	O
+in	O
+the	O
+vending	B-GRP
+machine	I-GRP
+business	O
+and	O
+later	O
+as	O
+an	O
+investment	O
+banker	O
+.	O
+
+#	id	257
+blair	O
+writes	O
+that	O
+a	O
+frequent	O
+dish	O
+was	O
+fresh	O
+slaughtered	O
+,	O
+quick	O
+frozen	O
+horse	B-PROD
+meat	I-PROD
+.	O
+
+#	id	258
+the	O
+general	O
+contour	O
+lines	O
+and	O
+shape	O
+of	O
+the	O
+concept	O
+did	O
+end	O
+up	O
+making	O
+it	O
+on	O
+the	O
+next	O
+porsche	B-PROD
+panamera	I-PROD
+.	O
+
+#	id	259
+gyeongbokgung	B-LOC
+—	O
+constructed	O
+in	O
+1394	O
+,	O
+first	O
+reconstructed	O
+in	O
+1867	O
+,	O
+under	O
+reconstruction	O
+1989	O
+to	O
+present	O
+
+#	id	260
+she	O
+is	O
+currently	O
+a	O
+presenter	O
+on	O
+radio	B-CORP
+x	I-CORP
+.	O
+
+#	id	261
+it	O
+was	O
+developed	O
+by	O
+mitchell	B-CORP
+corporation	I-CORP
+and	O
+published	O
+by	O
+nintendo	B-CORP
+.	O
+
+#	id	262
+it	O
+looked	O
+just	O
+like	O
+the	O
+skin	O
+that	O
+forms	O
+itself	O
+over	O
+hot	O
+milk	B-PROD
+as	O
+it	O
+cools	O
+.	O
+
+#	id	263
+this	O
+in	O
+turn	O
+expanded	O
+the	O
+palette	O
+and	O
+quality	O
+of	O
+network	O
+drama	O
+and	O
+,	O
+most	O
+recently	O
+,	O
+persuaded	O
+amc	B-CORP
+executives	O
+to	O
+begin	O
+original	O
+programming	O
+.	O
+
+#	id	264
+this	O
+dish	O
+,	O
+which	O
+is	O
+quite	O
+similar	O
+to	O
+a	O
+pot-au-feu	B-PROD
+,	O
+was	O
+once	O
+considered	O
+a	O
+dish	O
+for	O
+the	O
+poor	O
+and	O
+peasantry	O
+.	O
+
+#	id	265
+it	O
+was	O
+described	O
+by	O
+stephan	B-PER
+von	I-PER
+breuning	I-PER
+in	O
+1935	O
+.	O
+
+#	id	266
+carnegie	O
+wrote	O
+the	B-CW
+gospel	I-CW
+of	I-CW
+wealth	I-CW
+,	O
+an	O
+article	O
+in	O
+which	O
+he	O
+stated	O
+his	O
+belief	O
+that	O
+the	O
+rich	O
+should	O
+use	O
+their	O
+wealth	O
+to	O
+help	O
+enrich	O
+society	O
+.	O
+
+#	id	267
+the	O
+main	O
+patrol	O
+vehicle	O
+utilized	O
+by	O
+this	O
+department	O
+is	O
+the	O
+chevrolet	B-CORP
+chevrolet	B-PROD
+tahoe	I-PROD
+,	O
+and	O
+the	O
+chevrolet	B-CORP
+chevrolet	B-PROD
+impala	I-PROD
+.	O
+
+#	id	268
+girl	B-CW
+boss	I-CW
+guerilla	I-CW
+(	O
+女番長ゲリラ	O
+sukeban	O
+guerilla	O
+)	O
+(	O
+8	O
+/	O
+12	O
+/	O
+1972	O
+)	O
+
+#	id	269
+the	O
+2007	O
+show	O
+featured	O
+guests	O
+dwayne	B-PER
+mcduffie	I-PER
+,	O
+kyle	B-PER
+baker	I-PER
+,	O
+and	O
+taimak	B-PER
+.	O
+
+#	id	270
+some	O
+sources	O
+indicate	O
+his	O
+place	O
+of	O
+birth	O
+as	O
+kuwait	B-LOC
+.	O
+
+#	id	271
+kirkwood	O
+had	O
+a	O
+short	O
+caretaker	O
+manager	O
+role	O
+with	O
+st	B-GRP
+johnstone	I-GRP
+f.c.	I-GRP
+in	O
+2001	O
+,	O
+after	O
+sandy	B-PER
+clark	I-PER
+was	O
+sacked	O
+.	O
+
+#	id	272
+an	O
+entrée	B-PROD
+dish	O
+made	O
+out	O
+of	O
+a	O
+fried	O
+pocket	O
+of	O
+dough	B-PROD
+which	O
+forms	O
+the	O
+pastry	B-PROD
+that	O
+surrounds	O
+a	O
+rich	O
+filling	O
+.	O
+
+#	id	273
+sellou	O
+(	O
+səllu	O
+)	O
+,	O
+also	O
+called	O
+slilou	O
+or	O
+sfouf	O
+,	O
+is	O
+a	O
+dessert	B-PROD
+consumed	O
+in	O
+morocco	B-LOC
+.	O
+
+#	id	274
+lalo	O
+)	O
+is	O
+a	O
+studio	O
+album	O
+by	O
+lalo	B-PER
+rodríguez	I-PER
+released	O
+by	O
+global	B-CORP
+records	I-CORP
+in	O
+1982	O
+.	O
+
+#	id	275
+the	O
+closure	O
+of	O
+the	O
+site	O
+led	O
+to	O
+the	O
+creation	O
+of	O
+a	O
+number	O
+of	O
+internet	B-CW
+meme	I-CW
+.	O
+
+#	id	276
+this	O
+standard	O
+was	O
+create	O
+by	O
+the	O
+association	B-GRP
+for	I-GRP
+information	I-GRP
+and	I-GRP
+image	I-GRP
+management	I-GRP
+and	O
+astm	B-CORP
+international	I-CORP
+.	O
+
+#	id	277
+armenia	O
+has	O
+an	O
+embassy	O
+in	O
+mexico	B-LOC
+city	I-LOC
+.	O
+
+#	id	278
+along	O
+the	O
+sides	O
+are	O
+chapels	O
+and	O
+confessional	B-PROD
+.	O
+
+#	id	279
+it	O
+was	O
+co	O
+developed	O
+with	O
+daimler	B-CORP
+ag	I-CORP
+third	O
+generation	O
+smart	B-PROD
+fortwo	I-PROD
+and	O
+second	O
+generation	O
+smart	B-PROD
+forfour	I-PROD
+.	O
+
+#	id	280
+her	O
+interest	O
+in	O
+politics	O
+was	O
+sparked	O
+by	O
+julius	B-PER
+nyerere	I-PER
+and	O
+his	O
+philosophies	O
+on	O
+education	O
+and	O
+democracy	O
+.	O
+
+#	id	281
+he	O
+joined	O
+general	B-CORP
+motors	I-CORP
+in	O
+1939	O
+as	O
+a	O
+trainee	O
+.	O
+
+#	id	282
+saint	O
+bueil	O
+is	O
+a	O
+commune	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+the	O
+isère	B-LOC
+department	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+southeastern	O
+france	B-LOC
+.	O
+
+#	id	283
+245	O
+(	O
+march	O
+1980	O
+)	O
+.	O
+
+#	id	284
+he	O
+also	O
+hosted	O
+12	O
+hours	O
+a	O
+week	O
+for	O
+sirius	B-CORP
+satellite	I-CORP
+radio	I-CORP
+musical	O
+theatre	O
+channel	O
+.	O
+
+#	id	285
+helena	B-PER
+suková	I-PER
+and	O
+cyril	B-PER
+suk	I-PER
+won	O
+the	O
+title	O
+,	O
+defeating	O
+caroline	B-PER
+vis	I-PER
+and	O
+paul	B-PER
+haarhuis	I-PER
+in	O
+the	O
+final	O
+.	O
+
+#	id	286
+in	O
+1933	O
+he	O
+designed	O
+the	O
+first	O
+diesel	B-PROD
+locomotive	I-PROD
+(	O
+cm	O
+210	O
+)	O
+and	O
+it	O
+served	O
+until	O
+1960	O
+.	O
+
+#	id	287
+through	O
+her	O
+mother	O
+,	O
+she	O
+is	O
+the	O
+niece	O
+to	O
+singers	O
+ziana	B-PER
+zain	I-PER
+and	O
+anuar	B-PER
+zain	I-PER
+.	O
+
+#	id	288
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+township	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+of	O
+which	O
+is	O
+land	O
+and	O
+,	O
+or	O
+2.00	O
+%	O
+,	O
+is	O
+water	O
+.	O
+
+#	id	289
+the	O
+purpose	O
+of	O
+the	O
+company	O
+was	O
+to	O
+harvest	O
+timber	O
+to	O
+run	O
+anaconda	B-LOC
+smelter	O
+.	O
+
+#	id	290
+andré	B-PER
+marie	I-PER
+constant	I-PER
+duméril	I-PER
+,	O
+gabriel	B-PER
+bibron	I-PER
+,	O
+&	O
+auguste	B-PER
+duméril	I-PER
+]	O
+.	O
+1854	O
+.	O
+
+#	id	291
+they	O
+are	O
+now	O
+in	O
+the	O
+kunsthistorisches	B-LOC
+museum	I-LOC
+,	O
+vienna	B-LOC
+,	O
+and	O
+elsewhere	O
+.	O
+
+#	id	292
+seven	O
+other	O
+sailors	O
+likely	O
+drowned	O
+offshore	O
+guinea-bissau	B-LOC
+after	O
+their	O
+fishing	O
+boat	O
+collapsed	O
+.	O
+
+#	id	293
+from	O
+1999	O
+to	O
+2006	O
+,	O
+he	O
+was	O
+the	O
+head	O
+football	O
+coach	O
+at	O
+gannon	B-GRP
+university	I-GRP
+in	O
+erie	B-LOC
+,	O
+where	O
+he	O
+compiled	O
+a	O
+31	O
+–	O
+51	O
+.	O
+
+#	id	294
+it	O
+lies	O
+approximately	O
+north	O
+west	O
+of	O
+łęczyce,	B-LOC
+pomeranian	I-LOC
+voivodeship	I-LOC
+,	O
+west	O
+of	O
+wejherowo	B-LOC
+,	O
+and	O
+north	O
+west	O
+of	O
+the	O
+regional	O
+capital	O
+gdańsk	B-LOC
+.	O
+
+#	id	295
+the	O
+episode	O
+was	O
+written	O
+by	O
+chris	B-PER
+carter	I-PER
+and	O
+directed	O
+by	O
+kim	B-PER
+manners	I-PER
+.	O
+
+#	id	296
+as	O
+well	O
+as	O
+his	O
+imaginative	O
+clothing	O
+collections	O
+,	O
+the	O
+designer	O
+creates	O
+home	O
+furnishings	O
+and	O
+has	O
+designed	O
+a	O
+watch	O
+inspired	O
+by	O
+the	O
+childhood	O
+favourite	O
+,	O
+lego	B-PROD
+.	O
+
+#	id	297
+scuba	O
+diving	O
+experts	O
+including	O
+richard	B-PER
+widmark	I-PER
+operate	O
+as	O
+military	O
+commandos	O
+.	O
+
+#	id	298
+stallone	O
+ended	O
+their	O
+relationship	O
+via	O
+fedex	B-CORP
+in	O
+1994	O
+.	O
+
+#	id	299
+moodie	O
+became	O
+the	O
+first	O
+professor	O
+of	O
+politics	O
+and	O
+head	O
+of	O
+department	O
+at	O
+the	O
+newly	O
+founded	O
+university	B-GRP
+of	I-GRP
+york	I-GRP
+in	O
+1963	O
+,	O
+where	O
+he	O
+remained	O
+until	O
+his	O
+retirement	O
+in	O
+1980	O
+.	O
+
+#	id	300
+he	O
+spent	O
+his	O
+early	O
+years	O
+in	O
+the	O
+nearby	O
+suburb	O
+of	O
+williamstown	B-LOC
+.	O
+
+#	id	301
+malakai	O
+,	O
+the	O
+former	O
+spelling	O
+of	O
+the	O
+band	O
+malachai	B-GRP
+
+#	id	302
+james	B-PER
+honeyman-scott	I-PER
+–	O
+lead	O
+guitar	O
+,	O
+keyboards	O
+,	O
+backing	O
+vocals	O
+
+#	id	303
+he	O
+also	O
+has	O
+custom	O
+amps	O
+with	O
+kustom	B-CORP
+amplification	I-CORP
+featuring	O
+his	O
+own	O
+design	O
+printed	O
+on	O
+the	O
+front	O
+resembling	O
+a	O
+skull	O
+engulfed	O
+in	O
+flames	O
+.	O
+
+#	id	304
+she	O
+is	O
+signed	O
+with	O
+epic	B-CORP
+records	I-CORP
+.	O
+
+#	id	305
+widely	O
+distributed	O
+in	O
+the	O
+wet	O
+climatic	O
+zones	O
+from	O
+400	O
+1500m	O
+,	O
+and	O
+known	O
+localities	O
+include	O
+kandy	B-LOC
+,	O
+nawalapitiya	B-LOC
+,	O
+deniyaya	B-LOC
+,	O
+and	O
+peradeniya	B-LOC
+.	O
+
+#	id	306
+they	O
+readily	O
+attend	O
+hemipterans	O
+and	O
+are	O
+found	O
+in	O
+citrus	B-PROD
+groves	O
+,	O
+but	O
+their	O
+role	O
+in	O
+disrupting	O
+biological	O
+control	O
+has	O
+not	O
+been	O
+determined	O
+.	O
+
+#	id	307
+,	O
+a	O
+character	O
+in	O
+the	O
+manga	O
+series	O
+kimagure	B-CW
+orange	I-CW
+road	I-CW
+
+#	id	308
+overman	B-CW
+king	I-CW
+gainer	I-CW
+(	O
+2002	O
+2003	O
+)	O
+mecha	O
+designer	O
+
+#	id	309
+eliminated	O
+by	O
+real	B-GRP
+madrid	I-GRP
+baloncesto	I-GRP
+,	O
+82	O
+109	O
+(	O
+l	O
+)	O
+in	O
+madrid	B-LOC
+and	O
+117	O
+130	O
+(	O
+l	O
+)	O
+in	O
+zadar	B-LOC
+
+#	id	310
+sify	B-CORP
+stated	O
+that	O
+mathai	O
+kuzhappakkaranalla	O
+?	O
+is	O
+an	O
+amateurish	O
+movie	O
+that	O
+tests	O
+your	O
+patience	O
+.	O
+
+#	id	311
+wadjda	O
+tells	O
+the	O
+story	O
+of	O
+a	O
+10	O
+year	O
+old	O
+girl	O
+growing	O
+up	O
+in	O
+the	O
+suburbs	O
+of	O
+riyadh	B-LOC
+,	O
+who	O
+dreams	O
+of	O
+owning	O
+and	O
+riding	O
+a	O
+green	O
+bicycle	O
+.	O
+
+#	id	312
+when	O
+he	O
+refused	O
+to	O
+pay	O
+the	O
+fine	O
+,	O
+his	O
+car	O
+(	O
+volkswagen	B-PROD
+golf	I-PROD
+)	O
+was	O
+confiscated	O
+by	O
+the	O
+government	O
+.	O
+
+#	id	313
+this	O
+production	O
+was	O
+revived	O
+two	O
+years	O
+later	O
+for	O
+performances	O
+at	O
+english	B-GRP
+national	I-GRP
+opera	I-GRP
+.	O
+
+#	id	314
+conservatives	O
+in	O
+blue	O
+,	O
+labour	B-GRP
+party	I-GRP
+in	O
+red	O
+]	O
+]	O
+
+#	id	315
+řípec	O
+lies	O
+approximately	O
+south	O
+of	O
+tábor	B-LOC
+,	O
+north	O
+east	O
+of	O
+české	B-LOC
+budějovice	I-LOC
+,	O
+and	O
+south	O
+of	O
+prague	B-LOC
+.	O
+
+#	id	316
+the	O
+book	O
+was	O
+adapted	O
+into	O
+a	O
+cbs	B-CORP
+television	O
+miniseries	B-CW
+,	O
+i'll	B-CW
+take	I-CW
+manhattan	I-CW
+,	O
+in	O
+1987	O
+.	O
+
+#	id	317
+when	O
+george	B-PER
+w.	I-PER
+bush	I-PER
+2003	O
+budget	O
+proposal	O
+threatened	O
+to	O
+cut	O
+education	O
+grants	O
+,	O
+she	O
+responded	O
+:	O
+
+#	id	318
+bodies	O
+were	O
+later	O
+recovered	O
+from	O
+the	O
+shyok	B-LOC
+river	I-LOC
+.	O
+
+#	id	319
+međeđa	O
+(	O
+)	O
+is	O
+a	O
+village	B-LOC
+in	O
+the	O
+municipality	B-LOC
+of	I-LOC
+bosnia	I-LOC
+and	I-LOC
+herzegovina	I-LOC
+of	O
+višegrad	B-LOC
+,	O
+bosnia	B-LOC
+and	I-LOC
+herzegovina	I-LOC
+.	O
+
+#	id	320
+remixes	O
+of	O
+six	O
+songs	O
+from	O
+the	O
+album	O
+were	O
+later	O
+included	O
+on	O
+the	O
+12"ers	B-CW
+compilation	O
+album	O
+,	O
+released	O
+in	O
+1987	O
+.	O
+
+#	id	321
+the	O
+hostages	O
+from	O
+this	O
+group	O
+who	O
+were	O
+still	O
+alive	O
+were	O
+then	O
+ordered	O
+to	O
+lie	O
+down	O
+and	O
+shot	O
+with	O
+an	O
+automatic	B-PROD
+rifle	I-PROD
+by	O
+another	O
+gunman	O
+;	O
+all	O
+but	O
+one	O
+of	O
+them	O
+were	O
+killed	O
+.	O
+
+#	id	322
+she	O
+was	O
+heavily	O
+damaged	O
+by	O
+air	O
+attack	O
+and	O
+beached	O
+in	O
+1940	O
+near	O
+terneuzen	B-LOC
+.	O
+
+#	id	323
+almost	O
+every	O
+department	O
+from	O
+the	O
+government	B-GRP
+of	I-GRP
+india	I-GRP
+attends	O
+it	O
+.	O
+
+#	id	324
+babe	B-PER
+laufenberg	I-PER
+,	O
+professional	O
+football	O
+player	O
+,	O
+sports	O
+announcer	O
+
+#	id	325
+the	O
+term	O
+fastback	B-PROD
+may	O
+sometimes	O
+also	O
+be	O
+used	O
+by	O
+manufacturers	O
+to	O
+market	O
+liftback	O
+cars	O
+.	O
+
+#	id	326
+lindstrom	O
+remained	O
+on	O
+recurring	O
+status	O
+with	O
+the	O
+show	O
+appearing	O
+sporadically	O
+until	O
+2001	O
+,	O
+while	O
+being	O
+a	O
+main	O
+cast	O
+member	O
+on	O
+spin	O
+off	O
+port	B-CW
+charles	I-CW
+.	O
+
+#	id	327
+he	O
+also	O
+became	O
+an	O
+assistant	O
+,	O
+of	O
+the	O
+royal	B-CORP
+african	I-CORP
+company	I-CORP
+in	O
+1727	O
+.	O
+
+#	id	328
+it	O
+closed	O
+briefly	O
+during	O
+dorothy	B-PER
+mccullough	I-PER
+lee	I-PER
+mayorship	O
+,	O
+but	O
+reopened	O
+in	O
+1953	O
+.	O
+
+#	id	329
+gary	B-PER
+kemp	I-PER
+–	O
+lead	O
+guitar	O
+,	O
+keyboards	O
+,	O
+synthesizers	O
+,	O
+piano	O
+,	O
+backing	O
+vocals	O
+(	O
+1979	O
+–	O
+1990	O
+,	O
+2009	O
+–	O
+2019	O
+)	O
+
+#	id	330
+j.	B-PER
+r.	I-PER
+r.	I-PER
+tolkien	I-PER
+fantasy	O
+novel	O
+the	B-CW
+lord	I-CW
+of	I-CW
+the	I-CW
+rings	I-CW
+was	O
+published	O
+in	O
+three	O
+volumes	O
+in	O
+1954	O
+–	O
+1955	O
+,	O
+and	O
+has	O
+sold	O
+over	O
+150	O
+million	O
+copies	O
+.	O
+
+#	id	331
+it	O
+was	O
+described	O
+by	O
+émile	B-PER
+louis	I-PER
+ragonot	I-PER
+in	O
+1888	O
+.	O
+
+#	id	332
+the	O
+most	O
+important	O
+crop	O
+is	O
+the	O
+yam	B-PROD
+.	O
+
+#	id	333
+sid	B-PER
+collins	I-PER
+,	O
+who	O
+had	O
+served	O
+as	O
+a	O
+turn	O
+reporter	O
+for	O
+two	O
+years	O
+,	O
+was	O
+tentatively	O
+named	O
+his	O
+replacement	O
+.	O
+
+#	id	334
+she	O
+graduated	O
+in	O
+korean	B-CW
+literature	I-CW
+from	O
+konkuk	B-GRP
+university	I-GRP
+,	O
+and	O
+completed	O
+a	O
+master	O
+'s	O
+degree	O
+in	O
+the	O
+same	O
+school	O
+.	O
+
+#	id	335
+in	O
+1978	O
+,	O
+he	O
+appeared	O
+on	O
+saturday	B-CW
+night	I-CW
+live	I-CW
+with	O
+michael	B-PER
+palin	I-PER
+.	O
+
+#	id	336
+abraham	B-PER
+lincoln	I-PER
+disliked	O
+the	O
+ornate	O
+railroad	O
+car	O
+supplied	O
+for	O
+his	O
+service	O
+as	O
+president	O
+:	O
+he	O
+rode	O
+in	O
+it	O
+only	O
+in	O
+his	O
+coffin	O
+.	O
+
+#	id	337
+portrayed	O
+by	O
+song	B-PER
+kang-ho	I-PER
+in	O
+the	O
+2019	O
+film	O
+the	B-CW
+king's	I-CW
+letters	I-CW
+
+#	id	338
+the	O
+cortland	B-PROD
+apple	O
+is	O
+named	O
+for	O
+the	O
+county	O
+.	O
+
+#	id	339
+lane	O
+is	O
+chairman	O
+of	O
+henry	B-GRP
+l.	I-GRP
+stimson	I-GRP
+center	I-GRP
+.	O
+
+#	id	340
+where	B-CW
+you	I-CW
+are	I-CW
+–	O
+jessica	B-PER
+simpson	I-PER
+and	O
+nick	B-PER
+lachey	I-PER
+,	O
+2000	O
+
+#	id	341
+rogues	O
+river	O
+:	O
+a	O
+section	O
+of	O
+the	O
+hooghly	B-LOC
+river	I-LOC
+
+#	id	342
+:	O
+cenk	B-PER
+akyol	I-PER
+(	O
+draft	O
+rights	O
+from	O
+atlanta	O
+)	O
+
+#	id	343
+bakkies	O
+(	O
+pickup	B-PROD
+truck	I-PROD
+)	O
+will	O
+be	O
+taxed	O
+because	O
+they	O
+are	O
+often	O
+used	O
+as	O
+passenger	O
+vehicles	O
+:	O
+this	O
+has	O
+caused	O
+an	O
+uproar	O
+for	O
+fear	O
+of	O
+affecting	O
+industry	O
+.	O
+
+#	id	344
+one	O
+of	O
+three	O
+surface	O
+lakes	O
+on	O
+signy	B-LOC
+island	I-LOC
+.	O
+
+#	id	345
+they	O
+have	O
+signed	O
+with	O
+croatia	B-LOC
+label	O
+croatia	B-CORP
+records	I-CORP
+.	O
+
+#	id	346
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+village	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+land	O
+.	O
+
+#	id	347
+he	O
+was	O
+signed	O
+by	O
+the	O
+tampa	B-GRP
+bay	I-GRP
+buccaneers	I-GRP
+in	O
+2002	O
+but	O
+did	O
+not	O
+make	O
+the	O
+roster	O
+.	O
+
+#	id	348
+it	O
+shows	O
+gregory	B-PER
+i	I-PER
+holding	O
+a	O
+sheet	O
+of	O
+plainsong	B-CW
+.	O
+
+#	id	349
+in	O
+1997	O
+starred	O
+in	O
+telenovela	O
+el	B-CW
+alma	I-CW
+no	I-CW
+tiene	I-CW
+color	I-CW
+.	O
+
+#	id	350
+midway	O
+is	O
+west	O
+northwest	O
+of	O
+church	B-LOC
+hill	I-LOC
+.	O
+
+#	id	351
+16	O
+.	O
+
+#	id	352
+menno	B-PER
+oosting	I-PER
+/	O
+libor	B-PER
+pimek	I-PER
+(	O
+champions	O
+)	O
+
+#	id	353
+july	O
+21	O
+–	O
+mos	B-CORP
+burger	I-CORP
+was	O
+founded	O
+.	O
+
+#	id	354
+the	O
+stadium	O
+has	O
+a	O
+synthetic	O
+fieldturf	B-PROD
+surface	O
+,	O
+installed	O
+in	O
+2006	O
+and	O
+renewed	O
+in	O
+2016	O
+,	O
+and	O
+a	O
+daktronics	B-CORP
+scoreboard	O
+,	O
+installed	O
+in	O
+2007	O
+.	O
+
+#	id	355
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+city	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+of	O
+it	O
+land	O
+.	O
+
+#	id	356
+a	O
+report	O
+from	O
+state	O
+run	O
+al	B-CORP
+iraqiya	I-CORP
+stated	O
+that	O
+local	O
+officials	O
+said	O
+that	O
+two	O
+mortar	O
+rounds	O
+were	O
+fired	O
+at	O
+the	O
+two	O
+minarets	O
+.	O
+
+#	id	357
+numerous	O
+attempts	O
+were	O
+made	O
+to	O
+revive	O
+it	O
+during	O
+the	O
+1990s	O
+and	O
+2000s	O
+,	O
+most	O
+notably	O
+as	O
+a	O
+major	B-CORP
+league	I-CORP
+soccer	I-CORP
+(	O
+mls	O
+)	O
+club	O
+.	O
+
+#	id	358
+among	O
+the	O
+designers	O
+of	O
+the	O
+initial	O
+modern	O
+buildings	O
+of	O
+the	O
+airport	O
+was	O
+the	O
+famous	O
+architect	O
+william	B-PER
+pereira	I-PER
+.	O
+
+#	id	359
+it	O
+was	O
+later	O
+published	O
+by	O
+the	O
+local	O
+gazprom	B-CORP
+department	O
+.	O
+
+#	id	360
+the	O
+train	O
+services	O
+are	O
+operated	O
+by	O
+westfalenbahn	B-CORP
+.	O
+
+#	id	361
+belá,	B-LOC
+žilina	I-LOC
+district	I-LOC
+,	O
+a	O
+village	O
+and	O
+municipality	O
+
+#	id	362
+the	O
+historical	O
+genus	O
+of	O
+cruciferous	B-PROD
+vegetable	I-PROD
+,	O
+meaning	O
+cross	O
+bearing	O
+in	O
+reference	O
+to	O
+the	O
+four	O
+petaled	O
+flowers	O
+,	O
+may	O
+be	O
+the	O
+only	O
+unifying	O
+feature	O
+beyond	O
+taste	O
+.	O
+
+#	id	363
+there	O
+are	O
+also	O
+warehouses	O
+,	O
+car	O
+dealerships	O
+,	O
+and	O
+a	O
+civic	B-GRP
+amenity	I-GRP
+site	I-GRP
+.	O
+
+#	id	364
+in	O
+1742	O
+the	O
+settlement	O
+was	O
+annexed	O
+by	O
+the	O
+kingdom	B-LOC
+of	I-LOC
+prussia	I-LOC
+.	O
+
+#	id	365
+the	O
+station	O
+is	O
+currently	O
+owned	O
+by	O
+cumulus	B-CORP
+media	I-CORP
+.	O
+
+#	id	366
+in	O
+some	O
+students	O
+this	O
+manifests	O
+as	O
+an	O
+outright	O
+fear	O
+of	O
+library	B-GRP
+and	O
+the	O
+librarians	O
+who	O
+work	O
+there	O
+.	O
+
+#	id	367
+more	O
+recent	O
+units	O
+can	O
+store	O
+fresh	O
+milk	O
+in	O
+a	O
+separate	O
+internal	O
+container	O
+,	O
+instead	O
+of	O
+relying	O
+on	O
+milk	B-PROD
+powder	I-PROD
+.	O
+
+#	id	368
+joséphine	O
+'s	O
+daughter	O
+,	O
+hortense	B-PER
+de	I-PER
+beauharnais	I-PER
+would	O
+call	O
+it	O
+a	O
+delicious	O
+spot	O
+.	O
+
+#	id	369
+he	O
+was	O
+a	O
+first	O
+lieutenant	O
+in	O
+the	O
+california	B-GRP
+national	I-GRP
+guard	I-GRP
+during	O
+1906	O
+–	O
+1908	O
+.	O
+
+#	id	370
+in	O
+addition	O
+to	O
+its	O
+main	O
+activities	O
+,	O
+the	O
+great	O
+hall	O
+serves	O
+as	O
+a	O
+covered	O
+market	O
+for	O
+food	O
+and	O
+flea	B-CORP
+market	I-CORP
+.	O
+
+#	id	371
+kilgallon	O
+began	O
+his	O
+career	O
+at	O
+leeds	B-GRP
+united	I-GRP
+f.c.	I-GRP
+,	O
+where	O
+he	O
+came	O
+through	O
+the	O
+youth	O
+set	O
+up	O
+before	O
+becoming	O
+a	O
+fixture	O
+in	O
+their	O
+first	O
+team	O
+.	O
+
+#	id	372
+1998	O
+cucciolo	B-CW
+,	O
+directed	O
+by	O
+neri	B-PER
+parenti	I-PER
+
+#	id	373
+he	O
+is	O
+a	O
+member	O
+of	O
+the	O
+republican	B-GRP
+party	I-GRP
+.	O
+
+#	id	374
+alain	B-PER
+prost	I-PER
+was	O
+predictably	O
+second	O
+on	O
+the	O
+grid	O
+,	O
+though	O
+he	O
+was	O
+some	O
+6	O
+/	O
+10ths	O
+slower	O
+than	O
+his	O
+teammate	O
+.	O
+
+#	id	375
+it	O
+was	O
+around	O
+this	O
+time	O
+that	O
+he	O
+became	O
+affiliated	O
+with	O
+the	O
+rikken	B-GRP
+seiyūkai	I-GRP
+political	O
+party	O
+,	O
+although	O
+he	O
+was	O
+also	O
+very	O
+close	O
+to	O
+fumimaro	B-PER
+konoe	I-PER
+due	O
+to	O
+his	O
+family	O
+ties	O
+.	O
+
+#	id	376
+seo	O
+later	O
+became	O
+close	O
+with	O
+park	B-PER
+yeong-hyo	I-PER
+,	O
+park	B-PER
+chan-ju	I-PER
+’s	O
+grandfather	O
+(	O
+the	O
+wife	O
+of	O
+yi	B-PER
+u	I-PER
+)	O
+.	O
+
+#	id	377
+they	O
+display	O
+aggression	O
+towards	O
+shark	B-PROD
+and	O
+smaller	O
+dolphin	O
+species	O
+.	O
+
+#	id	378
+that	O
+year	O
+,	O
+recording	O
+label	O
+sony	B-CORP
+music	I-CORP
+decided	O
+to	O
+drop	O
+the	O
+band	O
+.	O
+
+#	id	379
+this	O
+is	O
+a	O
+list	O
+of	O
+the	O
+first	O
+minority	O
+male	O
+lawyer	O
+(	O
+s	O
+)	O
+and	O
+judge	O
+(	O
+s	O
+)	O
+in	O
+missouri	B-LOC
+.	O
+
+#	id	380
+according	O
+to	O
+variety	B-CORP
+,	O
+their	O
+screening	O
+of	O
+the	O
+film	O
+had	O
+certain	O
+scenes	O
+tinted	O
+an	O
+eerie	O
+green	O
+.	O
+
+#	id	381
+the	O
+village	O
+of	O
+balmaha	B-LOC
+on	O
+the	O
+eastern	O
+shore	O
+of	O
+loch	B-LOC
+lomond	I-LOC
+is	O
+the	O
+next	O
+settlement	O
+reached	O
+.	O
+
+#	id	382
+iftikhar	B-PER
+muhammad	I-PER
+chaudhry	I-PER
+is	O
+the	O
+only	O
+justice	O
+to	O
+have	O
+served	O
+non	O
+consecutive	O
+terms	O
+,	O
+for	O
+a	O
+total	O
+of	O
+three	O
+terms	O
+with	O
+total	O
+of	O
+2,480	O
+days	O
+.	O
+
+#	id	383
+five	B-LOC
+oak	I-LOC
+green,	I-LOC
+kent	I-LOC
+tx	O
+county	O
+
+#	id	384
+positively	B-CW
+4th	I-CW
+street	I-CW
+[	O
+live	O
+]	O
+(	O
+bob	O
+dylan	O
+)	O
+–	O
+3	O
+:	O
+04	O
+
+#	id	385
+the	O
+turbine	O
+was	O
+designed	O
+to	O
+produce	O
+,	O
+using	O
+steam	O
+provided	O
+by	O
+2	O
+combustion	B-CORP
+engineering	I-CORP
+boiler	B-PROD
+,	O
+to	O
+reach	O
+the	O
+designed	O
+speed	O
+of	O
+.	O
+
+#	id	386
+frode	B-PER
+berge	I-PER
+(	O
+born	O
+1966	O
+)	O
+,	O
+term	O
+/	O
+s	O
+:	O
+1993	O
+–	O
+1997	O
+and	O
+2005	O
+–	O
+2009	O
+
+#	id	387
+the	O
+track	O
+was	O
+also	O
+part	O
+of	O
+the	O
+soundtrack	O
+of	O
+the	O
+2003	O
+video	O
+game	O
+need	B-CW
+for	I-CW
+speed:	I-CW
+underground	I-CW
+,	O
+used	O
+prominently	O
+in	O
+its	O
+demo	O
+.	O
+
+#	id	388
+artist	O
+:	O
+françois	B-PER
+bouchot	I-PER
+,	O
+signed	O
+1837	O
+.	O
+
+#	id	389
+he	O
+was	O
+also	O
+the	O
+commissioner	O
+of	O
+the	O
+manitoba	B-GRP
+junior	I-GRP
+hockey	I-GRP
+league	I-GRP
+from	O
+2002	O
+to	O
+2020	O
+.	O
+
+#	id	390
+giuseppe	O
+verdi	O
+:	O
+aida	B-CW
+(	O
+1993	O
+,	O
+2013	O
+)	O
+
+#	id	391
+he	O
+was	O
+released	O
+when	O
+his	O
+contract	O
+expired	O
+at	O
+the	O
+end	O
+of	O
+the	O
+2010	O
+–	O
+11	O
+season	O
+,	O
+and	O
+joined	O
+milton	B-GRP
+keynes	I-GRP
+dons	I-GRP
+f.c.	I-GRP
+.	O
+
+#	id	392
+the	O
+first	O
+applications	O
+of	O
+metal	O
+hydrides	O
+were	O
+made	O
+by	O
+national	B-GRP
+aeronautics	I-GRP
+and	I-GRP
+space	I-GRP
+administration	I-GRP
+to	O
+demonstrate	O
+long	O
+term	O
+hydrogen	O
+storage	O
+for	O
+use	O
+in	O
+space	O
+propulsion	O
+.	O
+
+#	id	393
+lover,	B-CW
+come	I-CW
+back	I-CW
+to	I-CW
+me	I-CW
+(	O
+sigmund	B-PER
+romberg	I-PER
+,	O
+oscar	B-PER
+hammerstein	I-PER
+ii	I-PER
+)	O
+2	O
+:	O
+16	O
+
+#	id	394
+the	O
+following	O
+are	O
+programs	O
+that	O
+ended	O
+on	O
+people's	B-CORP
+television	I-CORP
+network	I-CORP
+:	O
+
+#	id	395
+directors	O
+david	B-PER
+hayter	I-PER
+,	O
+darren	B-PER
+aronofsky	I-PER
+and	O
+paul	B-PER
+greengrass	I-PER
+were	O
+attached	O
+to	O
+the	O
+project	O
+before	O
+it	O
+was	O
+cancelled	O
+over	O
+budget	O
+disputes	O
+.	O
+
+#	id	396
+there	O
+have	O
+been	O
+found	O
+bronze	O
+or	O
+iron	O
+arrowheads	O
+,	O
+also	O
+iron	O
+sickle	B-PROD
+or	O
+carpet	O
+knives	O
+among	O
+other	O
+artifacts	O
+.	O
+
+#	id	397
+bell	O
+also	O
+attended	O
+roosevelt	B-GRP
+university	I-GRP
+in	O
+chicago	B-LOC
+,	O
+where	O
+he	O
+took	O
+art	O
+classes	O
+and	O
+studied	O
+with	O
+don	B-PER
+baum	I-PER
+.	O
+
+#	id	398
+the	O
+overthrow	O
+of	O
+eric	B-PER
+gairy	I-PER
+that	O
+brought	O
+the	O
+new	B-GRP
+jewel	I-GRP
+movement	I-GRP
+to	O
+power	O
+in	O
+grenada	B-LOC
+from	O
+1979	O
+until	O
+1983	O
+,	O
+when	O
+they	O
+were	O
+deposed	O
+by	O
+a	O
+united	B-LOC
+states	I-LOC
+of	I-LOC
+america	I-LOC
+led	O
+invasion	O
+.	O
+
+#	id	399
+gilbert	O
+'s	O
+play	O
+first	O
+appeared	O
+in	O
+fun	B-CW
+in	O
+1874	O
+after	O
+having	O
+been	O
+rejected	O
+for	O
+production	O
+by	O
+several	O
+theatre	O
+companies	O
+.	O
+
+#	id	400
+silverman	O
+'s	O
+real	O
+life	O
+sister	O
+,	O
+laura	B-PER
+silverman	I-PER
+,	O
+played	O
+her	O
+sister	O
+on	O
+the	B-CW
+sarah	I-CW
+silverman	I-CW
+program	I-CW
+.	O
+
+#	id	401
+an	O
+unconvincing	O
+victory	O
+over	O
+clare	B-GRP
+gaa	I-GRP
+was	O
+followed	O
+by	O
+a	O
+humiliating	O
+0	O
+–	O
+18	O
+to	O
+0	O
+–	O
+12	O
+defeat	O
+by	O
+fermanagh	B-GRP
+gaa	I-GRP
+.	O
+
+#	id	402
+the	O
+music	O
+was	O
+composed	O
+and	O
+conducted	O
+by	O
+bruce	B-PER
+smeaton	I-PER
+and	O
+has	O
+been	O
+released	O
+on	O
+the	O
+1m1	B-CORP
+records	I-CORP
+label	O
+.	O
+
+#	id	403
+events	O
+in	O
+the	O
+year	O
+2013	O
+in	O
+the	O
+european	B-GRP
+union	I-GRP
+.	O
+
+#	id	404
+david	B-PER
+immerglück	I-PER
+–	O
+guitars	O
+,	O
+bass	O
+,	O
+pedal	O
+steel	O
+guitar	O
+,	O
+banjo	O
+,	O
+mandolin	O
+,	O
+backing	O
+vocals	O
+(	O
+1999	O
+–	O
+present	O
+,	O
+session	O
+member	O
+1993	O
+–	O
+1999	O
+)	O
+
+#	id	405
+the	O
+crater	O
+is	O
+named	O
+in	O
+honor	O
+of	O
+vilhelm	B-PER
+bjerknes	I-PER
+,	O
+a	O
+pioneer	O
+in	O
+the	O
+field	O
+of	O
+weather	O
+forecasting	O
+.	O
+
+#	id	406
+this	O
+feature	O
+,	O
+however	O
+,	O
+would	O
+not	O
+become	O
+standard	O
+for	O
+all	O
+subway	O
+cars	O
+until	O
+the	O
+r44	B-PROD
+order	O
+in	O
+1971	O
+.	O
+
+#	id	407
+initial	O
+models	O
+were	O
+equipped	O
+with	O
+hand	O
+started	O
+minarelli	B-CORP
+49cc	O
+engines	O
+,	O
+cable	O
+brakes	O
+and	O
+single	O
+headlamps	O
+.	O
+
+#	id	408
+also	O
+that	O
+year	O
+,	O
+he	O
+mixed	O
+jeremih	B-PER
+down	B-CW
+on	I-CW
+me	I-CW
+(	O
+featuring	O
+50	B-PER
+cent	I-PER
+)	O
+.	O
+
+#	id	409
+at	O
+the	O
+age	O
+of	O
+17	O
+,	O
+she	O
+met	O
+and	O
+was	O
+courted	O
+by	O
+alfred	B-PER
+de	I-PER
+musset	I-PER
+,	O
+who	O
+had	O
+earlier	O
+been	O
+taken	O
+with	O
+her	O
+sister	O
+maria	B-PER
+malibran	I-PER
+.	O
+
+#	id	410
+:	O
+fairbourne	B-LOC
+railway	I-LOC
+station	I-LOC
+is	O
+also	O
+served	O
+by	O
+the	O
+nearby	O
+fairbourne	B-CORP
+railway	I-CORP
+,	O
+a	O
+narrow	O
+gauge	O
+heritage	O
+railway	O
+.	O
+
+#	id	411
+lupino	B-PER
+lane	I-PER
+(	O
+actor	O
+and	O
+film	O
+director	O
+,	O
+actually	O
+great	O
+nephew	O
+of	O
+sarah	O
+lane	O
+)	O
+
+#	id	412
+fc	B-GRP
+khimik	I-GRP
+svetlogorsk	I-GRP
+were	O
+invited	O
+instead	O
+and	O
+accepted	O
+invitation	O
+.	O
+
+#	id	413
+nellie	B-PER
+campobello	I-PER
+(	O
+1900	O
+–	O
+1986	O
+,	O
+mexico	O
+)	O
+,	O
+poet	O
+&	O
+chronicler	O
+
+#	id	414
+horse	B-PROD
+meat	I-PROD
+–	O
+a	O
+major	O
+meat	O
+in	O
+only	O
+a	O
+few	O
+countries	O
+,	O
+it	O
+is	O
+sometimes	O
+smoked	O
+
+#	id	415
+he	O
+'s	O
+the	O
+younger	O
+brother	O
+of	O
+yoshiaki	B-PER
+takagi	I-PER
+and	O
+toshiyuki	B-PER
+takagi	I-PER
+,	O
+who	O
+both	O
+grew	O
+up	O
+in	O
+tokyo	B-GRP
+verdy	I-GRP
+youth	O
+ranks	O
+.	O
+
+#	id	416
+marie	B-PER
+curie	I-PER
+(	O
+res	O
+)	O
+–	O
+1903	O
+,	O
+1911	O
+
+#	id	417
+he	O
+went	O
+to	O
+marquette	B-GRP
+university	I-GRP
+and	O
+was	O
+a	O
+print	O
+ink	O
+salesman	O
+.	O
+
+#	id	418
+the	O
+house	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+1986	O
+.	O
+
+#	id	419
+he	O
+left	O
+school	O
+at	O
+15	O
+when	O
+he	O
+became	O
+an	O
+apprentice	O
+fitter	O
+at	O
+swan	B-CORP
+hunter	I-CORP
+shipyard	O
+.	O
+
+#	id	420
+the	O
+city	O
+is	O
+served	O
+by	O
+belo	B-LOC
+jardim	I-LOC
+airport	I-LOC
+.	O
+
+#	id	421
+josh	B-PER
+henderson	I-PER
+,	O
+actor	O
+(	O
+john	O
+ross	O
+from	O
+dallas	B-CW
+)	O
+
+#	id	422
+he	O
+moved	O
+to	O
+bennington	B-GRP
+college	I-GRP
+in	O
+1958	O
+,	O
+where	O
+he	O
+also	O
+served	O
+as	O
+director	O
+of	O
+exhibitions	O
+.	O
+
+#	id	423
+bar	O
+:	O
+odaniel	O
+from	O
+:	O
+30	O
+/	O
+08	O
+/	O
+1954	O
+till	O
+:	O
+29	O
+/	O
+02	O
+/	O
+1956	O
+color	O
+:	O
+ltg	O
+text	O
+:	O
+john	B-PER
+w.	I-PER
+o'daniel	I-PER
+
+#	id	424
+he	O
+previously	O
+served	O
+as	O
+the	O
+director	O
+of	O
+the	O
+brigham	B-GRP
+young	I-GRP
+university	I-GRP
+opera	O
+program	O
+.	O
+
+#	id	425
+he	O
+was	O
+plato	O
+’s	O
+star	O
+student	O
+,	O
+but	O
+as	O
+a	O
+metic	B-PER
+,	O
+or	O
+resident	O
+foreigner	O
+(	O
+he	O
+was	O
+still	O
+greek	O
+)	O
+,	O
+he	O
+could	O
+not	O
+own	O
+property	O
+or	O
+sponsor	O
+the	O
+other	O
+metics	O
+.	O
+
+#	id	426
+the	O
+team	O
+let	O
+long	O
+time	O
+defender	O
+nick	B-PER
+deleon	I-PER
+go	O
+,	O
+and	O
+he	O
+found	O
+his	O
+way	O
+to	O
+toronto	B-GRP
+fc	I-GRP
+.	O
+
+#	id	427
+several	O
+men	O
+were	O
+killed	O
+,	O
+including	O
+the	O
+then	O
+leaders	O
+of	O
+the	O
+expedition	O
+,	O
+duarte	B-PER
+barbosa	I-PER
+and	O
+joão	B-PER
+serrão	I-PER
+.	O
+
+#	id	428
+contains	O
+the	O
+score	O
+(	O
+on	O
+112	O
+pages	O
+)	O
+for	O
+the	O
+opera	O
+teseo	B-CW
+(	O
+hwv	O
+9	O
+)	O
+.	O
+
+#	id	429
+banana	B-PROD
+is	O
+produced	O
+across	O
+the	O
+country	O
+.	O
+
+#	id	430
+templeton	O
+was	O
+the	O
+longest	O
+serving	O
+coach	O
+in	O
+north	B-GRP
+bay	I-GRP
+centennials	I-GRP
+history	O
+,	O
+serving	O
+as	O
+their	O
+boss	O
+for	O
+twelve	O
+of	O
+the	O
+team	O
+'s	O
+twenty	O
+seasons	O
+.	O
+
+#	id	431
+the	B-GRP
+new	I-GRP
+york	I-GRP
+times	I-GRP
+described	O
+the	O
+film	O
+as	O
+too	O
+poorly	O
+made	O
+to	O
+entertain	O
+.	O
+
+#	id	432
+eurovision	B-CW
+song	I-CW
+contest	I-CW
+1984	I-CW
+providing	O
+backing	O
+for	O
+anita	B-PER
+performing	O
+einfach	B-CW
+weg	I-CW
+
+#	id	433
+samoilova	O
+had	O
+the	O
+title	O
+role	O
+in	O
+aleksandr	B-PER
+zarkhi	I-PER
+anna	B-CW
+karenina	I-CW
+,	O
+appearing	O
+beside	O
+her	O
+former	O
+husband	O
+vasily	B-PER
+lanovoy	I-PER
+in	O
+the	O
+film	O
+.	O
+
+#	id	434
+will.i.am	B-PER
+performed	O
+four	O
+songs	O
+with	O
+all	O
+four	O
+finalists	O
+.	O
+
+#	id	435
+kelly	O
+has	O
+raised	O
+money	O
+for	O
+dance	O
+production	O
+by	O
+hosting	O
+telethon	B-CW
+out	O
+of	O
+his	O
+apartment	O
+.	O
+
+#	id	436
+series	O
+7	O
+,	O
+often	O
+used	O
+to	O
+describe	O
+the	O
+bmw	B-PROD
+7	I-PROD
+series	I-PROD
+of	O
+automobiles	O
+
+#	id	437
+in	O
+2000	O
+the	O
+archaeologist	O
+and	O
+expert	O
+on	O
+cave	O
+paintings	O
+dominique	B-PER
+baffier	I-PER
+was	O
+appointed	O
+to	O
+oversee	O
+conservation	O
+and	O
+management	O
+of	O
+the	O
+cave	O
+.	O
+
+#	id	438
+kintetsu	O
+kintetsu	B-LOC
+nagoya	I-LOC
+line	I-LOC
+(	O
+kintetsu	B-LOC
+yokkaichi	I-LOC
+station	I-LOC
+)	O
+connected	O
+by	O
+bus	O
+
+#	id	439
+donnelly	O
+was	O
+born	O
+in	O
+barberton	B-LOC
+.	O
+
+#	id	440
+this	O
+was	O
+the	O
+same	O
+engine	O
+used	O
+for	O
+the	O
+second	O
+generation	O
+cadillac	B-PROD
+escalade	I-PROD
+.	O
+
+#	id	441
+its	O
+main	O
+base	O
+was	O
+cairns	B-LOC
+airport	I-LOC
+,	O
+with	O
+its	O
+operating	O
+hub	O
+at	O
+horn	B-LOC
+island	I-LOC
+airport	I-LOC
+.	O
+
+#	id	442
+todd	O
+was	O
+a	O
+professor	O
+of	O
+business	O
+administration	O
+at	O
+queen's	B-GRP
+university	I-GRP
+from	O
+1989	O
+to	O
+1997	O
+.	O
+
+#	id	443
+the	O
+£	O
+5.5m	O
+expansion	O
+was	O
+completed	O
+in	O
+2001	O
+,	O
+and	O
+the	O
+theatre	O
+opened	O
+with	O
+a	O
+production	O
+of	O
+into	B-CW
+the	I-CW
+woods	I-CW
+by	O
+stephen	B-PER
+sondheim	I-PER
+.	O
+
+#	id	444
+there	O
+is	O
+no	O
+mention	O
+if	O
+this	O
+new	O
+freeway	O
+would	O
+be	O
+included	O
+in	O
+the	O
+interstate	B-LOC
+highway	I-LOC
+system	I-LOC
+,	O
+though	O
+it	O
+has	O
+nt	O
+been	O
+ruled	O
+out	O
+yet	O
+,	O
+either	O
+.	O
+
+#	id	445
+open	O
+ss	B-GRP
+scafatese	I-GRP
+calcio	I-GRP
+1922	I-GRP
+file	O
+
+#	id	446
+currently	O
+,	O
+he	O
+is	O
+a	O
+professor	O
+at	O
+the	O
+university	B-GRP
+of	I-GRP
+pennsylvania	I-GRP
+.	O
+
+#	id	447
+the	O
+eponymous	O
+theme	O
+song	O
+for	O
+the	O
+film	O
+was	O
+by	O
+amen	B-GRP
+corner	I-GRP
+,	O
+who	O
+appeared	O
+in	O
+the	O
+film	O
+singing	O
+it	O
+.	O
+
+#	id	448
+although	O
+different	O
+carriages	O
+appeared	O
+in	O
+different	O
+liveries	O
+,	O
+the	O
+dominant	O
+one	O
+is	O
+white	O
+and	O
+maroon	O
+,	O
+which	O
+is	O
+reminiscent	O
+of	O
+the	O
+livery	O
+of	O
+the	O
+caledonian	B-GRP
+railway	I-GRP
+.	O
+
+#	id	449
+get	B-CW
+your	I-CW
+gunn	I-CW
+(	O
+marilyn	B-GRP
+manson	I-GRP
+)	O
+–	O
+3	O
+:	O
+19	O
+
+#	id	450
+shelley	O
+'s	O
+play	O
+is	O
+a	O
+closet	B-CW
+drama	I-CW
+,	O
+meaning	O
+it	O
+was	O
+not	O
+intended	O
+to	O
+be	O
+produced	O
+on	O
+the	O
+stage	O
+.	O
+
+#	id	451
+a	O
+silk	B-PROD
+pocket	O
+handkerchief	O
+is	O
+laid	O
+down	O
+on	O
+a	O
+table	B-PROD
+.	O
+
+#	id	452
+he	O
+co	O
+founded	O
+the	O
+international	B-CORP
+dark-sky	I-CORP
+association	I-CORP
+with	O
+tim	B-PER
+hunter	I-PER
+in	O
+1988	O
+.	O
+
+#	id	453
+afterword	O
+by	O
+tom	B-PER
+hayden	I-PER
+and	O
+drawings	O
+by	O
+jules	B-PER
+feiffer	I-PER
+.	O
+
+#	id	454
+veteran	O
+cbs	B-CORP
+news	I-CORP
+correspondent	O
+jeff	B-PER
+glor	I-PER
+takes	O
+over	O
+as	O
+anchor	O
+of	O
+the	O
+cbs	B-CW
+evening	I-CW
+news	I-CW
+with	I-CW
+norah	I-CW
+o’donnell	I-CW
+from	O
+interim	O
+anthony	B-PER
+mason	I-PER
+.	O
+
+#	id	455
+alan	B-PER
+menken	I-PER
+(	O
+composer	O
+)	O
+&	O
+howard	B-PER
+ashman	I-PER
+(	O
+lyricist	O
+)	O
+for	O
+under	B-CW
+the	I-CW
+sea	I-CW
+performed	O
+by	O
+various	O
+artists	O
+
+#	id	456
+buchloh	O
+addresses	O
+some	O
+artists	O
+in	O
+terms	O
+of	O
+their	O
+oppositional	O
+approaches	O
+to	O
+language	O
+and	O
+painting	O
+,	O
+for	O
+example	O
+,	O
+nancy	B-PER
+spero	I-PER
+and	O
+lawrence	B-PER
+weiner	I-PER
+.	O
+
+#	id	457
+gelato	O
+typically	O
+contains	O
+70	O
+%	O
+less	O
+air	O
+and	O
+more	O
+flavouring	O
+than	O
+other	O
+kinds	O
+of	O
+frozen	O
+desserts	O
+,	O
+giving	O
+it	O
+a	O
+density	O
+and	O
+richness	O
+that	O
+distinguishes	O
+it	O
+from	O
+other	O
+ice	B-PROD
+cream	I-PROD
+.	O
+
+#	id	458
+he	O
+came	O
+to	O
+the	O
+the	B-GRP
+rockefeller	I-GRP
+university	I-GRP
+in	O
+1951	O
+and	O
+began	O
+his	O
+work	O
+on	O
+the	O
+genetics	O
+of	O
+rare	O
+metabolic	O
+diseases	O
+.	O
+
+#	id	459
+the	O
+park	O
+is	O
+surrounded	O
+by	O
+three	O
+other	O
+national	O
+parks	O
+:	O
+jostedalsbreen	B-LOC
+national	I-LOC
+park	I-LOC
+,	O
+jotunheimen	B-LOC
+national	I-LOC
+park	I-LOC
+,	O
+and	O
+reinheimen	B-LOC
+national	I-LOC
+park	I-LOC
+.	O
+
+#	id	460
+xxplosive	O
+by	O
+dr.	B-PER
+dre	I-PER
+from	O
+the	O
+album	O
+2001	B-CW
+
+#	id	461
+the	O
+song	O
+was	O
+included	O
+in	O
+the	O
+second	O
+trailer	O
+for	O
+the	B-CW
+hustle	I-CW
+.	O
+
+#	id	462
+main	O
+string	O
+sample	O
+taken	O
+from	O
+dmitri	B-PER
+shostakovich	I-PER
+symphony	B-CW
+no.	I-CW
+10	I-CW
+.	O
+
+#	id	463
+the	O
+music	O
+score	O
+was	O
+written	O
+by	O
+jerome	B-PER
+moross	I-PER
+.	O
+
+#	id	464
+hart	O
+lost	O
+the	O
+new	B-LOC
+york	I-LOC
+and	O
+pennsylvania	B-LOC
+primaries	O
+,	O
+but	O
+won	O
+those	O
+of	O
+ohio	B-LOC
+and	O
+indiana	B-LOC
+.	O
+
+#	id	465
+beginning	O
+in	O
+2010	O
+,	O
+its	O
+reputation	O
+eventually	O
+grew	O
+large	O
+enough	O
+to	O
+warrant	O
+a	O
+profile	O
+in	O
+mother	B-CW
+jones	I-CW
+.	O
+
+#	id	466
+print	O
+screen	O
+on	O
+bugatti	B-PROD
+divo	I-PROD
+
+#	id	467
+the	O
+league	O
+transformed	O
+into	O
+the	O
+american	B-GRP
+hockey	I-GRP
+league	I-GRP
+in	O
+1940	O
+.	O
+
+#	id	468
+indian	B-GRP
+national	I-GRP
+congress	I-GRP
+and	O
+its	O
+leader	O
+kumaraswami	B-PER
+kamaraj	I-PER
+won	O
+the	O
+election	O
+,	O
+and	O
+defeated	O
+its	O
+rival	O
+dravida	B-GRP
+munnetra	I-GRP
+kazhagam	I-GRP
+.	O
+
+#	id	469
+he	O
+got	O
+acquainted	O
+with	O
+the	O
+muslim	B-GRP
+brotherhood	I-GRP
+as	O
+a	O
+boy	O
+in	O
+1953	O
+.	O
+
+#	id	470
+petrarch	O
+discovered	O
+the	O
+text	O
+of	O
+cicero	B-PER
+’s	O
+letters	O
+in	O
+1345	O
+,	O
+which	O
+gave	O
+him	O
+the	O
+idea	O
+to	O
+collect	O
+his	O
+own	O
+sets	O
+of	O
+letters	O
+.	O
+
+#	id	471
+bibingka	B-PROD
+is	O
+a	O
+type	O
+of	O
+rice	O
+cake	O
+made	O
+with	O
+galapong	O
+and	O
+coconut	O
+milk	O
+or	O
+water	O
+,	O
+with	O
+its	O
+bottom	O
+lined	O
+with	O
+banana	O
+leaves	O
+.	O
+
+#	id	472
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+town	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+of	O
+it	O
+land	O
+.	O
+
+#	id	473
+in	O
+1988	O
+she	O
+began	O
+a	O
+partnership	O
+with	O
+the	O
+brazilian	B-GRP
+institute	I-GRP
+of	I-GRP
+environment	I-GRP
+and	I-GRP
+renewable	I-GRP
+natural	I-GRP
+resources	I-GRP
+(	O
+ibama	O
+)	O
+,	O
+to	O
+facilitate	O
+the	O
+continuation	O
+of	O
+her	O
+excavations	O
+.	O
+thumb	O
+
+#	id	474
+multiplex	B-CORP
+modellsport	I-CORP
+,	O
+a	O
+manufacturer	O
+of	O
+radio	O
+control	O
+equipment	O
+and	O
+radio	O
+controlled	O
+airplanes	O
+
+#	id	475
+the	O
+game	O
+runs	O
+on	O
+linux	B-CW
+,	O
+macos	B-CW
+and	O
+microsoft	B-CW
+windows	I-CW
+.	O
+
+#	id	476
+ahmadzadeh	O
+studied	O
+secondary	O
+education	O
+and	O
+was	O
+considered	O
+a	O
+small	O
+landowner	O
+in	O
+his	O
+birthplace	O
+mashhad	B-LOC
+.	O
+
+#	id	477
+these	O
+names	O
+were	O
+coined	O
+by	O
+the	O
+magician	O
+and	O
+computer	O
+programmer	O
+alex	B-PER
+elmsley	I-PER
+.	O
+
+#	id	478
+paul	B-PER
+langevin	I-PER
+,	O
+who	O
+had	O
+recently	O
+joined	O
+the	O
+french	B-GRP
+communist	I-GRP
+party	I-GRP
+(	O
+pcf	O
+)	O
+,	O
+became	O
+its	O
+president	O
+.	O
+
+#	id	479
+this	O
+track	O
+featured	O
+quasimoto	B-GRP
+and	O
+sun	B-PER
+ra	I-PER
+.	O
+
+#	id	480
+in	O
+the	O
+expansive	O
+valley	O
+below	O
+there	O
+are	O
+cultivated	O
+fields	O
+and	O
+two	O
+more	O
+towns	O
+,	O
+the	O
+nearest	O
+of	O
+which	O
+is	O
+anversa	B-LOC
+degli	I-LOC
+abruzzi	I-LOC
+,	O
+with	O
+roccacasale	B-LOC
+in	O
+the	O
+distance	O
+.	O
+
+#	id	481
+rusty	B-PER
+young	I-PER
+steel	O
+guitar	O
+,	O
+guitar	O
+,	O
+vocals	O
+
+#	id	482
+au	B-CORP
+bon	I-CORP
+pain	I-CORP
+,	O
+a	O
+fast	O
+casual	O
+bakery	O
+/	O
+cafe	O
+chain	O
+
+#	id	483
+eddy	O
+was	O
+a	O
+frequent	O
+guest	O
+on	O
+talk	O
+shows	O
+,	O
+including	O
+the	B-CW
+merv	I-CW
+griffin	I-CW
+show	I-CW
+and	O
+the	B-CW
+tonight	I-CW
+show	I-CW
+starring	I-CW
+jimmy	I-CW
+fallon	I-CW
+with	O
+jack	B-PER
+paar	I-PER
+.	O
+
+#	id	484
+rover	O
+gas	O
+turbines	O
+also	O
+powered	O
+the	O
+first	O
+advanced	B-PROD
+passenger	I-PROD
+train	I-PROD
+.	O
+
+#	id	485
+he	O
+moved	O
+to	O
+florida	B-LOC
+to	O
+finish	O
+school	O
+and	O
+obtain	O
+his	O
+nursing	O
+certification	O
+.	O
+
+#	id	486
+his	O
+reign	O
+was	O
+marked	O
+by	O
+multiple	O
+rebellions	O
+,	O
+which	O
+would	O
+be	O
+delt	O
+with	O
+poorly	O
+and	O
+weaken	O
+the	O
+emirate	O
+,	O
+most	O
+disastrously	O
+being	O
+the	O
+rebellion	O
+of	O
+umar	B-PER
+ibn	I-PER
+hafsun	I-PER
+.	O
+
+#	id	487
+his	O
+students	O
+there	O
+included	O
+knud	B-PER
+baade	I-PER
+and	O
+joachim	B-PER
+frich	I-PER
+.	O
+
+#	id	488
+eutanasia	O
+di	O
+un	O
+amore	O
+imdb	O
+director	O
+:	O
+enrico	B-PER
+maria	I-PER
+salerno	I-PER
+
+#	id	489
+strangers	B-CW
+in	I-CW
+the	I-CW
+night	I-CW
+(	O
+bert	B-PER
+kaempfert	I-PER
+,	O
+charles	B-PER
+singleton	I-PER
+,	O
+eddie	B-PER
+snyder	I-PER
+)	O
+2	O
+:	O
+25	O
+
+#	id	490
+examples	O
+of	O
+piquant	O
+food	O
+include	O
+mustard	B-PROD
+and	O
+curry	B-PROD
+.	O
+
+#	id	491
+pearl	B-PER
+bailey	I-PER
+abc	B-CW
+afterschool	I-CW
+special	I-CW
+(	O
+cindy	O
+eller	O
+:	O
+a	O
+modern	O
+fairy	O
+tale	O
+)	O
+(	O
+abc	O
+)	O
+
+#	id	492
+the	O
+normal	O
+clutch	O
+is	O
+two	O
+or	O
+three	O
+brown	O
+spotted	O
+pink	O
+bird	B-PROD
+egg	I-PROD
+are	O
+laid	O
+.	O
+
+#	id	493
+the	O
+baltimore	B-GRP
+orioles	I-GRP
+and	O
+cincinnati	B-GRP
+reds	I-GRP
+,	O
+both	O
+for	O
+national	B-GRP
+baseball	I-GRP
+hall	I-GRP
+of	I-GRP
+fame	I-GRP
+and	I-GRP
+museum	I-GRP
+frank	B-PER
+robinson	I-PER
+.	O
+
+#	id	494
+she-crab	B-PROD
+soup	I-PROD
+is	O
+from	O
+charleston	B-LOC
+,	O
+and	O
+is	O
+a	O
+creamy	O
+soup	O
+made	O
+with	O
+blue	O
+crab	O
+meat	O
+and	O
+crab	O
+roe	O
+.	O
+
+#	id	495
+bill	B-CW
+&	I-CW
+ted	I-CW
+face	I-CW
+the	I-CW
+music	I-CW
+,	O
+released	O
+twelve	O
+years	O
+after	O
+george	B-PER
+carlin	I-PER
+death	O
+.	O
+
+#	id	496
+from	O
+1949	O
+these	O
+were	O
+both	O
+taken	O
+over	O
+by	O
+west	B-CORP
+norway	I-CORP
+airlines	I-CORP
+,	O
+which	O
+lasted	O
+until	O
+the	O
+airline	O
+folded	O
+in	O
+1957	O
+.	O
+
+#	id	497
+riggs	O
+was	O
+also	O
+famous	O
+for	O
+being	O
+the	O
+announcer	O
+for	O
+bing	B-PER
+crosby	I-PER
+for	O
+more	O
+than	O
+a	O
+decade	O
+.	O
+
+#	id	498
+it	O
+was	O
+released	O
+in	O
+2004	O
+for	O
+the	O
+playstation	B-PROD
+2	I-PROD
+and	O
+xbox	B-PROD
+consoles	O
+.	O
+
+#	id	499
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+1994	O
+.	O
+
+#	id	500
+he	O
+has	O
+played	O
+representative	O
+football	O
+for	O
+england	B-GRP
+national	I-GRP
+rugby	I-GRP
+league	I-GRP
+team	I-GRP
+.	O
+
+#	id	501
+the	O
+transformer	O
+is	O
+always	O
+connected	O
+to	O
+the	O
+primary	O
+distribution	O
+lines	O
+through	O
+protective	O
+fuse	B-PROD
+and	O
+disconnect	O
+switch	B-PROD
+.	O
+
+#	id	502
+corset	B-PROD
+,	O
+a	O
+bodice	O
+worn	O
+to	O
+mould	O
+and	O
+shape	O
+the	O
+torso	O
+.	O
+
+#	id	503
+luís	B-PER
+figo	I-PER
+has	O
+won	O
+the	O
+trophy	O
+on	O
+the	O
+most	O
+occasions	O
+with	O
+six	O
+,	O
+all	O
+consecutively	O
+.	O
+
+#	id	504
+a	O
+loaded	O
+12	O
+gauge	O
+,	O
+semi-automatic	B-PROD
+shotgun	I-PROD
+was	O
+recovered	O
+at	O
+the	O
+scene	O
+,	O
+along	O
+with	O
+ammunition	O
+that	O
+was	O
+found	O
+in	O
+powder	O
+’s	O
+pockets	O
+.	O
+
+#	id	505
+he	O
+spent	O
+a	O
+year	O
+as	O
+a	O
+coach	O
+at	O
+bradford	B-GRP
+city	I-GRP
+a.f.c.	I-GRP
+before	O
+becoming	O
+youth	O
+team	O
+manager	O
+at	O
+york	B-GRP
+city	I-GRP
+f.c.	I-GRP
+.	O
+
+#	id	506
+both	O
+games	O
+were	O
+digitally	O
+re	O
+released	O
+on	O
+gog.com	B-CORP
+.	O
+
+#	id	507
+in	O
+1893	O
+,	O
+the	O
+colorado	B-GRP
+and	I-GRP
+southern	I-GRP
+railway	I-GRP
+took	O
+over	O
+the	O
+line	O
+and	O
+operated	O
+it	O
+for	O
+passengers	O
+and	O
+freight	O
+until	O
+1938	O
+.	O
+
+#	id	508
+kükürt	O
+is	O
+a	O
+village	O
+in	O
+the	O
+yenipazar	B-LOC
+,	O
+bilecik	B-LOC
+province	I-LOC
+,	O
+turkey	B-LOC
+.	O
+
+#	id	509
+the	O
+district	O
+seat	O
+is	O
+the	O
+town	O
+parchim	B-LOC
+.	O
+
+#	id	510
+in	O
+2006	O
+,	O
+she	O
+was	O
+revealed	O
+as	O
+a	O
+member	O
+of	O
+the	O
+jyp	B-CORP
+entertainment	I-CORP
+managed	O
+girl	B-GRP
+group	I-GRP
+wonder	B-GRP
+girls	I-GRP
+as	O
+the	O
+group	O
+'s	O
+main	O
+rapper	O
+.	O
+
+#	id	511
+it	O
+was	O
+used	O
+in	O
+successful	O
+advertising	B-CW
+campaign	I-CW
+of	O
+the	O
+early	O
+1940s	O
+.	O
+
+#	id	512
+this	O
+grew	O
+out	O
+of	O
+the	O
+work	O
+of	O
+j.	B-PER
+g.	I-PER
+a.	I-PER
+pocock	I-PER
+who	O
+in	O
+1975	O
+argued	O
+that	O
+a	O
+series	O
+of	O
+scholars	O
+had	O
+expressed	O
+a	O
+consistent	O
+set	O
+of	O
+republican	O
+ideals	O
+.	O
+
+#	id	513
+monsters	O
+was	O
+the	O
+second	O
+single	O
+released	O
+from	O
+funeral	B-GRP
+for	I-GRP
+a	I-GRP
+friend	I-GRP
+second	O
+album	O
+hours	B-CW
+.	O
+
+#	id	514
+it	O
+lies	O
+approximately	O
+south	O
+east	O
+of	O
+krynki	B-LOC
+,	O
+south	O
+east	O
+of	O
+sokółka	B-LOC
+,	O
+and	O
+east	O
+of	O
+the	O
+regional	O
+capital	O
+białystok	B-LOC
+.	O
+
+#	id	515
+hoying	O
+heard	O
+about	O
+the	B-CW
+sing-off	I-CW
+reality	O
+show	O
+competition	O
+for	O
+a	O
+cappella	O
+acts	O
+;	O
+he	O
+gained	O
+an	O
+interest	O
+in	O
+the	O
+genre	O
+once	O
+in	O
+college	O
+.	O
+
+#	id	516
+the	O
+village	O
+of	O
+little	B-LOC
+waltham	I-LOC
+is	O
+about	O
+one	O
+mile	O
+away	O
+.	O
+
+#	id	517
+a	O
+stucco	B-PROD
+house	O
+with	O
+a	O
+concrete	O
+tiled	O
+roof	O
+in	O
+two	O
+storeys	O
+.	O
+
+#	id	518
+the	O
+station	O
+broadcasts	O
+special	O
+interest	O
+music	O
+and	O
+talk	O
+,	O
+to	O
+an	O
+older	O
+dublin	B-LOC
+.	O
+
+#	id	519
+mike	B-PER
+watt	I-PER
+of	O
+minutemen	B-GRP
+stepped	O
+in	O
+to	O
+play	O
+bass	O
+for	O
+the	O
+1985	O
+show	O
+.	O
+
+#	id	520
+santana	O
+is	O
+featured	O
+as	O
+a	O
+playable	O
+character	O
+in	O
+the	O
+music	O
+video	O
+game	O
+guitar	B-CW
+hero	I-CW
+5	I-CW
+.	O
+
+#	id	521
+it	O
+is	O
+found	O
+only	O
+in	O
+people's	B-LOC
+republic	I-LOC
+of	I-LOC
+china	I-LOC
+.	O
+
+#	id	522
+woo	O
+was	O
+born	O
+in	O
+seoul	B-LOC
+in	O
+1974	O
+.	O
+
+#	id	523
+the	O
+current	O
+structure	O
+of	O
+minor	B-GRP
+league	I-GRP
+baseball	I-GRP
+is	O
+the	O
+result	O
+of	O
+an	O
+overall	O
+contraction	O
+of	O
+the	O
+system	O
+beginning	O
+with	O
+the	O
+2021	O
+season	O
+.	O
+
+#	id	524
+lucille	B-CW
+(	O
+little	B-PER
+richard	I-PER
+,	O
+albert	O
+collins	O
+)	O
+6	O
+:	O
+13	O
+
+#	id	525
+the	O
+signal	O
+reaches	O
+to	O
+alexandria	B-LOC
+and	O
+sauk	B-LOC
+centre	I-LOC
+,	O
+where	O
+the	O
+station	O
+targets	O
+programming	O
+to	O
+.	O
+
+#	id	526
+the	O
+song	O
+also	O
+appears	O
+in	O
+the	O
+soundtrack	O
+of	O
+the	O
+movie	O
+enough	B-CW
+,	O
+starring	O
+jennifer	B-PER
+lopez	I-PER
+.	O
+
+#	id	527
+it	O
+is	O
+referred	O
+to	O
+as	O
+a	O
+flop	O
+by	O
+variety	B-CORP
+magazine	O
+,	O
+and	O
+has	O
+a	O
+13	O
+%	O
+rotten	O
+rating	O
+at	O
+rotten	B-CORP
+tomatoes	I-CORP
+.	O
+
+#	id	528
+one	O
+of	O
+the	O
+first	O
+women	O
+to	O
+head	O
+a	O
+major	O
+record	O
+label	O
+,	O
+she	O
+was	O
+the	O
+president	O
+of	O
+epic	B-CORP
+records	I-CORP
+from	O
+1997	O
+until	O
+2003	O
+.	O
+
+#	id	529
+the	O
+record	O
+was	O
+later	O
+certified	O
+gold	O
+by	O
+the	O
+argentine	B-GRP
+chamber	I-GRP
+of	I-GRP
+phonograms	I-GRP
+and	I-GRP
+videograms	I-GRP
+producers	I-GRP
+.	O
+
+#	id	530
+joe	B-PER
+pesci	I-PER
+was	O
+cast	O
+as	O
+angelo	B-PER
+ruggiero	I-PER
+early	O
+in	O
+development	O
+and	O
+gained	O
+30	O
+pounds	O
+in	O
+order	O
+to	O
+properly	O
+portray	O
+him	O
+.	O
+
+#	id	531
+battered	O
+and	O
+fried	O
+fish	O
+and	O
+chicken	O
+,	O
+french-fried	B-PROD
+potatoes	I-PROD
+(	O
+chips	O
+)	O
+,	O
+battered	O
+fried	O
+shrimp	B-PROD
+,	O
+hushpuppy	B-PROD
+and	O
+coleslaw	B-PROD
+]	O
+]	O
+
+#	id	532
+tesla,	B-CORP
+inc.	I-CORP
+designed	O
+its	O
+tesla	B-PROD
+model	I-PROD
+s	I-PROD
+to	O
+allow	O
+fast	O
+battery	O
+swapping	O
+.	O
+
+#	id	533
+the	O
+wii	B-PROD
+game	O
+is	O
+different	O
+from	O
+the	O
+show	O
+(	O
+and	O
+its	O
+nintendo	B-CW
+ds	I-CW
+counterpart	O
+)	O
+in	O
+that	O
+there	O
+are	O
+only	O
+4	O
+contestants	O
+,	O
+and	O
+none	O
+are	O
+eliminated	O
+during	O
+the	O
+first	O
+three	O
+rounds	O
+.	O
+
+#	id	534
+fc	B-GRP
+barcelona	I-GRP
+handbol	I-GRP
+is	O
+the	O
+best	O
+team	O
+at	O
+this	O
+time	O
+.	O
+
+#	id	535
+it	O
+lies	O
+approximately	O
+east	O
+of	O
+bukowsko	B-LOC
+,	O
+south	O
+west	O
+of	O
+sanok	B-LOC
+,	O
+and	O
+south	O
+of	O
+the	O
+regional	O
+capital	O
+rzeszów	B-LOC
+.	O
+
+#	id	536
+he	O
+has	O
+toured	O
+in	O
+georgia	B-LOC
+,	O
+russia	B-LOC
+,	O
+turkey	B-LOC
+,	O
+ukraine	B-LOC
+,	O
+bulgaria	B-LOC
+,	O
+germany	B-LOC
+,	O
+czech	B-LOC
+republic	I-LOC
+and	O
+other	O
+countries	O
+.	O
+
+#	id	537
+odom	O
+is	O
+a	O
+superfan	O
+of	O
+the	O
+rock	O
+band	O
+night	B-GRP
+ranger	I-GRP
+.	O
+
+#	id	538
+in	O
+the	O
+autumn	O
+,	O
+the	O
+group	O
+made	O
+camp	O
+in	O
+the	O
+yabrin	B-LOC
+oasis	O
+.	O
+
+#	id	539
+she	O
+shifted	O
+to	O
+bombay	B-LOC
+state	I-LOC
+in	O
+1948	O
+after	O
+the	O
+demise	O
+of	O
+her	O
+aunt	O
+.	O
+
+#	id	540
+tray	B-PER
+deee	I-PER
+–	O
+performer	O
+(	O
+tracks	O
+:	O
+5	O
+,	O
+11	O
+,	O
+12	O
+)	O
+
+#	id	541
+most	O
+of	O
+his	O
+work	O
+was	O
+published	O
+by	O
+such	O
+important	O
+houses	O
+as	O
+mitrofan	B-PER
+belyayev	I-PER
+and	O
+p.	B-GRP
+jurgenson	I-GRP
+.	O
+
+#	id	542
+the	O
+village	O
+is	O
+home	O
+to	O
+andørja	B-LOC
+church	I-LOC
+,	O
+the	O
+main	O
+church	O
+for	O
+the	O
+island	O
+.	O
+
+#	id	543
+shuttle	O
+buses	O
+will	O
+usually	O
+link	O
+with	O
+other	O
+transport	B-LOC
+hub	I-LOC
+,	O
+such	O
+as	O
+airport	B-PROD
+bus	I-PROD
+.	O
+
+#	id	544
+some	O
+researchers	O
+conclude	O
+that	O
+the	O
+genre	O
+of	O
+visions	O
+gradually	O
+disappears	O
+from	O
+literature	O
+after	O
+the	O
+peter	B-PER
+the	I-PER
+great	I-PER
+.	O
+
+#	id	545
+3	O
+unitary	B-LOC
+authority	I-LOC
+of	I-LOC
+england	I-LOC
+had	O
+all	O
+of	O
+their	O
+seats	O
+up	O
+for	O
+election	O
+.	O
+
+#	id	546
+gadsden	O
+was	O
+born	O
+in	O
+1724	O
+in	O
+charleston	B-LOC
+.	O
+
+#	id	547
+variety	B-CORP
+called	O
+it	O
+a	O
+crass	O
+bit	O
+of	O
+cinematic	O
+grave	O
+robbing	O
+.	O
+
+#	id	548
+carl	B-PER
+lewis	I-PER
+,	O
+100	O
+and	O
+200	O
+meter	O
+run	O
+
+#	id	549
+where	O
+in	O
+kore	B-LOC
+is	O
+tenta	B-LOC
+
+#	id	550
+she	O
+represents	O
+ik	B-GRP
+våg	I-GRP
+,	O
+having	O
+changed	O
+clubs	O
+from	O
+kristiansands	B-GRP
+if	I-GRP
+in	O
+2006	O
+.	O
+
+#	id	551
+nativity	O
+by	O
+josefa	B-PER
+de	I-PER
+óbidos	I-PER
+,	O
+1669	O
+,	O
+national	B-LOC
+museum	I-LOC
+of	I-LOC
+ancient	I-LOC
+art	I-LOC
+,	O
+lisbon	B-LOC
+]	O
+]	O
+
+#	id	552
+sasha	O
+is	O
+a	O
+former	O
+red	B-GRP
+army	I-GRP
+soldier	O
+married	O
+to	O
+a	O
+teacher	O
+and	O
+attending	O
+a	O
+university	O
+.	O
+
+#	id	553
+the	O
+owner	O
+of	O
+the	O
+work	O
+has	O
+the	O
+property	O
+rights	O
+in	O
+the	O
+collective	B-CW
+work	I-CW
+,	O
+but	O
+the	O
+authors	O
+of	O
+the	O
+individual	O
+works	O
+may	O
+retain	O
+rights	O
+in	O
+their	O
+contributions	O
+.	O
+
+#	id	554
+it	O
+included	O
+dates	O
+in	O
+canada	B-LOC
+.	O
+
+#	id	555
+later	O
+on	O
+,	O
+the	O
+three	O
+sisters	O
+moved	O
+to	O
+nashville	B-LOC
+,	O
+where	O
+they	O
+began	O
+honing	O
+their	O
+singing	O
+and	O
+songwriting	O
+skills	O
+.	O
+
+#	id	556
+vitale	O
+crime	O
+family	O
+mickey	B-CW
+blue	I-CW
+eyes	I-CW
+
+#	id	557
+police	O
+had	O
+observed	O
+them	O
+picking	O
+up	O
+three	O
+weapons	O
+,	O
+believed	O
+to	O
+be	O
+mac-10	B-PROD
+sub	O
+machine	O
+guns	O
+.	O
+
+#	id	558
+it	O
+was	O
+an	O
+improved	O
+version	O
+of	O
+the	O
+nokia	B-PROD
+8310	I-PROD
+.	O
+
+#	id	559
+wind	B-CW
+it	I-CW
+up	I-CW
+(	O
+produced	O
+with	O
+mark	B-PER
+stent	I-PER
+and	O
+ron	B-PER
+fair	I-PER
+)	O
+
+#	id	560
+this	O
+story	O
+is	O
+referenced	O
+in	O
+sylvia	B-PER
+plath	I-PER
+sonnet	O
+,	O
+ennui	B-CW
+.	O
+
+#	id	561
+it	O
+is	O
+also	O
+featured	O
+on	O
+the	O
+saints	B-CW
+row:	I-CW
+the	I-CW
+third	I-CW
+soundtrack	O
+.	O
+
+#	id	562
+the	O
+riding	B-PROD
+habit	I-PROD
+worn	O
+by	O
+women	O
+riding	O
+sidesaddle	O
+originally	O
+was	O
+similar	O
+to	O
+clothing	O
+worn	O
+in	O
+everyday	O
+life	O
+.	O
+
+#	id	563
+isis	B-CW
+(	O
+dylan	O
+/	O
+jacques	B-PER
+levy	I-PER
+)	O
+(	O
+live	O
+)	O
+–	O
+5	O
+:	O
+19	O
+
+#	id	564
+murshidabad	O
+was	O
+a	O
+major	O
+center	O
+of	O
+silk	B-PROD
+production	O
+.	O
+
+#	id	565
+the	O
+halliard	O
+was	O
+rove	O
+through	O
+an	O
+iron	O
+ring	O
+near	O
+the	O
+masthead	O
+,	O
+hoisting	O
+a	O
+small	O
+lug	B-PROD
+sail	I-PROD
+,	O
+and	O
+this	O
+was	O
+controlled	O
+by	O
+a	O
+sheet	O
+and	O
+tack	O
+.	O
+
+#	id	566
+recently	O
+,	O
+kessinger	B-CORP
+publishing	I-CORP
+rare	O
+reprints	O
+has	O
+re	O
+issued	O
+the	O
+book	O
+.	O
+
+#	id	567
+nikolai	B-PER
+bogolyubov	I-PER
+near	O
+the	O
+building	O
+of	O
+the	O
+philological	O
+faculty	O
+of	O
+the	O
+n.	B-GRP
+i.	I-GRP
+lobachevsky	I-GRP
+state	I-GRP
+university	I-GRP
+of	I-GRP
+nizhny	I-GRP
+novgorod	I-GRP
+;	O
+
+#	id	568
+he	O
+was	O
+educated	O
+at	O
+eton	B-GRP
+college	I-GRP
+and	O
+trinity	B-LOC
+college	I-LOC
+.	O
+
+#	id	569
+among	O
+prominent	O
+film	O
+composers	O
+of	O
+the	O
+time	O
+he	O
+admired	O
+max	B-PER
+steiner	I-PER
+.	O
+
+#	id	570
+cody	O
+also	O
+wears	O
+a	O
+black	O
+domino	B-PROD
+mask	I-PROD
+,	O
+to	O
+hide	O
+his	O
+real	O
+identity	O
+.	O
+
+#	id	571
+winners	O
+:	O
+john	B-PER
+hyden	I-PER
+&	O
+tri	B-PER
+bourne	I-PER
+(	O
+m	O
+)	O
+/	O
+kristýna	B-PER
+kolocová	I-PER
+&	O
+markéta	B-PER
+sluková	I-PER
+(	O
+f	O
+)	O
+
+#	id	572
+brett	O
+also	O
+scored	O
+the	O
+music	O
+for	O
+the	O
+horror	O
+feature	O
+outpost	B-CW
+,	O
+directed	O
+by	O
+steve	B-PER
+barker	I-PER
+.	O
+
+#	id	573
+plate	O
+thickness	O
+of	O
+may	O
+be	O
+adequate	O
+for	O
+rimfire	B-PROD
+cartridge	I-PROD
+.	O
+
+#	id	574
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2020	O
+.	O
+
+#	id	575
+the	O
+girls	O
+were	O
+driving	O
+through	O
+los	B-LOC
+angeles	I-LOC
+and	O
+were	O
+taking	O
+a	O
+shower	O
+.	O
+
+#	id	576
+runners	O
+up	O
+:	O
+jim	B-PER
+broadbent	I-PER
+–	O
+iris	B-CW
+and	O
+denzel	B-PER
+washington	I-PER
+–	O
+training	B-CW
+day	I-CW
+
+#	id	577
+the	O
+grey	O
+pantsuit	B-PROD
+was	O
+critical	O
+to	O
+that	O
+look	O
+.	O
+
+#	id	578
+the	O
+rise	O
+in	O
+its	O
+political	O
+fortunes	O
+coincided	O
+with	O
+the	O
+national	O
+rise	O
+in	O
+support	O
+for	O
+the	O
+green	B-GRP
+party	I-GRP
+of	I-GRP
+canada	I-GRP
+during	O
+the	O
+same	O
+period	O
+.	O
+
+#	id	579
+iec	O
+84.00.07	O
+is	O
+a	O
+technical	O
+report	O
+developed	O
+by	O
+the	O
+international	B-GRP
+society	I-GRP
+of	I-GRP
+automation	I-GRP
+84	O
+standards	O
+panel	O
+.	O
+
+#	id	580
+kim	B-PER
+clijsters	I-PER
+defeating	O
+mary	B-PER
+pierce	I-PER
+,	O
+6	O
+–	O
+3	O
+,	O
+6	O
+–	O
+1	O
+
+#	id	581
+colleges	B-GRP
+of	I-GRP
+technology	I-GRP
+in	I-GRP
+japan	I-GRP
+(	O
+高等専門学校	O
+kōtō	O
+senmon	O
+gakkō	O
+,	O
+abbr	O
+.	O
+高専	O
+kōsen	O
+)	O
+
+#	id	582
+babyface	B-PER
+)	O
+(	O
+peter	B-PER
+allen	I-PER
+,	O
+jeff	B-PER
+barry	I-PER
+)	O
+–	O
+4	O
+:	O
+04	O
+
+#	id	583
+rookie	O
+randy	B-PER
+heath	I-PER
+scored	O
+52	O
+goals	O
+and	O
+99	O
+points	O
+in	O
+65	O
+games	O
+.	O
+
+#	id	584
+it	O
+was	O
+initially	O
+a	O
+silent	B-CW
+film	I-CW
+but	O
+was	O
+reissued	O
+with	O
+sound	B-CW
+film	I-CW
+added	O
+.	O
+
+#	id	585
+in	O
+1934	O
+,	O
+the	O
+firm	O
+became	O
+a	O
+division	O
+of	O
+honeywell	B-CORP
+.	O
+
+#	id	586
+my	O
+mavic	B-CORP
+
+#	id	587
+they	O
+include	O
+remixes	O
+by	O
+photek	B-PER
+,	O
+dillinja	B-PER
+,	O
+goldie	B-PER
+,	O
+plaid	B-GRP
+and	O
+towa	B-PER
+tei	I-PER
+.	O
+
+#	id	588
+berna	B-CORP
+4gtp	O
+5	O
+units	O
+acquired	O
+from	O
+winterthur	B-LOC
+(	O
+1999	O
+2014	O
+)	O
+;	O
+
+#	id	589
+strozzi	O
+,	O
+engraved	O
+portrait	O
+after	O
+a	O
+1627	O
+painting	O
+by	O
+simon	B-PER
+vouet	I-PER
+
+#	id	590
+divers	O
+report	O
+that	O
+the	O
+wreck	O
+is	O
+surrounded	O
+by	O
+thousands	O
+of	O
+jars	O
+of	O
+marmite	B-PROD
+.	O
+
+#	id	591
+wobbly	O
+web	O
+rear	O
+wheel	O
+of	O
+a	O
+lotus	B-PROD
+33	I-PROD
+
+#	id	592
+a	O
+portion	O
+of	O
+the	O
+ayr	B-LOC
+lies	O
+within	O
+the	O
+township	O
+.	O
+
+#	id	593
+gene	B-PER
+siskel	I-PER
+of	O
+the	O
+chicago	B-GRP
+tribune	I-GRP
+gave	O
+the	O
+film	O
+two	O
+stars	O
+out	O
+of	O
+four	O
+and	O
+called	O
+it	O
+a	O
+tired	O
+sex	O
+comedy	O
+with	O
+humor	O
+about	O
+as	O
+modern	O
+as	O
+a	O
+whoopee	O
+cushion	O
+.	O
+
+#	id	594
+as	O
+a	O
+result	O
+of	O
+this	O
+,	O
+as	O
+well	O
+as	O
+worsening	O
+weather	O
+conditions	O
+,	O
+stavka	B-GRP
+was	O
+forced	O
+to	O
+suspend	O
+drops	O
+.	O
+
+#	id	595
+the	O
+song	O
+was	O
+dedicated	O
+to	O
+the	O
+amnesty	B-GRP
+international	I-GRP
+.	O
+
+#	id	596
+the	O
+site	O
+is	O
+being	O
+developed	O
+by	O
+taylor	B-CORP
+wimpey	I-CORP
+.	O
+
+#	id	597
+state	B-CORP
+bank	I-CORP
+of	I-CORP
+hyderabad	I-CORP
+is	O
+operating	O
+bank	O
+inside	O
+township	O
+.	O
+
+#	id	598
+vinfast	B-CORP
+:	O
+automobile	O
+,	O
+cars	O
+and	O
+motorbike	O
+manufacturing	O
+,	O
+planning	O
+to	O
+release	O
+first	O
+model	O
+in	O
+2018	O
+
+#	id	599
+it	O
+was	O
+primarily	O
+used	O
+as	O
+an	O
+coach	B-PROD
+.	O
+
+#	id	600
+the	O
+increasing	O
+influence	O
+of	O
+the	O
+organization	B-GRP
+of	I-GRP
+the	I-GRP
+petroleum	I-GRP
+exporting	I-GRP
+countries	I-GRP
+cartel	O
+(	O
+formed	O
+in	O
+1960	O
+and	O
+expanded	O
+steadily	O
+through	O
+1975	O
+)	O
+,	O
+
+#	id	601
+16	O
+examples	O
+of	O
+the	O
+racing	O
+model	O
+were	O
+produced	O
+by	O
+hand	O
+at	O
+the	O
+de	B-CORP
+tomaso	I-CORP
+factory	O
+in	O
+modena	B-LOC
+,	O
+plus	O
+two	O
+prototypes	O
+(	O
+one	O
+racing	O
+corsa	O
+,	O
+one	O
+street	O
+stradale	O
+model	O
+)	O
+.	O
+
+#	id	602
+curero	O
+got	O
+involved	O
+in	O
+sports	O
+through	O
+once	B-GRP
+.	O
+
+#	id	603
+lazarev	O
+recorded	O
+a	O
+cover	O
+of	O
+shattered	B-CW
+dreams	I-CW
+,	O
+originally	O
+sung	O
+by	O
+johnny	B-GRP
+hates	I-GRP
+jazz	I-GRP
+.	O
+
+#	id	604
+cuthbert	O
+started	O
+his	O
+career	O
+at	O
+st	B-GRP
+johnstone	I-GRP
+f.c.	I-GRP
+,	O
+where	O
+he	O
+played	O
+from	O
+1998	O
+until	O
+leaving	O
+a	O
+decade	O
+later	O
+.	O
+
+#	id	605
+a	O
+1924	O
+source	O
+observed	O
+that	O
+trout	B-PROD
+fishing	O
+occurred	O
+on	O
+the	O
+kill	O
+.	O
+
+#	id	606
+he	O
+is	O
+best	O
+known	O
+for	O
+his	O
+prodigious	O
+corpus	O
+of	O
+more	O
+than	O
+seven	O
+hundred	O
+verse	O
+homily	B-CW
+,	O
+or	O
+mêmrê	O
+(	O
+)	O
+,	O
+of	O
+which	O
+only	O
+225	O
+have	O
+thus	O
+far	O
+been	O
+edited	O
+and	O
+published	O
+.	O
+
+#	id	607
+soon	O
+after	O
+this	O
+,	O
+they	O
+signed	O
+to	O
+fueled	B-CORP
+by	I-CORP
+ramen	I-CORP
+llc	I-CORP
+.	O
+
+#	id	608
+lutka	B-CW
+sa	I-CW
+naslovne	I-CW
+strane	I-CW
+(	O
+b	O
+.	O
+đorđević	O
+)	O
+–	O
+4	O
+:	O
+32	O
+
+#	id	609
+he	O
+played	O
+part	O
+of	O
+one	O
+season	O
+in	O
+major	B-CORP
+league	I-CORP
+baseball	I-CORP
+for	O
+the	O
+1884	O
+washington	B-GRP
+nationals	I-GRP
+of	O
+the	O
+union	B-GRP
+association	I-GRP
+.	O
+
+#	id	610
+greyhound	O
+first	O
+appeared	O
+in	O
+lloyd's	B-CORP
+register	I-CORP
+(	O
+lr	O
+)	O
+in	O
+1792	O
+.	O
+
+#	id	611
+2006	O
+:	O
+various	O
+artists	O
+strummin'	B-CW
+with	I-CW
+the	I-CW
+devil	I-CW
+–	I-CW
+the	I-CW
+southern	I-CW
+side	I-CW
+of	I-CW
+van	I-CW
+halen	I-CW
+–	I-CW
+a	I-CW
+tribute	I-CW
+(	O
+(	O
+[	O
+cmh	O
+records	O
+|	O
+cmh	O
+]	O
+]	O
+)	O
+mandolin	O
+,	O
+vocal	O
+harmony	O
+
+#	id	612
+csi:	B-CW
+fatal	I-CW
+conspiracy	I-CW
+(	O
+writer	O
+)	O
+–	O
+telltale	B-CORP
+games	I-CORP
+/	O
+ubisoft	B-CORP
+
+#	id	613
+billy	B-PER
+tibbetts	I-PER
+(	O
+born	O
+1974	O
+)	O
+,	O
+ice	O
+hockey	O
+player	O
+
+#	id	614
+scholars	O
+at	O
+the	O
+brookings	B-GRP
+institution	I-GRP
+,	O
+led	O
+by	O
+benjamin	B-PER
+wittes	I-PER
+,	O
+listed	O
+the	O
+captives	O
+still	O
+
+#	id	615
+pitchfork	B-CW
+had	O
+mixed	O
+or	O
+negative	O
+analysis	O
+of	O
+the	O
+album	O
+.	O
+
+#	id	616
+after	O
+the	O
+2009	O
+season	O
+he	O
+retired	O
+from	O
+professional	O
+football	O
+and	O
+started	O
+as	O
+a	O
+youth	O
+coach	O
+at	O
+fc	B-GRP
+inter	I-GRP
+turku	I-GRP
+.	O
+
+#	id	617
+andreas	B-PER
+mikkelsen	I-PER
+finished	O
+fourth	O
+,	O
+a	O
+further	O
+19.2	O
+seconds	O
+behind	O
+,	O
+after	O
+struggling	O
+with	O
+his	O
+hyundai	B-PROD
+i20	I-PROD
+coupe	I-PROD
+wrc	I-PROD
+handling	O
+throughout	O
+.	O
+
+#	id	618
+it	O
+is	O
+possible	O
+for	O
+a	O
+single	O
+host	O
+computer	O
+to	O
+have	O
+several	O
+hostnames	O
+;	O
+but	O
+generally	O
+the	O
+operating	B-CW
+system	I-CW
+of	O
+the	O
+host	O
+prefers	O
+to	O
+have	O
+one	O
+hostname	O
+that	O
+the	O
+host	O
+uses	O
+for	O
+itself	O
+.	O
+
+#	id	619
+the	O
+river	O
+was	O
+a	O
+popular	O
+swimming	O
+and	O
+tubing	O
+location	O
+for	O
+locals	O
+and	O
+university	B-GRP
+of	I-GRP
+florida	I-GRP
+students	O
+up	O
+through	O
+the	O
+1960s	O
+,	O
+which	O
+led	O
+to	O
+litter	O
+and	O
+other	O
+problems	O
+.	O
+
+#	id	620
+all	O
+parts	O
+are	O
+between	O
+a	O
+to	O
+walk	O
+across	O
+two	O
+footbridges	O
+or	O
+one	O
+road	O
+bridge	O
+to	O
+droxford	B-LOC
+.	O
+
+#	id	621
+pinball	O
+,	O
+a	O
+microvision	B-CW
+video	O
+game	O
+simulator	O
+of	O
+pinball	O
+
+#	id	622
+the	O
+song	O
+peaked	O
+at	O
+number	O
+10	O
+on	O
+the	O
+sverigetopplistan	B-CW
+.	O
+
+#	id	623
+the	O
+territory	O
+around	O
+the	O
+ancient	O
+site	O
+was	O
+occupied	O
+by	O
+the	O
+islamic	B-GRP
+state	I-GRP
+of	I-GRP
+iraq	I-GRP
+and	I-GRP
+the	I-GRP
+levant	I-GRP
+(	O
+isil	O
+)	O
+in	O
+2015	O
+.	O
+
+#	id	624
+piacenza	B-LOC
+cathedral	I-LOC
+was	O
+ruined	O
+in	O
+the	O
+great	O
+earthquake	O
+of	O
+1117	O
+and	O
+was	O
+completely	O
+rebuilt	O
+beginning	O
+in	O
+1122	O
+.	O
+
+#	id	625
+science	O
+in	O
+theistic	O
+contexts	O
+.	O
+university	B-CORP
+of	I-CORP
+chicago	I-CORP
+press	I-CORP
+,	O
+2001	O
+,	O
+pp	O
+.	O
+88	O
+–	O
+113	O
+
+#	id	626
+the	O
+kofi	B-PER
+annan	I-PER
+,	O
+among	O
+many	O
+,	O
+considered	O
+the	O
+war	O
+illegal	O
+.	O
+
+#	id	627
+guy	O
+was	O
+the	O
+only	O
+son	O
+of	O
+william	B-PER
+i	I-PER
+de	I-PER
+la	I-PER
+roche	I-PER
+and	O
+helena	B-PER
+angelina	I-PER
+komnene	I-PER
+.	O
+
+#	id	628
+after	O
+his	O
+death	O
+in	O
+997	O
+,	O
+his	O
+son	O
+svetoslav	B-PER
+of	I-PER
+croatia	I-PER
+continued	O
+his	O
+pro	O
+byzantine	O
+policy	O
+.	O
+
+#	id	629
+the	O
+final	O
+is	O
+then	O
+played	O
+on	O
+neutral	O
+ground	O
+,	O
+and	O
+the	O
+winner	O
+earns	O
+the	O
+second	O
+ticket	O
+to	O
+the	O
+next	O
+top	B-CORP
+14	I-CORP
+.	O
+
+#	id	630
+the	O
+town	O
+lies	O
+on	O
+the	O
+island	O
+of	O
+vardøya	B-LOC
+,	O
+which	O
+is	O
+surrounded	O
+by	O
+a	O
+few	O
+smaller	O
+islands	O
+.	O
+
+#	id	631
+this	O
+principle	O
+applies	O
+to	O
+capacitor	B-PROD
+in	O
+parallel	O
+or	O
+to	O
+inductor	B-PROD
+in	O
+series	O
+.	O
+
+#	id	632
+feet	B-PROD
+forwards	I-PROD
+motorcycle	I-PROD
+–	O
+motorcycle	O
+on	O
+which	O
+the	O
+rider	O
+reclines	O
+with	O
+his	O
+feet	O
+positioned	O
+ahead	O
+of	O
+his	O
+body	O
+
+#	id	633
+the	O
+lake	O
+was	O
+built	O
+to	O
+supply	O
+steam	B-PROD
+locomotive	I-PROD
+trains	O
+,	O
+but	O
+was	O
+later	O
+used	O
+as	O
+a	O
+recreation	O
+lake	O
+.	O
+
+#	id	634
+he	O
+started	O
+out	O
+his	O
+career	O
+at	O
+radio	B-GRP
+pakistan	I-GRP
+as	O
+a	O
+scriptwriter	O
+for	O
+radio	O
+plays	O
+.	O
+
+#	id	635
+he	O
+spent	O
+most	O
+of	O
+his	O
+childhood	O
+in	O
+creede	B-LOC
+and	O
+graduated	O
+with	O
+honors	O
+from	O
+the	O
+university	B-GRP
+of	I-GRP
+chicago	I-GRP
+in	O
+1977	O
+,	O
+concentrating	O
+in	O
+philosophy	O
+,	O
+language	O
+and	O
+literature	O
+.	O
+
+#	id	636
+judged	O
+by	O
+ed	B-PER
+koch	I-PER
+,	O
+former	O
+mayor	O
+of	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+.	O
+
+#	id	637
+this	O
+constituency	O
+comprised	O
+part	O
+of	O
+the	O
+city	O
+of	O
+dublin	B-LOC
+.	O
+
+#	id	638
+roskopf	O
+used	O
+the	O
+escapement	O
+in	O
+his	O
+visionary	O
+project	O
+to	O
+manufacture	O
+a	O
+laborer	O
+'s	O
+watch	O
+,	O
+a	O
+pocket	B-PROD
+watch	I-PROD
+,	O
+which	O
+would	O
+sell	O
+for	O
+less	O
+than	O
+a	O
+week	O
+'s	O
+wages	O
+of	O
+an	O
+unskilled	O
+laborer	O
+.	O
+
+#	id	639
+christopher	B-PER
+tolkien	I-PER
+(	O
+ed	O
+.	O
+)	O
+,	O
+the	B-CW
+history	I-CW
+of	I-CW
+the	I-CW
+lord	I-CW
+of	I-CW
+the	I-CW
+rings	I-CW
+,	O
+4	O
+vols	O
+(	O
+1988	O
+–	O
+1992	O
+)	O
+.	O
+
+#	id	640
+the	O
+album	O
+includes	O
+collaborations	O
+with	O
+artists	O
+such	O
+as	O
+shakira	B-PER
+,	O
+chris	B-PER
+brown	I-PER
+,	O
+zendaya	B-PER
+,	O
+farruko	B-PER
+,	O
+gerardo	B-PER
+ortiz	I-PER
+,	O
+gente	B-GRP
+de	I-GRP
+zona	I-GRP
+and	O
+arturo	B-PER
+sandoval	I-PER
+.	O
+
+#	id	641
+powderfinger	B-CW
+–	O
+5	O
+:	O
+58	O
+(	O
+from	O
+rust	O
+never	O
+sleeps	O
+)	O
+
+#	id	642
+some	O
+people	O
+wear	O
+pasties	O
+when	O
+wearing	O
+a	O
+strapless	O
+or	O
+backless	B-PROD
+dress	I-PROD
+.	O
+
+#	id	643
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+city	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+land	O
+.	O
+
+#	id	644
+her	O
+political	O
+affiliation	O
+was	O
+always	O
+with	O
+the	O
+federalist	B-GRP
+party	I-GRP
+.	O
+
+#	id	645
+solar	O
+panels	O
+for	O
+schools	O
+in	O
+cameroon	B-LOC
+
+#	id	646
+je	O
+crois	O
+toi	O
+(	O
+meaning	O
+i	O
+believe	O
+you	O
+)	O
+is	O
+the	O
+fifth	O
+and	O
+last	O
+single	B-CW
+from	O
+céline	B-PER
+dion	I-PER
+album	O
+,	O
+s'il	B-CW
+suffisait	I-CW
+d'aimer	I-CW
+.	O
+
+#	id	647
+others	O
+main	O
+kinds	O
+were	O
+the	O
+trio	B-CORP
+,	O
+string	B-GRP
+quartet	I-GRP
+ensemble	I-GRP
+,	O
+serenade	B-CW
+and	O
+divertimento	B-CW
+.	O
+
+#	id	648
+filming	O
+took	O
+place	O
+in	O
+czechoslovakia	B-LOC
+at	O
+the	O
+barrandov	B-CORP
+studios	I-CORP
+because	O
+mosfilm	B-GRP
+was	O
+not	O
+yet	O
+fully	O
+restored	O
+after	O
+the	O
+war	O
+.	O
+
+#	id	649
+red	O
+lamps	O
+were	O
+used	O
+to	O
+simulate	O
+blast	B-PROD
+furnace	I-PROD
+and	O
+locomotive	O
+fireboxes	O
+.	O
+
+#	id	650
+the	O
+group	O
+have	O
+gone	O
+from	O
+a	O
+quintet	B-CORP
+to	O
+a	O
+quartet	B-CORP
+,	O
+and	O
+now	O
+being	O
+a	O
+trio	O
+.	O
+
+#	id	651
+the	O
+band	O
+signed	O
+a	O
+distribution	O
+deal	O
+with	O
+universal	B-CORP
+music	I-CORP
+group	I-CORP
+for	O
+the	O
+record	O
+.	O
+
+#	id	652
+extant	O
+citrus	O
+was	O
+mostly	O
+seedling	O
+trees	O
+grown	O
+from	O
+seeds	O
+obtained	O
+locally	O
+or	O
+from	O
+the	O
+spanish	B-GRP
+missions	I-GRP
+in	I-GRP
+california	I-GRP
+.	O
+
+#	id	653
+gamedaily	B-CORP
+also	O
+ranked	O
+him	O
+sixth	O
+on	O
+their	O
+list	O
+of	O
+best	O
+anti	O
+heroes	O
+in	O
+video	O
+games	O
+.	O
+
+#	id	654
+plotters	O
+were	O
+mainly	O
+women's	B-GRP
+auxiliary	I-GRP
+air	I-GRP
+force	I-GRP
+(	O
+waaf	O
+)	O
+personnel	O
+—	O
+young	O
+women	O
+who	O
+worked	O
+eight	O
+hour	O
+watches	O
+in	O
+underground	O
+bunkers	O
+.	O
+
+#	id	655
+eduardo	B-PER
+bolsonaro	I-PER
+(	O
+federal	O
+deputy	O
+of	O
+são	B-LOC
+paulo	I-LOC
+,	O
+son	O
+of	O
+jair	O
+bolsonaro	O
+)	O
+
+#	id	656
+honey,	B-CW
+i	I-CW
+shrunk	I-CW
+the	I-CW
+kids:	I-CW
+the	I-CW
+tv	I-CW
+show	I-CW
+(	O
+1997	O
+–	O
+1998	O
+)	O
+(	O
+directed	O
+3	O
+episodes	O
+)	O
+
+#	id	657
+it	O
+was	O
+produced	O
+by	O
+kornelije	B-PER
+kovač	I-PER
+.	O
+
+#	id	658
+he	O
+received	O
+his	O
+bachelor	O
+'s	O
+degree	O
+from	O
+the	O
+worcester	B-GRP
+polytechnic	I-GRP
+institute	I-GRP
+.	O
+
+#	id	659
+when	O
+composing	O
+the	O
+platform	O
+,	O
+the	O
+founders	O
+took	O
+the	O
+platform	O
+of	O
+social	B-GRP
+democratic	I-GRP
+party	I-GRP
+of	I-GRP
+germany	I-GRP
+(	O
+sdp	O
+)	O
+as	O
+the	O
+reference	O
+.	O
+
+#	id	660
+another	O
+is	O
+the	O
+final	O
+scene	O
+of	O
+the	B-CW
+sopranos	I-CW
+television	O
+show	O
+,	O
+where	O
+tony	B-PER
+soprano	I-PER
+sits	O
+down	O
+to	O
+dinner	O
+in	O
+a	O
+restaurant	O
+.	O
+
+#	id	661
+not	B-CW
+fade	I-CW
+away	I-CW
+>	O
+(	O
+buddy	B-PER
+holly	I-PER
+,	O
+norman	B-PER
+petty	I-PER
+)	O
+–	O
+3	O
+:	O
+17	O
+
+#	id	662
+rather	O
+than	O
+hammers	O
+hitting	O
+strings	O
+as	O
+on	O
+a	O
+standard	O
+piano	O
+,	O
+the	O
+toy	O
+piano	O
+sounds	O
+by	O
+way	O
+of	O
+hammers	O
+hitting	O
+metal	B-PROD
+bars	O
+or	O
+rods	O
+which	O
+are	O
+fixed	O
+at	O
+one	O
+end	O
+.	O
+
+#	id	663
+kanashimi	B-CW
+yo	I-CW
+konnichi	I-CW
+wa	I-CW
+by	O
+yuki	B-PER
+saito	I-PER
+(	O
+episodes	O
+1	O
+23	O
+,	O
+25	O
+37	O
+)	O
+
+#	id	664
+the	O
+building	O
+was	O
+constructed	O
+as	O
+one	O
+of	O
+three	O
+branch	O
+banks	O
+for	O
+the	O
+bank	B-CORP
+of	I-CORP
+england	I-CORP
+in	O
+the	O
+mid	O
+19th	O
+century	O
+.	O
+
+#	id	665
+from	O
+the	O
+university	B-GRP
+of	I-GRP
+the	I-GRP
+witwatersrand	I-GRP
+,	O
+he	O
+held	O
+a	O
+certificate	O
+in	O
+leadership	O
+.	O
+
+#	id	666
+the	O
+рage	O
+99	O
+тest	O
+is	O
+a	O
+method	O
+of	O
+evaluating	O
+a	O
+work	O
+of	O
+fiction	B-CW
+suggested	O
+by	O
+literary	O
+critic	O
+ford	B-PER
+madox	I-PER
+ford	I-PER
+.	O
+
+#	id	667
+i	O
+sincerely	O
+hope	O
+that	O
+albert,	B-PER
+prince	I-PER
+consort	I-PER
+.	O
+.	O
+.	O
+will	O
+do	O
+something	O
+to	O
+improve	O
+our	O
+taste	O
+.	O
+
+#	id	668
+a	O
+stone	O
+house	O
+,	O
+stucco	B-PROD
+at	O
+the	O
+rear	O
+,	O
+with	O
+a	O
+stone	O
+roof	O
+,	O
+three	O
+storeys	O
+at	O
+the	O
+front	O
+and	O
+two	O
+at	O
+the	O
+rear	O
+.	O
+
+#	id	669
+the	O
+paper	O
+mill	O
+sidings	O
+remained	O
+in	O
+use	O
+for	O
+a	O
+little	O
+while	O
+afterwards	O
+and	O
+the	O
+line	O
+itself	O
+remained	O
+open	O
+to	O
+denby	B-LOC
+for	O
+coal	O
+traffic	O
+until	O
+the	O
+late	O
+twentieth	O
+century	O
+.	O
+
+#	id	670
+he	O
+is	O
+best	O
+known	O
+for	O
+his	O
+work	O
+on	O
+the	O
+ace	B-CW
+attorney	I-CW
+series	O
+,	O
+serving	O
+as	O
+director	O
+and	O
+scenario	O
+writer	O
+for	O
+the	O
+original	O
+trilogy	O
+.	O
+
+#	id	671
+a	O
+separate	O
+aft	O
+compartment	O
+was	O
+normally	O
+used	O
+to	O
+store	O
+baggage	B-PROD
+,	O
+accessible	O
+via	O
+an	O
+exterior	O
+door	O
+on	O
+the	O
+starboard	O
+side	O
+of	O
+the	O
+aircraft	O
+.	O
+
+#	id	672
+it	O
+is	O
+promoted	O
+and	O
+organised	O
+by	O
+national	O
+radio	O
+station	O
+triple	B-CORP
+j	I-CORP
+.	O
+
+#	id	673
+ernst	B-PER
+heinkel	I-PER
+(	O
+1888	O
+–	O
+1958	O
+)	O
+,	O
+founder	O
+of	O
+heinkel	B-CORP
+,	O
+manufacturers	O
+of	O
+airplanes	O
+
+#	id	674
+m.	B-PER
+ward	I-PER
+–	O
+electric	O
+guitar	O
+and	O
+harmony	O
+vocal	O
+
+#	id	675
+lucerne	O
+,	O
+the	O
+store	O
+brand	O
+for	O
+dairy	O
+and	O
+other	O
+products	O
+by	O
+safeway	B-CORP
+or	O
+its	O
+subsidiaries	O
+
+#	id	676
+she	O
+made	O
+her	O
+first	O
+appearance	O
+on	O
+television	O
+at	O
+the	O
+age	O
+of	O
+three	O
+,	O
+in	O
+a	O
+bbc	B-CORP
+play	O
+.	O
+
+#	id	677
+toguz	O
+bulak	O
+is	O
+a	O
+village	O
+in	O
+osh	B-LOC
+region	I-LOC
+of	O
+kyrgyzstan	B-LOC
+.	O
+
+#	id	678
+they	O
+co	O
+starred	O
+in	O
+two	O
+of	O
+them	O
+bringing	B-CW
+up	I-CW
+baby	I-CW
+and	O
+the	B-CW
+philadelphia	I-CW
+story	I-CW
+.	O
+
+#	id	679
+it	O
+is	O
+found	O
+in	O
+sri	B-LOC
+lanka	I-LOC
+.	O
+
+#	id	680
+camford	O
+is	O
+,	O
+however	O
+,	O
+used	O
+as	O
+the	O
+name	O
+of	O
+a	O
+fictional	O
+university	O
+city	O
+in	O
+the	O
+sherlock	B-PER
+holmes	I-PER
+story	O
+the	B-CW
+adventure	I-CW
+of	I-CW
+the	I-CW
+creeping	I-CW
+man	I-CW
+.	O
+
+#	id	681
+franks	O
+was	O
+the	O
+running	O
+backs	O
+coach	O
+at	O
+the	O
+university	B-GRP
+of	I-GRP
+south	I-GRP
+florida	I-GRP
+from	O
+2004	O
+to	O
+2012	O
+under	O
+head	O
+coaches	O
+jim	B-PER
+leavitt	I-PER
+and	O
+skip	B-PER
+holtz	I-PER
+.	O
+
+#	id	682
+it	O
+flows	O
+south	O
+into	O
+the	O
+pará	B-LOC
+river	I-LOC
+,	O
+which	O
+connects	O
+the	O
+amazon	B-LOC
+to	O
+the	O
+tocantins	B-LOC
+river	I-LOC
+.	O
+
+#	id	683
+it	O
+is	O
+built	O
+close	O
+to	O
+the	O
+left	O
+bank	O
+of	O
+the	O
+pesnica	B-LOC
+southwest	O
+of	O
+the	O
+main	O
+settlement	O
+.	O
+
+#	id	684
+the	O
+film	O
+was	O
+partly	O
+based	O
+on	O
+irving	B-PER
+stone	I-PER
+1961	O
+biographical	O
+novel	O
+the	B-CW
+agony	I-CW
+and	I-CW
+the	I-CW
+ecstasy	I-CW
+.	O
+
+#	id	685
+trung	O
+was	O
+born	O
+in	O
+châu	B-LOC
+thành	I-LOC
+in	O
+1947	O
+.	O
+
+#	id	686
+in	O
+1991	O
+,	O
+general	B-CORP
+motors	I-CORP
+had	O
+a	O
+system	O
+installed	O
+at	O
+their	O
+oshawa	B-LOC
+plant	O
+and	O
+,	O
+as	O
+of	O
+1998	O
+,	O
+reported	O
+a	O
+savings	O
+of	O
+approximately	O
+$	O
+10,200	O
+per	O
+year	O
+.	O
+
+#	id	687
+in	O
+earlier	O
+years	O
+he	O
+had	O
+attended	O
+accra	B-LOC
+academy	I-LOC
+and	O
+upon	O
+completion	O
+had	O
+worked	O
+briefly	O
+for	O
+ghana	B-CORP
+post	I-CORP
+.	O
+
+#	id	688
+he	O
+invented	O
+the	O
+first	O
+all	O
+in	O
+one	O
+personal	B-PROD
+flotation	I-PROD
+device	I-PROD
+which	O
+included	O
+many	O
+features	O
+now	O
+accepted	O
+as	O
+standard	O
+including	O
+whistle	O
+,	O
+harness	O
+etc	O
+.	O
+
+#	id	689
+unknown	O
+félizé	B-PER
+regnard	I-PER
+,	O
+courtier	O
+and	O
+royal	O
+mistress	O
+(	O
+died	O
+1474	O
+)	O
+
+#	id	690
+guisado	O
+shot	O
+an	O
+uzi	B-PROD
+through	O
+the	O
+window	O
+,	O
+hitting	O
+him	O
+multiple	O
+times	O
+.	O
+
+#	id	691
+the	O
+brand	O
+still	O
+exists	O
+though	O
+,	O
+and	O
+belongs	O
+to	O
+the	O
+department	B-GRP
+for	I-GRP
+transport	I-GRP
+.	O
+
+#	id	692
+he	O
+rode	O
+35	O
+,	O
+14	O
+of	O
+which	O
+with	O
+rené	B-PER
+pijnen	I-PER
+,	O
+winning	O
+15	O
+.	O
+
+#	id	693
+the	O
+ball	O
+is	O
+pac-man	B-CW
+,	O
+who	O
+rolls	O
+up	O
+into	O
+a	O
+ball	O
+and	O
+continues	O
+to	O
+collect	O
+pellets	O
+much	O
+like	O
+they	O
+did	O
+in	O
+earlier	O
+notes	O
+.	O
+
+#	id	694
+it	O
+is	O
+red	O
+in	O
+color	O
+and	O
+cherry	B-PROD
+strawberry	B-PROD
+flavor	O
+.	O
+
+#	id	695
+he	O
+played	O
+in	O
+ligue	B-CORP
+1	I-CORP
+with	O
+a.c.	B-GRP
+ajaccio	I-GRP
+.	O
+
+#	id	696
+club	O
+record	O
+holder	O
+and	O
+pointscorer	O
+hazem	B-PER
+el	I-PER
+masri	I-PER
+had	O
+retired	O
+at	O
+the	O
+end	O
+of	O
+the	O
+2009	O
+season	O
+and	O
+did	O
+not	O
+play	O
+in	O
+2010	O
+.	O
+
+#	id	697
+it	O
+extends	O
+laterally	O
+from	O
+north	O
+eastern	O
+british	B-LOC
+columbia	I-LOC
+through	O
+alberta	B-LOC
+and	O
+into	O
+southern	O
+saskatchewan	B-LOC
+and	O
+southern	O
+manitoba	B-LOC
+.	O
+
+#	id	698
+it	O
+was	O
+based	O
+in	O
+san	B-LOC
+francisco	I-LOC
+and	O
+later	O
+,	O
+it	O
+is	O
+headquartered	O
+in	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+.	O
+
+#	id	699
+the	O
+film	B-CW
+score	I-CW
+was	O
+composed	O
+by	O
+ira	B-PER
+newborn	I-PER
+.	O
+
+#	id	700
+it	O
+published	O
+literary	O
+works	O
+(	O
+including	O
+avetik	B-PER
+isahakyan	I-PER
+first	O
+book	O
+)	O
+,	O
+calendars	O
+,	O
+textbooks	O
+.	O
+
+#	id	701
+he	O
+was	O
+also	O
+a	O
+trustee	O
+of	O
+the	O
+ramakrishna	B-GRP
+math	I-GRP
+and	O
+a	O
+member	O
+of	O
+the	O
+governing	O
+body	O
+of	O
+the	O
+ramakrishna	B-GRP
+mission	I-GRP
+.	O
+
+#	id	702
+the	O
+series	O
+marked	O
+go	B-PER
+hyeon-jeong	I-PER
+acting	O
+comeback	O
+10	O
+years	O
+after	O
+she	O
+retired	O
+from	O
+the	O
+entertainment	O
+industry	O
+upon	O
+marriage	O
+to	O
+a	O
+chaebol	B-CORP
+(	O
+they	O
+divorced	O
+in	O
+2003	O
+)	O
+.	O
+
+#	id	703
+tric	O
+,	O
+a	O
+fictional	O
+nightclub	O
+from	O
+the	O
+television	O
+series	O
+one	B-CW
+tree	I-CW
+hill	I-CW
+
+#	id	704
+happy	B-CW
+end	I-CW
+–	O
+lyrics	O
+by	O
+bertolt	B-PER
+brecht	I-PER
+,	O
+music	O
+by	O
+kurt	B-PER
+weill	I-PER
+
+#	id	705
+her	O
+first	O
+credited	O
+role	O
+was	O
+featured	O
+in	O
+viva	B-CW
+villa!	I-CW
+.	O
+
+#	id	706
+the	O
+company	O
+also	O
+made	O
+moves	O
+in	O
+the	O
+market	O
+,	O
+such	O
+as	O
+the	O
+buying	O
+of	O
+smaller	O
+company	O
+nor-cargo	B-CORP
+,	O
+to	O
+compensate	O
+for	O
+the	O
+general	O
+decline	O
+in	O
+the	O
+sending	O
+of	O
+letters	O
+.	O
+
+#	id	707
+fitzgerald	O
+was	O
+a	O
+member	O
+of	O
+the	O
+directors	B-GRP
+guild	I-GRP
+of	I-GRP
+america	I-GRP
+.	O
+
+#	id	708
+he	O
+cited	O
+blade	B-CW
+runner	I-CW
+as	O
+a	O
+thematic	O
+and	O
+visual	O
+influence	O
+.	O
+
+#	id	709
+savage	O
+is	O
+a	O
+40	O
+page	O
+,	O
+magazine	O
+format	O
+comics	B-CW
+novel	O
+released	O
+in	O
+1968	O
+as	O
+a	O
+precursor	O
+to	O
+the	O
+modern	O
+graphic	B-CW
+novel	I-CW
+.	O
+
+#	id	710
+evangeline	O
+(	O
+david	B-PER
+hidalgo	I-PER
+,	O
+louie	B-PER
+pérez	I-PER
+)	O
+–	O
+3	O
+:	O
+19	O
+
+#	id	711
+rf	O
+electronic	B-PROD
+amplifier	I-PROD
+are	O
+used	O
+at	O
+intervals	O
+to	O
+overcome	O
+cable	O
+attenuation	O
+and	O
+passive	O
+losses	O
+of	O
+the	O
+electrical	O
+signals	O
+caused	O
+by	O
+splitting	O
+or	O
+tapping	O
+the	O
+coaxial	O
+cable	O
+.	O
+
+#	id	712
+respawn	O
+continued	O
+to	O
+support	O
+the	O
+game	O
+after	O
+its	O
+release	O
+,	O
+providing	O
+several	O
+updates	O
+and	O
+downloadable	B-CW
+content	I-CW
+.	O
+
+#	id	713
+both	O
+bank	O
+account	O
+and	O
+card	O
+,	O
+like	O
+vipps	B-CORP
+and	O
+mobilepay	B-CW
+(	O
+users	O
+with	O
+an	O
+account	O
+at	O
+the	O
+right	O
+bank	O
+can	O
+debit	O
+their	O
+account	O
+,	O
+while	O
+other	O
+users	O
+can	O
+debit	O
+their	O
+card	O
+)	O
+
+#	id	714
+the	O
+family	O
+subsequently	O
+lived	O
+in	O
+both	O
+england	B-LOC
+and	O
+france	B-LOC
+.	O
+
+#	id	715
+he	O
+hoarded	O
+dead	O
+birds	O
+,	O
+wore	O
+shirts	O
+with	O
+funeral	O
+announcements	O
+printed	O
+on	O
+them	O
+,	O
+and	O
+wore	O
+corpse	B-PROD
+paint	I-PROD
+,	O
+being	O
+the	O
+first	O
+in	O
+black	O
+metal	O
+to	O
+do	O
+so	O
+by	O
+some	O
+accounts	O
+.	O
+
+#	id	716
+:	O
+*	O
+firefly	O
+main	O
+stage	O
+:	O
+japandroids	B-GRP
+,	O
+jim	B-PER
+james	I-PER
+,	O
+alabama	B-GRP
+shakes	I-GRP
+,	O
+yeah	B-GRP
+yeah	I-GRP
+yeahs	I-GRP
+,	O
+tom	B-GRP
+petty	I-GRP
+and	I-GRP
+the	I-GRP
+heartbreakers	I-GRP
+
+#	id	717
+he	O
+worked	O
+as	O
+a	O
+head	O
+coach	O
+in	O
+the	O
+super	B-CORP
+league	I-CORP
+for	O
+the	O
+castleford	B-GRP
+tigers	I-GRP
+between	O
+2005	O
+and	O
+2011	O
+.	O
+
+#	id	718
+chynoweth	O
+was	O
+posthumously	O
+elected	O
+to	O
+the	O
+hockey	B-GRP
+hall	I-GRP
+of	I-GRP
+fame	I-GRP
+in	O
+2008	O
+.	O
+
+#	id	719
+the	O
+following	O
+month	O
+,	O
+she	O
+was	O
+traded	O
+to	O
+the	O
+houston	B-GRP
+dash	I-GRP
+in	O
+exchange	O
+for	O
+midfielder	O
+ashley	B-PER
+nick	I-PER
+.	O
+
+#	id	720
+they	O
+contain	O
+a	O
+white	O
+latex	B-PROD
+.	O
+
+#	id	721
+it	O
+has	O
+been	O
+used	O
+,	O
+firstly	O
+for	O
+the	O
+united	B-LOC
+kingdom	I-LOC
+and	O
+,	O
+since	O
+1945	O
+,	O
+of	O
+the	O
+united	B-LOC
+states	I-LOC
+of	I-LOC
+america	I-LOC
+.	O
+
+#	id	722
+according	O
+to	O
+the	O
+conservancy	B-CORP
+association	I-CORP
+,	O
+some	O
+notable	O
+trees	O
+are	O
+located	O
+at	O
+:	O
+
+#	id	723
+it	O
+is	O
+an	O
+intermediate	O
+stop	O
+on	O
+the	O
+gauge	O
+furka–oberalp-bahn	B-LOC
+of	O
+the	O
+matterhorn	B-CORP
+gotthard	I-CORP
+bahn	I-CORP
+and	O
+is	O
+served	O
+by	O
+local	O
+trains	O
+only	O
+.	O
+
+#	id	724
+the	O
+novel	O
+was	O
+published	O
+in	O
+paris	B-LOC
+in	O
+two	O
+volumes	O
+.	O
+
+#	id	725
+no	O
+is	O
+a	O
+1962	O
+spy	B-CW
+film	I-CW
+directed	O
+by	O
+terence	B-PER
+young	I-PER
+.	O
+
+#	id	726
+it	O
+was	O
+described	O
+by	O
+commentators	O
+as	O
+a	O
+morris	B-PROD
+oxford	I-PROD
+six	I-PROD
+with	O
+a	O
+coachbuilt	O
+saloon	O
+body	O
+.	O
+4025	O
+examples	O
+of	O
+the	O
+1931	O
+model	O
+were	O
+produced	O
+followed	O
+by	O
+14,469	O
+of	O
+the	O
+1932	O
+33	O
+model	O
+.	O
+
+#	id	727
+all	O
+double	O
+deckers	O
+have	O
+a	O
+low-floor	B-PROD
+bus	I-PROD
+and	O
+a	O
+wheelchair	O
+ramp	O
+at	O
+the	O
+front	O
+door	O
+.	O
+
+#	id	728
+in	O
+1980	O
+,	O
+it	O
+was	O
+made	O
+into	O
+a	O
+cbs	B-CORP
+movie	O
+of	O
+the	O
+week	O
+,	O
+starring	O
+ralph	B-PER
+waite	I-PER
+and	O
+jennifer	B-PER
+jason	I-PER
+leigh	I-PER
+.	O
+
+#	id	729
+towards	O
+the	O
+end	O
+of	O
+his	O
+fifth	O
+term	O
+,	O
+he	O
+died	O
+and	O
+was	O
+replaced	O
+by	O
+arvid	B-PER
+johanson	I-PER
+.	O
+
+#	id	730
+the	B-CW
+mandelbaum	I-CW
+gate	I-CW
+,	O
+a	O
+novel	O
+by	O
+muriel	B-PER
+spark	I-PER
+
+#	id	731
+a	O
+reviewer	O
+for	O
+variety	B-CORP
+wrote	O
+that	O
+the	O
+film	O
+stacks	O
+up	O
+as	O
+promising	O
+entertainment	O
+with	O
+some	O
+reservations	O
+.	O
+
+#	id	732
+gil	O
+was	O
+defeated	O
+then	O
+by	O
+jo-wilfried	B-PER
+tsonga	I-PER
+.	O
+
+#	id	733
+not	O
+only	O
+is	O
+her	O
+style	O
+greatly	O
+admired	O
+and	O
+well	O
+recognized	O
+,	O
+today	O
+she	O
+is	O
+recognized	O
+as	O
+the	O
+most	O
+prolific	O
+souvenir	O
+/	O
+postcard	B-CW
+and	O
+greeting	B-PROD
+card	I-PROD
+artist	O
+of	O
+her	O
+era	O
+.	O
+
+#	id	734
+:	O
+2	O
+.	O
+browning	B-PROD
+hi-power	I-PROD
+production	O
+started	O
+in	O
+1935	O
+.	O
+
+#	id	735
+constructed	O
+in	O
+the	O
+late	O
+1920s	O
+and	O
+early	O
+1930s	O
+,	O
+it	O
+was	O
+one	O
+of	O
+the	O
+biggest	O
+investments	O
+of	O
+the	O
+second	B-LOC
+polish	I-LOC
+republic	I-LOC
+.	O
+
+#	id	736
+he	O
+gained	O
+two	O
+minutes	O
+on	O
+the	O
+remaining	O
+part	O
+of	O
+that	O
+climb	O
+,	O
+and	O
+had	O
+assistance	O
+from	O
+joost	B-PER
+posthuma	I-PER
+and	O
+maxime	B-PER
+monfort	I-PER
+,	O
+members	O
+of	O
+his	O
+team	O
+who	O
+had	O
+been	O
+in	O
+the	O
+early	O
+break	O
+.	O
+
+#	id	737
+the	O
+communist	B-GRP
+party	I-GRP
+of	I-GRP
+ireland	I-GRP
+was	O
+first	O
+founded	O
+in	O
+1921	O
+,	O
+and	O
+re	O
+founded	O
+in	O
+1933	O
+.	O
+
+#	id	738
+they	O
+concern	O
+a	O
+dialogue	O
+on	O
+love	O
+that	O
+is	O
+supposed	O
+to	O
+have	O
+happened	O
+at	O
+asolo	B-LOC
+near	O
+the	O
+court	O
+of	O
+aikaterini	B-PER
+cornaro	I-PER
+.	O
+
+#	id	739
+indonesia	B-LOC
+peacekeepers	O
+tried	O
+to	O
+no	O
+avail	O
+to	O
+calm	O
+the	O
+situation	O
+before	O
+the	O
+clashes	O
+erupted	O
+.	O
+
+#	id	740
+the	O
+bottle	O
+'s	O
+feet	O
+are	O
+shod	O
+in	O
+spats	B-PROD
+covered	O
+footwear	O
+and	O
+its	O
+label	O
+states	O
+,	O
+for	O
+keeping	O
+your	O
+clothes	O
+white	O
+and	O
+clean	O
+.	O
+
+#	id	741
+typically	O
+,	O
+there	O
+is	O
+a	O
+political	O
+arm	O
+(	O
+such	O
+as	O
+sinn	B-GRP
+féin	I-GRP
+or	O
+the	O
+national	B-GRP
+front	I-GRP
+for	I-GRP
+the	I-GRP
+liberation	I-GRP
+of	I-GRP
+south	I-GRP
+vietnam	I-GRP
+)	O
+that	O
+directs	O
+the	O
+military	O
+in	O
+planning	O
+carefully	O
+coordinated	O
+violence	O
+.	O
+
+#	id	742
+the	O
+following	O
+day	O
+a	O
+group	O
+of	O
+3,000	O
+marched	O
+to	O
+skipton	B-LOC
+and	O
+the	O
+military	O
+was	O
+again	O
+sent	O
+to	O
+intervene	O
+,	O
+with	O
+one	O
+soldier	O
+severely	O
+injured	O
+by	O
+the	O
+stone	O
+throwing	O
+crowd	O
+.	O
+
+#	id	743
+it	O
+had	O
+boarding	O
+gates	O
+for	O
+allegheny	B-CORP
+airlines	I-CORP
+on	O
+the	O
+second	O
+floor	O
+and	O
+baggage	O
+carousels	O
+on	O
+the	O
+first	O
+floor	O
+.	O
+
+#	id	744
+famously	O
+,	O
+they	O
+are	O
+an	O
+essential	O
+component	O
+of	O
+a	O
+full	B-PROD
+breakfast	I-PROD
+.	O
+
+#	id	745
+roman	O
+engineers	O
+later	O
+ran	O
+the	O
+course	O
+of	O
+dere	B-LOC
+street	I-LOC
+across	O
+the	O
+same	O
+neck	O
+of	O
+land	O
+.	O
+
+#	id	746
+traditional	O
+kue	B-PROD
+snacks	O
+—	O
+a	O
+collection	O
+of	O
+steamed	O
+or	O
+fried	O
+snacks	O
+with	O
+rice	O
+flour	O
+and	O
+coconut	O
+sugar	O
+based	O
+ingredients	O
+,	O
+exist	O
+in	O
+many	O
+forms	O
+.	O
+
+#	id	747
+she	O
+is	O
+a	O
+member	O
+of	O
+the	O
+republican	B-GRP
+party	I-GRP
+.	O
+
+#	id	748
+the	O
+kingdom	B-LOC
+of	I-LOC
+bavaria	I-LOC
+is	O
+established	O
+by	O
+napoleon	B-PER
+.	O
+
+#	id	749
+energy	B-GRP
+and	I-GRP
+resources	I-GRP
+institute	I-GRP
+provided	O
+all	O
+technical	O
+inputs	O
+and	O
+took	O
+up	O
+the	O
+complete	O
+execution	O
+of	O
+research	O
+,	O
+development	O
+,	O
+and	O
+demonstration	O
+.	O
+
+#	id	750
+it	O
+is	O
+operated	O
+under	O
+contract	O
+by	O
+transdev	B-CORP
+group	I-CORP
+.	O
+
+#	id	751
+that	O
+year	O
+love	B-CW
+camp	I-CW
+7	I-CW
+was	O
+also	O
+among	O
+the	O
+first	O
+pure	O
+exploitation	B-CW
+film	I-CW
+that	O
+influenced	O
+the	O
+women	O
+in	O
+prison	O
+and	O
+nazi	B-CW
+exploitation	I-CW
+genres	O
+.	O
+
+#	id	752
+murphy	O
+played	O
+his	O
+club	O
+hurling	O
+and	O
+football	O
+with	O
+nemo	B-GRP
+rangers	I-GRP
+gaa	I-GRP
+and	O
+enjoyed	O
+much	O
+success	O
+during	O
+a	O
+golden	O
+age	O
+for	O
+the	O
+club	O
+.	O
+
+#	id	753
+michaels	O
+,	O
+who	O
+spent	O
+seven	O
+seasons	O
+working	O
+backup	O
+games	O
+,	O
+was	O
+apparently	O
+very	O
+miffed	O
+over	O
+espn	B-CORP
+on	I-CORP
+abc	I-CORP
+delay	O
+in	O
+announcing	O
+him	O
+as	O
+their	O
+top	O
+baseball	O
+announcer	O
+.	O
+
+#	id	754
+the	O
+song	O
+was	O
+featured	O
+on	O
+the	O
+video	O
+game	O
+,	O
+dj	B-CW
+hero	I-CW
+2	I-CW
+.	O
+
+#	id	755
+texas	O
+built	O
+a	O
+monument	O
+to	O
+him	O
+there	O
+in	O
+1936	O
+,	O
+and	O
+his	O
+remains	O
+were	O
+later	O
+moved	O
+to	O
+washington-on-the-brazos	B-LOC
+.	O
+
+#	id	756
+is	O
+a	O
+purported	O
+book	O
+of	O
+secrets	O
+describing	O
+the	O
+teachings	O
+of	O
+the	O
+tea	O
+saint	O
+,	O
+sen	B-PER
+no	I-PER
+rikyū	I-PER
+.	O
+
+#	id	757
+eiji	B-PER
+tsuburaya	I-PER
+directed	O
+the	O
+special	O
+effects	O
+for	O
+the	O
+first	O
+six	O
+films	O
+of	O
+the	O
+series	O
+.	O
+
+#	id	758
+the	O
+song	O
+was	O
+originally	O
+performed	O
+by	O
+the	O
+chizbatron	B-GRP
+with	O
+gideon	B-PER
+singer	I-PER
+as	O
+a	O
+soloist	O
+.	O
+
+#	id	759
+the	O
+tram	B-PROD
+leaves	O
+every	O
+five	O
+minutes	O
+and	O
+it	O
+takes	O
+approximately	O
+15	O
+minutes	O
+to	O
+travel	O
+to	O
+the	O
+city	O
+.	O
+
+#	id	760
+b.	B-PER
+f.	I-PER
+skinner	I-PER
+’s	O
+radical	O
+behaviorism	O
+also	O
+has	O
+not	O
+established	O
+a	O
+systematic	O
+relationship	O
+to	O
+traditional	O
+psychology	O
+knowledge	O
+.	O
+
+#	id	761
+he	O
+is	O
+portrayed	O
+in	O
+two	O
+of	O
+william	B-PER
+shakespeare	I-PER
+plays	O
+:	O
+henry	B-CW
+vi,	I-CW
+part	I-CW
+3	I-CW
+and	O
+richard	B-CW
+iii	I-CW
+.	O
+
+#	id	762
+the	O
+song	O
+was	O
+the	O
+theme	O
+from	O
+the	O
+film	O
+foreign	B-CW
+intrigue	I-CW
+.	O
+
+#	id	763
+he	O
+attended	O
+a	O
+missionary	O
+school	O
+in	O
+stavanger	B-LOC
+from	O
+which	O
+he	O
+graduated	O
+in	O
+1946	O
+.	O
+
+#	id	764
+he	O
+was	O
+also	O
+an	O
+active	O
+member	O
+of	O
+the	O
+hovevei	B-GRP
+zion	I-GRP
+organization	O
+.	O
+

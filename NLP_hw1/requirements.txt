@@ -1,0 +1,13 @@
+Flask==2.0.3
+requests==2.27.1
+scikit-learn==1.0.2
+numpy==1.21.5
+tqdm==4.63.0
+torch==1.9.0+cu111
+rich==12.0.0
+seqeval==1.2.2
+gensim
+nltk
+matplotlib
+# package location
+--find-links https://download.pytorch.org/whl/torch_stable.html
